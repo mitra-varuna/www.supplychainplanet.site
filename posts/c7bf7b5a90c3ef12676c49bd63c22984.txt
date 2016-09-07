@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Tracking the status of ocean shipments accurately and in real time is critical to the goal of achieving end-to-end visibility into global supply chains.  Yet this operational Holy Grail remains elusive, despite advances in information technology. A hurdle to this goal that individual organizations can address, is the inability of companies to measure the value of visibility to [&#8230;]

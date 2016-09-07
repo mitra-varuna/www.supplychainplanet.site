@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Optimizing inventory management policies can achieve dramatic reductions in operational costs, yet many companies leave substantial savings on the table because they fail to develop the most efficient management policy for their business. “Finding the best policy to control inventory systems is a complex problem, but companies can develop solutions that are much closer to [&#8230;]

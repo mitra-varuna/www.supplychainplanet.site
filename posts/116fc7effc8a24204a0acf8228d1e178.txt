@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A Supply Chain Management (SCM) master&#8217;s program thesis research project carried out in collaboration with managed services provider OnProcess Technology, headquartered in Ashland, MA, found that by using Internet of Things (IoT) data to predict machine failures, companies can reduce spare part inventory volumes and improve their ability to meet service quality levels. The thesis [&#8230;]

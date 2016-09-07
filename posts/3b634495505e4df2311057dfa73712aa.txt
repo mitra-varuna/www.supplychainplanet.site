@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Through this blog, I’ve worked to raise awareness about the critical importance of integrating information and business processes across a business-to-business (B2B), or supply chain, network. It’s important because more supply chain business processes and information flows occur and reside throughout the external supply chain network, and needs to be integrated into internal systems, applications [&#8230;]<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/sg-Rf8-bo0o" width="1" />

@@ -1,0 +1,10 @@
+.. raw:: html
+
+    <p></p><p>Our philosophy is, “You give to us. We give to You.” This is how our research process works. It is unique. We believe in Open Content. Unlike other analyst firms, we do not believe that research should be locked behind a firewall.</p>
+    <p>When you see us field a research study you will know three things:</p>
+    <ol>
+    <li><strong>Confidence.</strong> Your responses are held in confidence. We only report the data in aggregate. We never share individual responses or company names.</li>
+    <li><strong>Gain New Insights</strong>. We share all of the research widely in our community, <a href="http://beetfusion.com/" target="_blank" title="Beet Fusion community">Beet Fusion</a>, and on our website. However, if you fill out a survey response you will also get the opportunity to share the insights with a handpicked peer group. This allows you to gain new insights and build networking contacts.</li>
+    <li><strong>Help Advance Supply Chain Management.</strong> In all of our surveys we correlate the responses to financial results. We are trying to crack the code on what drives supply chain excellence. By filling out the survey, you help.</li>
+    </ol>
+    <p>Currently we have two active research studies: One on the management of <a href="http://www.survey.supplychaininsights.com/di/cgi-bin/ciwweb.pl?StudyName=dmt1601&amp;u=sciws" target="_blank" title="Direct Material Sourcing Study">direct materials and sourcing</a> and another on the <a href="http://www.survey.supplychaininsights.com/dc/cgi-bin/ciwweb.pl?StudyName=dsu1601&amp;u=sciws" target="_blank" title="Decision Making Solutions Study">evolution of enterprise cross-functional planning</a>. We would love your help. We hope to have you join us in the roundtable discussion.</p>
