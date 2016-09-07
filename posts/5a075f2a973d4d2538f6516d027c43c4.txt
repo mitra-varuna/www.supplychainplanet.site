@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Pizza delivery drones, toxic haze and endangered elephants, the supply chain week in numbers   <a href="http://buff.ly/2bKefWH">http://buff.ly/2bKefWH&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/cCAqjAyWlY">pic.twitter.com/cCAqjAyWlY</a></p> <img src="https://pbs.twimg.com/media/CrW6oTlW8AIKCah.jpg" width="250" />

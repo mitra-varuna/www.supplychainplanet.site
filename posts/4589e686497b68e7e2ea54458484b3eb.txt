@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Supply chain executives out of step on change readiness  <a href="http://buff.ly/2bKd0XF">http://buff.ly/2bKd0XF&nbsp;</a></p>

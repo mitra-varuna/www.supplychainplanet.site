@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">The pros and cons of implementing e-procurement   <a href="http://buff.ly/2bSPOF3">http://buff.ly/2bSPOF3&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/M7aO3p1saJ">pic.twitter.com/M7aO3p1saJ</a></p> <img src="https://pbs.twimg.com/media/Crma2vHW8AAuQxh.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">A Facebook satellite bringing broadband to Africa is destroyed in rocket explosion   <a href="http://buff.ly/2bKcrNy">http://buff.ly/2bKcrNy&nbsp;</a></p>
