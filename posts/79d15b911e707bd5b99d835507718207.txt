@@ -1,0 +1,5 @@
+.. raw:: html
+
+    <p><em><strong>By Jay Jayaraman, Dinesh Natarajan, Mike Romeri and Tom Zych</strong></em></p> 
+    <p><span>Sales and Operations Planning (S&amp;OP) is a process that has been deployed primarily to align different functions around the best plan they could identify, working together as collaboratively as possible.&nbsp; Many standard and emerging analytic techniques can be employed to supercharge performance and optimize S&amp;OP decision making.&nbsp; </span></p>  
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fwhats-next-for-sop&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

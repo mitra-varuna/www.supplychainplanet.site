@@ -1,0 +1,35 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>Today the focus is all on the research.</p>
+    
+    	<h5>Research</h5>
+    
+    	<p>And a lot of new research came out this week.
+    	<ul>
+    		<li>&#8220;When Supply-Chain Disruptions Matter&#8221; was published by Ananth Raman of the Harvard Business School. (<a href="http://hbswk.hbs.edu/item/7061.html" title="Working Papers: When Supply-Chain Disruptions Matter"><span class="caps">HBS</span> Working Knowledge</a>)<br />
+    <blockquote><br />
+    Supply-chain disruptions have a material effect on company value, but this impact can vary considerably. Thus, it is important for managers and investors to recognize the types of disruptions and the organizational factors that lead to the worst outcomes. Prior research remains unsettled as to whether improvements to firm operational efficiency aggravate or alleviate the impact of disruptions. Improved operational efficiency may leave firms more exposed when a disruption occurs, or it may improve firms&#8217; agility and allow them to respond more effectively to a disruption. We hypothesize that the impact of improved operational efficiency depends on whether the disruption is due to factors that are internal versus external to the firm and its supply chain. We use a sample of over 500 disruptions collected from company press releases and find empirical evidence that a higher rate of improvement in operating performance aggravates the impact of internal disruptions but not external disruptions. By taking advantage of an exogenous policy shock regarding corporate disclosure rules, we also find that managers show systematic bias in the disruptions they choose to announce, and we control for this effect in our model specifications.<br />
+    </blockquote></li>
+    	</ul></p>
+    
+    	<ul>
+    		<li>Also have a look at a new PhD dissertation by Leah J. Bovell &#8220;Joint Resolution of Supply Chain Risks: The Role of Risk Characteristics and Problem Solving Approach&#8221;. (<a href="http://digitalarchive.gsu.edu/cgi/viewcontent.cgi?article=1023&amp;context=marketing_diss&amp;sei-redir=1&amp;referer=http%3A%2F%2Fscholar.google.de%2Fscholar_url%3Fhl%3Den%26q%3Dhttp%3A%2F%2Fdigitalarchive.gsu.edu%2Fcgi%2Fviewcontent.cgi%253Farticle%253D1023%2526context%253Dmarketing_diss%26sa%3DX%26scisig%3DAAGBfm0mMRqoFsX_geSU1WxnyfBVOOHMdw%26oi%3Dscholaralrt#search=%22http%3A%2F%2Fdigitalarchive.gsu.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1023%26context%3Dmarketing_diss%22" title="GSU: Joint Resolution of Supply Chain Risks: The Role of Risk Characteristics and Problem Solving Approach">Georgia State University</a>)<br />
+    <blockquote><br />
+    The purpose of this study is to examine the disruption risk resolution process in supply chains; specifically, to assess how risk attributes impact the approach firms select to resolve risks and the associated final outcomes.<br />
+    We propose that high magnitude risks are positively associated with mutually beneficial problem resolution; on the other hand, low likelihood risks have the opposite effect, they are negatively associated with mutually beneficial resolution. Our conceptual contribution lies in our articulation of the mechanisms though which risk magnitude and risk likelihood impact mutual problem resolution. We posit that high magnitude risks and low likelihood (uncommon) risks mobilize the social network of actors, triggering vigilant monitoring for risks, communication among actors and across firm boundaries, and resource sharing and coordination which facilitate collaborative problem solving and mutual resolutions. These mobilization mechanisms help supply chain partners to overcome the challenges of complexity and allow for information and resource flows among actors and between firms.<br />
+    Our statistical analysis demonstrates that the impact of risk attributes on mutual problem solutions is fully mediated by timely problem identification and collaborative problem solving.<br />
+    </blockquote></li>
+    		<li>Accenture has published a white paper on &#8220;Managing Supply Chain Risk Better&#8221;. (<a href="http://www.accenture.com/us-en/Pages/insight-managing-risks-supply-chain-reaching-new-standards.aspx?c=mc_twtposts_10000331&amp;n=smc_0612&amp;sf5422993=1" title="White paper: Managing Risks in the Supply Chain">Accenture</a>)</li>
+    	</ul>
+    
+    	<p>Enjoy your weekend.
+       </p></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/twi">twi</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/disruption">disruption</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/research">research</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--9" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--18" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--9" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-Ahk74HQz1f5Ccu_bRTvjn7ehNYbJ19ik04kEIV_PdGw" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

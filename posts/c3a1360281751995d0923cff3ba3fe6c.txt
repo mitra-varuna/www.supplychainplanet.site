@@ -1,0 +1,8 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/popular-ops-rules-blogs-of-2015" title=""> <img alt="Popular OPS Rules Blogs of 2015" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/blogpic.jpg" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>     
+    <p>&nbsp;</p> 
+    <p>Our team has been busy with cutting-edge supply chain and operations analytics projects in 2015. These experiences have been reflected on our blogs and have been well received by readers. They cover a wide&nbsp;range of operations topics that OPS Rules engages in with clients including price optimization, multi echelon inventory, network design and segmentation. &nbsp;The industries we work with range from eCommerce/retail, CPG, medical devices to industrial.</p>    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fpopular-ops-rules-blogs-of-2015&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

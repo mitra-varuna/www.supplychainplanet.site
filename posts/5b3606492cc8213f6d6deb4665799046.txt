@@ -1,0 +1,82 @@
+.. raw:: html
+
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>This week I would like to think about the future of supply chain management. Cox and Lamming wrote a corresponding article titled: &#8220;Managing supply in the firm of the future&#8221;.</p>
+    
+    	<h5>Methodology</h5>
+    
+    	<p><a href="http://www.larry.denenberg.com/predictions.html" title="Who said it">It is difficult to make predictions, especially about the future</a>. So to infer about future development the authors use case studies and historical analysis.</p>
+    
+    	<h5>Short history of corporate sourcing</h5>
+    
+    	<p>Within the last century business models have changed quite a lot in nearly all industries.<br />
+    Aa hundred years ago industries like watchmaking were focussed on small customer niches with few and wealthy customers accustomed to great service. <br />
+    This changed with industrialization and the advent of mass production (and mass services).<br />
+    Companies thrived in an environment where new customers were less sophisticated, labor was cheap and plenty and supply compliant.</p>
+    
+    	<p>With the rise of the customer (&#8220;The customer is always right&#8221;) this changed, when customers demanded even faster, smaller and cheaper products.</p>
+    
+    	<blockquote>
+    		<p>The model of purchasing born in the early decades of this century, during the heady days of mass production, has lasted almost unchanged to this day. It is based upon the purchaser having a wide spread of potential suppliers, each of whom is able to supply in accordance with a specification, without deviating from it. When it appeared that the customer was not able to provide this specification, the supplier&#8217;s expertise could either be bought (leading to the birth of the vertically integrated mass production leviathans) or extracted under the threat of loss of business within the customer&#8217;s supply market.</p>
+    	</blockquote>
+    
+    	<h5>Themes for future development</h5>
+    
+    	<p>In research four key themes emerged in the conceptual development of the management of &#8220;supply chains&#8221;. These should form the basis for the future development of the perception of the supply function.</p>
+    
+    	<p><strong>Theme 1: It is necessary to take a total supply chain view</strong><br />
+    Key insights:
+    	<ul>
+    		<li>&#8220;The consumer is perceived to be at the end of a supply chain&#8212;a series of value-adding events and activities that leads to the provision of a desirable&#8212;valuable&#8212;product or service.&#8221;</li>
+    		<li>&#8220;Supply chain management is [&#8230;] a process of realignment of activities, from each firm&#8217;s point of view, in order to reduce value losses, so that the output from the total chain satisfies the consumer and results in the success of all parties to the chain.&#8221;</li>
+    		<li>&#8220;Within the [value] stream are barriers&#8212;interfaces between companies. The management imperative is thus to design those interfaces with minimum impediment, to allow value to flow.&#8221;</li>
+    	</ul></p>
+    
+    	<p><strong>Theme 2: The chain is an unsatisfactory metaphor: the firm is part of a network</strong><br />
+    Key insights:
+    	<ul>
+    		<li>&#8220;The so-called &#8216;chains&#8217; often contain looped relationships (where the customer is also a supplier to the supplier), lateral links (where the supplier is a supplier to both the customer and another supplier), dependencies (where the performance of one supplier is intrinsically linked to that of another) and other non-linear facets which deny the convenience of thinking in simple terms.&#8221;</li>
+    		<li>&#8220;Adopting a network perspective can lead to perceiving supplier relationships as indistinguishable from customer relationships.&#8221;</li>
+    		<li>&#8220;The contribution of the network metaphor to understanding the matter to managing value comes from its method of grappling with complexity.&#8221;</li>
+    	</ul></p>
+    
+    	<p><strong>Theme 3: The firm concentrates on its core competencies and outsources everything else</strong><br />
+    Key insights:
+    	<ul>
+    		<li>&#8220;Managers have, for some time, been encouraged to view their firms as a combination of &#8216;core&#8217; competencies &#8211; those which it is deemed essential to own in order to compete in a market &#8211; and, by process of elimination, &#8216;non-core&#8217; competencies.&#8221;</li>
+    		<li>&#8220;[&#8230;] the issue of whether to &#8216;make or buy&#8217; is not straightforward; it is always a problematic issue for the firm which may be resolved either through vertical integration or through outsourcing. The key strategic deci- sion for the firm is to decide what the boundaries should be between the two extremes of internal or external contract.&#8221;</li>
+    	</ul></p>
+    
+    	<p><strong>Theme 4: The firm is an unsatisfactory unit of analysis: the flow of value takes place in a loosely aligned array of assets and competencies over which no one commercial organization has ultimate control</strong><br />
+    Key insights:
+    	<ul>
+    		<li>&#8220;The further away from the core competencies of the firm, the less there is a need for medium asset specific skills to be vertically integrated, and thus the more support may be expected for outsourcing the activity.&#8221;</li>
+    		<li>&#8220;[&#8230;] firms are best viewed as a &#8216;nexus of contracts&#8217;. The importance of this interpretation is that it forces us to see firms not as fixed entities, existing as objects within a static market structure, but as potentially fluid and flexible constructs whose internal structures and external boundaries may change as circumstances dictate and opportunities require.&#8221;</li>
+    	</ul></p>
+    
+    	<h5>Outlook</h5>
+    
+    	<p>The themes sketched above lead the authors to several conclusions about the future outlook of supply (chain) management.<br />
+    <blockquote>
+    	<ul>
+    		<li>The future role of negotiation, contracting, and developing incentives will, if the analysis presented here is correct, be of immense importance for the future success of firms. This arises primarily from the insights of transaction cost and agency theory, and the realisation that the boundaries of the firm are not, nor should be, fixed in time or space.</li>
+    		<li>This means that in the future there will be a definite need for professional managers trained in the arts of &#8211; and perhaps with a &#8216;nose&#8217; for &#8211; assessing the relative costs and benefits of internal and external contracts for the successful achievement of a sustainable position on specific supply and value chains</li>
+    		<li>The first task in a strategic supply management approach is to undertake value chain positioning. This refers to the process by which the key decision makers within a firm consciously undertake market positioning through an analysis of the totality of supply and value relationships within their markets. This is achieved through the use of margin-cost analysis.<br />
+    </blockquote></li>
+    	</ul></p>
+    
+    	<h5>Conclusion</h5>
+    
+    	<p>This article was published 15 years ago and it draws the picture of a future with fluid ever-changing interfaces between companies. Where companies are steered as a collection of contracts.<br />
+    When I read the article I was amazed how good the selected themes still fit the current development. Even though some parts of the &#8220;predictions&#8221; seem to have come true (eg. the professionalization of supply chain management), my overall impression is that organizational hurdles prevent companies from being shaped in this way.<br />
+    But this also may only be a matter of time.</p></div></div></div><div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/pubthumb/2006WagnerDominantRisksAndRiskManagementPracticesInSupplyChains_0.png?itok=eXzlbURD" width="80" /></div></div></div><div class="field field-name-field-research-blogging field-type-text-long field-label-inline clearfix"><div class="field-label">Reference:&nbsp;</div><div class="field-items"><div class="field-item even"><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=European+Journal+of+Purchasing+%26+Supply+Management&amp;rft_id=info%3Adoi%2F10.1016%2FS0969-7012%2897%2900002-6&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Managing+supply+in+the+firm+of+the+future&amp;rft.issn=&amp;rft.date=1997&amp;rft.volume=3&amp;rft.issue=2&amp;rft.spage=53&amp;rft.epage=62&amp;rft.artnum=&amp;rft.au=Cox%2C+A.&amp;rft.au=Lamming%2C+R.&amp;rfe_dat=bpr3.included=1;bpr3.tags=Other%2CBusiness+Management%2C+Supply+Chain+Management">Cox, A., &amp; Lamming, R. (1997). Managing supply in the firm of the future <span style="font-style: italic;">European Journal of Purchasing &amp; Supply Management, 3</span> (2), 53-62 DOI: <a href="http://dx.doi.org/10.1016/S0969-7012(97)00002-6" rev="review">10.1016/S0969-7012(97)00002-6</a></span></p>
+    </div></div></div><div class="field field-name-field-user-rating field-type-fivestar field-label-above"><div class="field-label">Rate This:&nbsp;</div><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--5" method="post"><div><div class="clearfix fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--10" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option selected="selected" value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Fivestar rating field for readers to rate the content.</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--5" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-YuVA2trt944QKiOdnmy2I1dXmOXohTdB2Ja1oNcT3Bc" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/future">future</a></div></div></div><div class="field field-name-field-count-pixel field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><img alt="" height="1" src="http://vg06.met.vgwort.de/na/c86bb8444e22426887597972e4b6916c" width="1" /></p>
+    </div></div></div>

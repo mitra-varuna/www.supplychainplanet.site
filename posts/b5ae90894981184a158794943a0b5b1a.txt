@@ -1,0 +1,10 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/price-optimization-beyond-the-base-phase" title=""> <img alt="Price Optimization Beyond the Base Phase" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/Price_optimization.jpg" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>     
+    <p><em>By Mark Wahl and Neil Fernandes</em></p> 
+    <p><span>Retail and online sellers are dealing with a complex environment of competition while at the same time managing their own multi-channel environment.&nbsp;&nbsp;</span><span>These companies are already lean so there is not much room to cut costs. Therefore, the ability to increase revenue and improve margins through&nbsp;an advanced price optimization process can make a huge difference in their business.&nbsp;</span></p> 
+    <p>&nbsp;</p> 
+    <p style="text-align: left;">&nbsp;</p>    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fprice-optimization-beyond-the-base-phase&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

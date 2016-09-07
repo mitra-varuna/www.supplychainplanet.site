@@ -1,0 +1,9 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/the-difference-between-data-science-and-statistics" title=""> <img alt="The Difference between Data Science and Statistics" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/data_science_jokes.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>     
+    <p>I recently ran across a few interesting posts on LinkedIn and Twitter on the topic of data science and statistics, such as the ones below. While I found these posts funny and amusing, they reveal the general lack of understanding of the difference between data science and statistics.&nbsp;</p> 
+    <p>&nbsp;</p> 
+    <p>&nbsp;</p>    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fthe-difference-between-data-science-and-statistics&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

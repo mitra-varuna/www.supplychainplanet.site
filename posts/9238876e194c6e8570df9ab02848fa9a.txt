@@ -1,0 +1,51 @@
+.. raw:: html
+
+    <figure class="wp-caption alignleft" id="attachment_707" style="width: 159px;"><img alt="yzheng" class=" size-full wp-image-707 alignleft" src="https://mitscmprogram.files.wordpress.com/2016/02/yzheng.png?w=660" /><figcaption class="wp-caption-text">Yong Zheng, SCM Class of 2016</figcaption></figure>
+    <p>The thesis project is a central part of the master&#8217;s degree and a major component of the SCM experience that spans the full length of the program. These projects allow us to work with world-class organizations on innovative and challenging supply chain problems and produce results that can have considerable impact. This article will share an overview of the thesis project, some sample projects and an overall timeline, and shed light on some learning opportunities that can be gained from the experience.<span id="more-677"></span></p>
+    <p><strong>Real Projects with Real Companies</strong></p>
+    <p>Strong industry partnership is one of MIT Center for Transportation &amp; Logistics (MIT CTL) and SCM Program’s distinctive strengths. Industry partners not only hire actively from the program, but also provide the students with challenging problems as the foundation of their thesis projects. Companies get to tap into the latest developments in supply chain theory and practice through the students, under the guidance of advisors, and gain new perspectives and approaches to tackle their problems. The students benefit from hands-on experience working on real-world problems that companies are facing and turn these new insights into their thesis.</p>
+    <p>The companies we are working with span different industries, including retail, manufacturing, consumer products, food and beverage, and 3PL (3<sup>rd</sup> Party Logistics Provider), and include many of the big names around the globe, like Walmart, Procter &amp; Gamble, and Starbucks, just to name a few (for the list of company names, please visit: <a href="http://ctl.mit.edu/partnering_ctl/list_partners">http://ctl.mit.edu/partnering_ctl/list_partners</a>). The thesis scopes also cover numerous key supply chain functions, including procurement, forecasting, inventory modeling, transportation and logistics, etc. (For executive summaries of past research projects, please visit: <a href="http://scm.mit.edu/research/thesis_project">http://scm.mit.edu/research/thesis_project</a>)</p>
+    <p><strong>Project Examples</strong></p>
+    <p>The project my partner and I are working on is about prioritizing inbound transportation for a major retailer (per non-disclosure agreements, some of the thesis company names have to remain anonymous). It was one of my top choices when I was bidding on the projects, as I wanted to learn more about logistics and work with a large retailer to expand both my industry and functional expertise.</p>
+    <p>The company wants a logic they can use to determine the prioritization of inbound transportation loads under trucking capacity constraints. More specifically, we are trying to answer the question: &#8220;If there are three loads to be picked up, but only two trucks are available, which two loads get the higher priority?&#8221; The issue is complex due to the various stakeholders involved, each with very different and sometimes conflicting interests. We are developing a multi-criteria, decision-making model using the analytic hierarch process (AHP) to help solve the problem.</p>
+    <p><strong>Overall Process</strong></p>
+    <p>The thesis process starts as early as orientation. During August, thesis companies will come in to present their companies and projects to the students, followed by networking mixers for more questions and answers. Students will then bid on the projects they are interested in in early September. Most kick-off meetings will take place by mid-to-end September, with on-site visits mostly happening by mid-October. From then on, students and their sponsors have regular conference calls for project updates.</p>
+    <p>January is when Research Expo is held, where students from the four centers of the MIT Global SCALE Network come together to present their thesis projects. It’s a unique opportunity for people to learn about cutting-edge supply chain issues within hours.</p>
+    <p>Spring will be heated with thesis writings and &#8220;rewritings,&#8221; as well as an executive summary and magazine summary, while regular update conference calls continue. We wrap up the projects later in Mid-May with Research Fest, where students present their findings and final recommendations to their thesis companies. Some may get invited back on-site to the company for another presentation.</p>
+    <figure class="wp-caption alignnone" id="attachment_668" style="width: 1000px;"><img alt="0100_8089" class="alignnone size-full wp-image-668" src="https://mitscmprogram.files.wordpress.com/2016/02/0100_8089.jpg?w=660" /><figcaption class="wp-caption-text">Presenting our posters at Research Expo 2016, held on January 20, 2016 this year.</figcaption></figure>
+    <p><strong>Problem Solving &amp; Research</strong></p>
+    <p>The thesis project is usually a blend of consulting/problem-solving and research, with the emphasis placed on research. On one hand, we help our thesis companies solve one of their most challenging problems and come up with practical solutions. On the other hand, we are also creating new knowledge to fill in a gap in the field and which can be applied to a broader context.</p>
+    <p>The journey is full of intellectual challenges. We start from a usually vague and complex problem. We engage stakeholders to ask exploratory questions to gather facts, conduct on-site visits to obtain context, collect detailed data to conduct in-depth analysis to gain insights, and develop hypotheses and test alternatives. Ultimately, we make the problem more clearly and rigorously defined, and uncover solutions along the way.</p>
+    <p>We also dive deep into research literature in the field to select and learn relevant analytical approaches and methodologies, and to understand what has been done in the field to identify the gaps and where our research may fit in. Intellectual property creation never lacks for frustration and excitement. Take literature review, for example. At one time, we were stuck with little progress in finding relevant research, but then we were overwhelmed with so many articles to read and absorb. At another time, we got excited about the potential contribution we were making to the field.</p>
+    <p><strong>Rich Learning Experience</strong></p>
+    <p>In addition to exercising our problem-solving and research skills, obtaining insights into an interesting problem at an industry/company, and receiving valuable guidance from our thesis advisors, we are also learning about:</p>
+    <ul>
+    <li><em>Project Management</em>
+    <ul>
+    <li>Manage the timeline, manage stakeholder engagement (with thesis company and thesis advisors), run regular (e.g. weekly) conference calls, follow through action items and push the project forward, etc.</li>
+    </ul>
+    </li>
+    <li><em>Communication and Writing Skills</em>
+    <ul>
+    <li>Frequent communications with high-level managers at the thesis company</li>
+    <li>A master-level thesis, executive summary, magazine summary, poster presentation during Research Expo in January and final presentation at Research Fest in May.</li>
+    </ul>
+    </li>
+    <li><em>Analytical Skills</em>
+    <ul>
+    <li>Use analytics tools for data analysis, for example, using Tableau for data visualization and JMP for regression and statistical analysis.</li>
+    <li>Articulate and present analytical insights in a way that makes more sense</li>
+    </ul>
+    </li>
+    <li><em>Learning from Each Other</em>
+    <ul>
+    <li>I personally benefit from working very closely with another smart and hardworking supply chain professional who has a different background than me yet provides a lot of interesting perspectives.</li>
+    </ul>
+    </li>
+    <li><em>Expanded Horizon</em>
+    <ul>
+    <li>Gain knowledge from a different industry, company or function</li>
+    </ul>
+    </li>
+    <li>Last but not least, some of research summary may get published in industry journals, adding another shining point on your resume, and some of the projects may lead to full-time job opportunities at the thesis company!</li>
+    </ul><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/mitscmprogram.wordpress.com/677/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/mitscmprogram.wordpress.com/677/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=mitscmprogram.wordpress.com&#038;blog=57100560&#038;post=677&#038;subd=mitscmprogram&#038;ref=&#038;feed=1" width="1" />

@@ -1,0 +1,23 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Last week I finally received fifty copies of my first own book: <em>Strategische Ansätze zur Risikoreduktion im Supply-Chain-Netzwerkdesign</em> (Strategic measures for supply chain risk reduction)</p>
+    
+    <p><strong>Synopsis</strong></p>
+    
+    <blockquote>
+      <p>Supply chain risks pose an increasing threat towards companies. In this dissertation strategies are developed to mitigate supply chain disruption risks. The foundation for this is created using a systematic literature review, expert interviews and several simulation case studies. The results show several factors influencing the strategy selection.</p>
+    </blockquote>
+    
+    <p>If you can read German, you can get your copy at <a href="http://www.amazon.de/Strategische-Ansätze-zur-Risikoreduktion-Supply-Chain-Netzwerkdesign/dp/3844102531/" title="Strategische Ansätze zur Risikoreduktion im Supply-Chain-Netzwerkdesign">amazon.de</a>.</p>
+    
+    <p>I also have some further risk-related articles I would like to write about, please be patient: With my daughter born in January and my new job at E.ON I am just barely able to read all of them at the moment.</p>
+    </div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/dissertation">dissertation</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--2" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option selected="selected" value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-XfTl8-gQ_W0vGc54ZwLzumN0ljPR24Ek1xvcqvqptgA" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

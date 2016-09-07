@@ -1,0 +1,9 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/the-biggest-challenge-in-retail-analytics" title=""> <img alt="The biggest challenge in Retail Analytics" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/Dilbert_on_data.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>     
+    <p><em>By Neil Fernandes and Sumeet Mahajan</em></p> 
+    <p>In our recent white papers on&nbsp;<a href="http://www.opsrules.com/CPGretail">Retail Analytics</a>,&nbsp;we discussed how advanced analytics is being applied successfully in the retail industry. We received a lot of feedback and questions from our readers, especially around <a href="http://feeds.feedburner.com/dynamic-pricing">dynamic pricing</a>. The most common theme in these questions was what is the biggest challenges that they would face during a dynamic pricing implementation?&nbsp;</p> 
+    <p>Our experience working on retail analytics projects tells us that data preparation is the longest step in almost all projects, and also one of the biggest challenges for a pricing project.&nbsp; Some of you would argue that building or testing models is the hardest step. But more often than not, it is the data preparation phase that takes the longest time, is resource intensive and forms the foundation of the type of meaningful algorithms that can be built.</p>    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fthe-biggest-challenge-in-retail-analytics&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

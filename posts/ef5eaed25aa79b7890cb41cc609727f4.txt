@@ -1,0 +1,32 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>Finally, the dissertation is complete. Last week I finished working on the comments and handed in the final work. The process now consists of three more steps that can take another three to four month: First, I have to do a (really) short presentation of my thesis topic. Second, I have to wait for two written evaluations by two professors of the university. Last, I have to defend my thesis, hopefully some time around December.</p>
+    
+    	<p>This week was again slow on new good articles. Since this did happen before I decided to change this format to a bi-weekly pattern. I hope this helps to keep the quality of the linked articles up.</p>
+    
+    	<h5>Already tweeted</h5>
+    
+    	<p>This week on twitter there was a lot of buzz about an article called <a href="http://www.automationworld.com/can-automation-reduce-supply-chain-risk" title="Automation World">Can Automation Reduce Supply Chain Risk?</a> Interesting question, but after skimming over it I decided not to join the hype.</p>
+    
+    	<p>Why?<br />
+    The article does summarize a study by the <span class="caps">EEF</span>, which I wrote about two weeks ago (<a href="http://scrmblog.com/content/insourcing-this-week-in-supply-chain-management-33-2012" title="SCRM Blog: Insourcing - This Week in Supply Chain Management - 33 / 2012">here</a>).<br />
+    Of course, there is nothing wrong with writing about old stuff. I do it all the time, as long as the topic might still be relevant.</p>
+    
+    	<p>But the problem is: the article called &#8220;Can Automation Reduce Supply Chain Risk?&#8221; does simply not answer the question posed&#8230; Beside the title there is not a single mention of the word <em>automation</em> in the rest of the article.</p>
+    
+    	<p>But still there were some interesting articles I already tweeted about this week:</p>
+    
+    	<ul>
+    		<li>Amazon Prime Primes Amazon to Crush Offline Retail | Wired Business <a href="http://www.wired.com/business/2012/08/amazon-prime-primes-amazon-to-crush-offline-retail/" title="Twitter">http://t.co/3JXWwROa</a></li>
+    		<li>Creating Value Through Supply-Chain Risk Management <a href="http://www.supplychainbrain.com/content/nc/technology-solutions/supply-chain-visibility/single-article-page/article/creating-value-through-supply-chain-risk-management-1/" title="Twitter">http://t.co/QRCQclYG</a></li>
+    		<li>Measuring Supply Chain Effectiveness <a href="http://blog.kinaxis.com/2012/08/measuring-supply-chain-effectiveness/" title="Twitter">http://t.co/5f6Tm8Rz</a></li>
+    	</ul></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/twi">twi</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/amazon">amazon</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--4" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--8" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option selected="selected" value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--4" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-Kw0XzhCBCM1HwPHno94WADknNO6g3RnBgn7vShhmCew" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

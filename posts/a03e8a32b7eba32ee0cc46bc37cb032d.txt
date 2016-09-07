@@ -1,0 +1,8 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/dynamic-pricing-a-major-key-to-retail-success" title=""> <img alt="Dynamic Pricing: A Major Key to Retail Success" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/Dynamic_Pricing_for_retail.jpg" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>     
+    <p><em>By Sumeet Mahajan and Neil Fernandes</em></p> 
+    <p>Retailers are busy implementing various new analytic approaches, from advanced forecasting to complex markdown techniques, as we discussed in<span>&nbsp;</span><a href="http://feeds.feedburner.com/retail-analytics"><strong>Analytics Opportunities for Success in Retail.</strong></a>&nbsp;But one approach that has been gaining the most attention of top retailers is dynamic pricing, also known as price optimization. And it is easy to understand why. There is no data-driven approach, today, that can have such a direct and significant impact on a retailer’s profitability as dynamic pricing. With that interest, and urgency, in mind, we discuss the type of executive and technical preparation required for a successful dynamic pricing initiative, detailed in <a href="http://feeds.feedburner.com/dynamic-pricing"><strong>Dynamic Pricing for Online Retail</strong></a><strong>. </strong></p>    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fdynamic-pricing-a-major-key-to-retail-success&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

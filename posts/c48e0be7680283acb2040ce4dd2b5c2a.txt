@@ -1,0 +1,18 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>I found one article this week, which I can commend.</p>
+    
+    	<ul>
+    		<li>Local productions seems to become more prominent with manufacturers. The article at BusinessGreen summarizes a <a href="http://www.businessgreen.com/digital_assets/5728/eef_report.pdf" title="EEF: Be Prepared">new study by the <span class="caps">EEF</span></a>. (<a href="http://www.businessgreen.com/bg/news/2198645/manufacturers-boost-local-supply-chain-to-tackle-disaster-risks" title="BG: Manufacturers boost local supply chain to tackle disaster risks">BusinessGreen</a>)<blockquote><br />
+    A new survey by <span class="caps">EEF</span>, the manufacturers&#8217; organisation, found that two-fifths of companies are bringing production back in-house, and a quarter have increased their use of local suppliers over the past three years, largely as a result of the recession and the impact of natural disasters, such as last year&#8217;s Japanese earthquake.<br />
+    </blockquote></li>
+    	</ul></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/twi">twi</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/insourcing">insourcing</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--7" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--14" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option selected="selected" value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--7" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-bpmhDmfpZceKUS2n8rQi9i0KS7PRWmzxvZ-1eQ0tgbI" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

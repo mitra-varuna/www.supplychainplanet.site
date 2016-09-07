@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Oracle has announced that it has signed an agreement to acquire LogFire, a provider of Cloud-based warehouse management applications. Upon closing, the addition of LogFire will complement the logistics, warehouse management and Omni-channel fulfillment capabilities of the Oracle SCM Cloud product suite by adding augmented warehouse management capabilities. As those who deal with supply chain [&#8230;]<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/l4Zxt7rpAr4" width="1" />

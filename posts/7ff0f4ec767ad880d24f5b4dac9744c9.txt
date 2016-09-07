@@ -1,0 +1,67 @@
+.. raw:: html
+
+    <div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/pubthumb/ComputersAndIndustrialEngineering2012CarvalhoSupplyChainRedesignForResilienceUsingSimulation.png?itok=4suxKFFZ" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>Today we have a look at current research regarding the improvement of resilience within a supply chain.<br />
+    In their 2012 paper &#8220;Supply chain redesign for resilience using simulation&#8221; Carvalho et al. analyze supply chain resilience on the basis off a Portuguese automotive parts manufacturer.</p>
+    
+    	<h5>Methodology</h5>
+    
+    	<p>As indicated by the paper&#8217;s title the authors main method is a simulation study. The simulation model is based on the results of a case study. Semistructured interviews were conducted to gather the relevant data off a Portuguese automotive supply chain.</p>
+    
+    	<p>But first, the authors analyze the current literature on supply chain design and resilience (figure 1).</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/carvalho_sc_design.png" title="An exemplary review of literature related to SC design."><img alt="An exemplary review of literature related to SC design." class="article_center" height="297" src="http://scrmblog.com/sites/default/files/resize/images/carvalho_sc_design-500x297.png" style="width: 500px;" title="An exemplary review of literature related to SC design." width="500" /></a><br />
+    <span class="image_comment">Figure 1: Literature Review Supply Chain Design (Carvalho et al., 2012)</span></p>
+    
+    	<h5>Simulation model</h5>
+    
+     The structure of the supply chain model is shown in figure 2. The Portuguese automaker has a capacity of over 180,000 vehicles per year and all vehicles are customized.
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/carvalho_structure.png" title="Case study supply chain."><img alt="Case study supply chain." class="article_center" height="307" src="http://scrmblog.com/sites/default/files/resize/images/carvalho_structure-500x307.png" style="width: 500px;" title="Case study supply chain." width="500" /></a><br />
+    <span class="image_comment">Figure 2: Supply Chain Structure (Carvalho et al., 2012)</span></p>
+    
+    	<p>Arena 9.0 in conjunction with Microsoft Excel has been used to implement the model of the supply chain.<br />
+    The processes which have been identified rely on the <span class="caps">SCOR</span> process definitions. Figure 3 shows the simulation model flowchart.</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/carvalho_process.png" title="Simulation model flowchart."><img alt="Simulation model flowchart." class="article_center" height="527" src="http://scrmblog.com/sites/default/files/resize/images/carvalho_process-500x527.png" style="width: 500px;" title="Simulation model flowchart." width="500" /></a><br />
+    <span class="image_comment">Figure 3: Supply Chain Processes (Carvalho et al., 2012)</span></p>
+    
+    	<p>Supplier lead-times were estimated together with the case study participants using triangular distributions (figure 4).</p>
+    
+    	<p>!(article_center){width:500px}http://scrmblog.com/sites/default/files/images/carvalho_input_data.png(Transportation time between SC entities (triangular distribution, in h).)!<br />
+    <span class="image_comment">Figure 4: Input Data Lead Times between Suppliers (Carvalho et al., 2012)</span></p>
+    
+    	<p>Performance was measured using two key performance indicators: lead-time and total cost.<br />
+    Overall six scenarios were designed by the authors. One containing the base scenario without using any strategy to reduce risk, one using a redundancy-strategy, and another one implementing a flexibility-strategy. These scenarios were then duplicated to generate one group with a disruption in the material flow between supplier 2_1 and 1_1 and another group without any disruption.</p>
+    
+    	<p>Figure 5 shows the total cost performance in different scenarios. Scenarios to 4 and 6 are affected by the disruption.</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/carvalho_results.png" title="Total Cost performance measure results."><img alt="Total Cost performance measure results." class="article_center" height="262" src="http://scrmblog.com/sites/default/files/resize/images/carvalho_results-500x262.png" style="width: 500px;" title="Total Cost performance measure results." width="500" /></a><br />
+    <span class="image_comment">Figure 5: Simulation Results in different Scenarios (Total Cost, Carvalho et al., 2012)</span></p>
+    
+    	<p>The authors conclude</p>
+    
+    	<blockquote>
+    		<p>Two strategies widely used to mitigate disturbance ad- verse effects on SCs were considered (flexibility and redundancy) and six scenarios were designed. To evaluate the different scenar- ios designed, two performance measures were defined and com- puted for each SC entity, Lead Time Ratio and Total Cost.<br />
+    The results of the simulation allowed to compare SC behavior after the occurrence of the disturbance under the two SC resilience design strategies. Both strategies are effective in reducing the neg- ative effects of the disturbance on SC performance. When the flexibility strategy is applied the Total Cost of the SC is less, in comparison with the redundancy strategy and the Lead Time Ratio is better. </p>
+    	</blockquote>
+    
+    	<h5>Conclusion</h5>
+    
+    	<p>Since my own research revolved in parts around  my own simulation model I have two comments on this specific implementation, but I would like to share with you:
+    	<ul>
+    		<li>I&#8217;ve seen this already in other papers: the description of the scenarios is really bad. For one there is no overview summarizing the key differences between each of these scenarios, furthermore the description of how these scenarios are implemented in the supply chain model lack in detail.</li>
+    		<li>Another key aspect to simulation modeling is the validation off the model&#8217;s output. In this case the authors  are using real input data from the case study, but there is no mention if they also compared the model&#8217;s output with the real supply chain.</li>
+    	</ul></p>
+    
+    	<p>The conclusion of the authors also highlights the difficulty of interpreting simulation results. What could one learn from this study? Redundancy and flexibility can be used to reduce risk?<br />
+    For me this insight does not qualify as a groundbreaking revelation. At least not in 2012.</p></div></div></div><div class="field field-name-field-research-blogging field-type-text-long field-label-inline clearfix"><div class="field-label">Reference:&nbsp;</div><div class="field-items"><div class="field-item even"><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Computers+%26+Industrial+Engineering&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cie.2011.10.003&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Supply+chain+redesign+for+resilience+using+simulation&amp;rft.issn=&amp;rft.date=2012&amp;rft.volume=62&amp;rft.issue=&amp;rft.spage=329&amp;rft.epage=341&amp;rft.artnum=&amp;rft.au=Carvalho%2C+H.&amp;rft.au=Barroso%2C+A.P.&amp;rft.au=Machado%2C+V.H.&amp;rft.au=Azevedo%2C+S.&amp;rft.au=Cruz-Machado%2C+V.&amp;rfe_dat=bpr3.included=1;bpr3.tags=Other%2CBusiness+Management%2C+Supply+Chain+Management">Carvalho, H., Barroso, A.P., Machado, V.H., Azevedo, S., &amp; Cruz-Machado, V. (2012). Supply chain redesign for resilience using simulation <span style="font-style: italic;">Computers &amp; Industrial Engineering, 62</span>, 329-341 DOI: <a href="http://dx.doi.org/10.1016/j.cie.2011.10.003" rev="review">10.1016/j.cie.2011.10.003</a></span></p>
+    </div></div></div><div class="field field-name-field-user-rating field-type-fivestar field-label-above"><div class="field-label">Rate This:&nbsp;</div><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--8" method="post"><div><div class="clearfix fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--16" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option selected="selected" value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Fivestar rating field for readers to rate the content.</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--8" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-gmMLCR_-qR_VmIg3aVy-robINNuAhBR7_GUuMLvv_3c" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/simulation">Simulation</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/design">design</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/strategy">strategy</a></div></div></div>

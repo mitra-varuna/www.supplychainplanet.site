@@ -1,0 +1,8 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/analytics-opportunities-for-success-in-retail" title=""> <img alt="Analytics Opportunities for Success in Retail" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/Retail_Analytics_Inforgraphic-1.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>    
+    <p><em>By Dinesh Natarajan, Sumeet Mahajan, Haresh Gopalan</em></p> 
+    <p>Analytics in retail has never been more important. Success is intricately tied to technological advancement that enables serving customers better at a lower cost. Every retailer is in a race against time and its competition to leverage data for significant revenue and profit growth. In this white paper, we will discuss different analytic approaches from advanced forecasting to markdowns, and their impact on the bottom line.</p>    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fanalytics-opportunities-for-success-in-retail&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />

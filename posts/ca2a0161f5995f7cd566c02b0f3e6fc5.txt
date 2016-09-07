@@ -1,0 +1,111 @@
+.. raw:: html
+
+    <div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/pubthumb/TN_International%20Journal%20of%20Physical%20Distribution%20and%20Logistics%20Management%202012%20Wieland%20Dealing%20with%20supply%20chain%20risks%20Linking%20risk%20management%20practices%20and%20strategies%20to%20performance.png?itok=K6dDMpFj" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p><em>Agility</em> and <em>robustness</em> are the concepts of choice if you want to reduce supply chain risks. In their upcoming paper (<a href="http://www.emeraldinsight.com/journals.htm?articleid=17047088" title="Emerald Insight: Dealing with supply chain risks: Linking risk management practices and strategies to performance">Dealing with supply chain risks: Linking risk management practices and strategies to performance</a>) Andreas Wieland and Carl Marcus Wallenburg analyze the effects of both of these concepts on customer value and business performance.</p>
+    
+    	<p>Since Andreas is a colleague of mine at the &#8220;Berlin University of Technology&#8221; he kindly provided me with a heads up.<br />
+    Actually, the paper has been named the most exiting paper of 2012 so far by the <a href="http://www.emeraldinsight.com/products/journals/journals.htm?id=ijpdlm">International Journal of Physical Distribution &amp; Logistics Management</a>.<br />
+    Here is what the <span class="caps">IJPDLM</span> has to say about it:</p>
+    
+    	<blockquote>
+    		<p>Probably the most important topic today in global distribution and <span class="caps">SCML</span> is the governance of risk across relationships. Andreas Wieland and Carl Marcus Wallenburg have written a very interesting manuscript titled, &#8220;Dealing with supply chain risks: Linking risk management practices and strategies to performance.&#8221; What managers need is the ability to justify when to and to not spend money on monitoring and governance practices. To build justification, a value understanding must be developed. This manuscript opens the door for expanded research in this area, while also generating interesting practical outcomes. Researchers should view this manuscript as a call for future research in <span class="caps">IJPDLM</span>.</p>
+    	</blockquote>
+    
+    	<p>There is also a short <a href="http://listmanager.emeraldinsight.com/t/26217/19660618/40934828/29/" title="Emerald Insight">video summary</a> of the article.</p>
+    
+    	<h5>Methodology</h5>
+    
+    	<blockquote>
+    		<p>The effects of supply chain risk management (<span class="caps">SCRM</span>) on the performance of a supply chain remain unexplored. It is assumed that <span class="caps">SCRM</span> helps supply chains to cope with vulnerabilities both proactively by supporting robustness and reactively by supporting agility. Both dimensions are assumed to have an influence on the supply chain’s customer value and on business performance. This research is aimed at providing clarity by empirically testing these hypotheses and scrutinizing the findings by the means of case studies.</p>
+    	</blockquote>
+    
+    	<p>The authors employ two empirical methods to assess this question:
+    	<ul>
+    		<li>First, a survey was conducted with 270 manufacturing companies from Europe.</li>
+    		<li>Second, these findings were then complemented by six case studies to explore the survey findings further and extend on them.</li>
+    	</ul></p>
+    
+    	<p>Figure 1 shows the process of the method selection.</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/wieland_research_concept.png" title="Utilized multi-method research design"><img alt="Utilized multi-method research design" class="article_center" height="195" src="http://scrmblog.com/sites/default/files/resize/images/wieland_research_concept-500x195.png" style="width: 500px;" title="Utilized multi-method research design" width="500" /></a><br />
+    <span class="image_comment">Figure 1: Research Concept (Wieland and Wallenburg, 2012)</span></p>
+    
+    	<h5>Building hypothesis: agility and robustness</h5>
+    
+    	<p>The authors analyze preventive and reactive strategies (figure 2).</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/wieland_robustness_agility.png" title="Examples for agile and robust measures"><img alt="Examples for agile and robust measures" class="article_center" height="173" src="http://scrmblog.com/sites/default/files/resize/images/wieland_robustness_agility-500x173.png" style="width: 500px;" title="Examples for agile and robust measures" width="500" /></a><br />
+    <span class="image_comment">Figure 2: Robustness and Agility to reduce Supply Chain Risks (Wieland and Wallenburg, 2012)</span></p>
+    
+    	<p>Based on the existing literature and research gaps the authors form the following hypotheses as a foundation for their research:
+    	<ul>
+    		<li>Supply chain risk management
+    	<ul>
+    		<li>H1a: Supply chain risk management has a positive effect on agility.</li>
+    		<li>H1b: Supply chain risk management has a positive effect on robustness.</li>
+    	</ul></li>
+    		<li>Supply chain&#8217;s customer value
+    	<ul>
+    		<li>H2a: Agility has a positive effect on the supply chain’s customer value.</li>
+    		<li>H2b: Robustness has a positive effect on the supply chain’s customer value.</li>
+    	</ul></li>
+    		<li>Business performance
+    	<ul>
+    		<li>H3a: Agility has a positive effect on business performance.</li>
+    		<li>H3b: Robustness has a positive effect on business performance.</li>
+    		<li>H4: Business performance is positively influenced by the supply chain’s customer value.</li>
+    	</ul></li>
+    	</ul></p>
+    
+    	<h5>Results</h5>
+    
+    	<p>The findings of the survey are shown in figure 3.</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/wieland_survey_results.png" title="Empirical results of hypotheses testing"><img alt="Empirical results of hypotheses testing" class="article_center" height="228" src="http://scrmblog.com/sites/default/files/resize/images/wieland_survey_results-500x228.png" style="width: 500px;" title="Empirical results of hypotheses testing" width="500" /></a><br />
+    <span class="image_comment">Figure 3: Resulting links between Research Concepts (Wieland and Wallenburg, 2012)</span></p>
+    
+    	<p>The hypotheses 1a and 1b are both supported, which reinforces the notion that agility and robustness are indeed used as measures in supply chain risk management.<br />
+    Both measures also have a positive impact on the supply chain&#8217;s customer value.<br />
+    On the other hand the link between agility and business performance cannot be supported for agility and only weakly supported for business performance.</p>
+    
+    	<p>The results of the case studies expand on these results. Figure 4 shows the case study participants.</p>
+    
+    	<p><a href="http://scrmblog.com/sites/default/files/images/wieland_case_study.png" title="Case characteristics"><img alt="Case characteristics" class="article_center" height="72" src="http://scrmblog.com/sites/default/files/resize/images/wieland_case_study-500x72.png" style="width: 500px;" title="Case characteristics" width="500" /></a><br />
+    <span class="image_comment">Figure 4: Case Study Participants (Wieland and Wallenburg, 2012)</span></p>
+    
+    	<blockquote>
+    		<p>In general, the cases revealed that all companies strive to be both agile and robust in order to utilize the specific advantages of each approach.</p>
+    	</blockquote>
+    
+    	<p>Interestingly, &#8220;the case studies show that robustness is rather required on the supplier side (i.e. upstream in a supply chain). For instance, multiple suppliers are helpful, if the quality of a component is low or a supplier has a high insolvency risk. This finding first of all implies that supplier-related risks tend to be more predictable as otherwise a proactive approach would not be feasible and effective.&#8221;</p>
+    
+    	<p>The following propositions are made as a summary of the case interviews:
+    	<ul>
+    		<li>P1: Realizing agility is an effective supply chain approach to deal with customer-related risks.</li>
+    		<li>P2: Realizing robustness is an effective supply chain approach to deal with supplier-related risks.</li>
+    		<li>P3: To be effective, the degree of agility and robustness needs to fit to the overall competitive strategy.</li>
+    	</ul></p>
+    
+    	<h5>Conclusion</h5>
+    
+    	<p>From my point of view, the nomination as most exciting paper of 2012 (so far) seems to be highly justified.<br />
+    The nomination as well as the high survey response rate of nearly 20% highlights the importance of supply chain risk management in the current research and practice.<br />
+    Beside the results, I especially liked the elaborate description of the methodological foundation both for the survey and the case study research.</p>
+    
+    	<p>I also found some points with the potential for improvement:<br />
+    First, the survey results show that there is no link between agility and business performance. On the other hand, the authors claim that the hypothesis on the linkage between robustness and business performance can be supported. However this happens on a very thin foundation the confidence level for this interpretation is quite low with a <a href="http://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Type_I_error" title="Wikipedia">error 1</a> probability of nearly 10%.</p>
+    
+    	<p>Second, a key conclusion of the paper is that robustness should be used for supply-side risks, agility for demand-side risks. However this result originates only from the case study interviews. From a formal point of view I would have wished that it would have also be supported by the survey results.</p>
+    
+    	<p>Third, there is a clear disadvantage to using only concepts (like agility and robustness) in one&#8217;s research, since those do leave a lot of room for further questions: What robustness measures are really improving the value for the customer? Are there also agility strategies which should be employed for supply side risks?</p>
+    
+    	<p>But these are only minor points, I really recommend you to read the paper: You can download the full (pre-publication) article <a href="http://www.emeraldinsight.com/journals.htm?articleid=17047088" title="Emerald Insight">here</a>. Click one of the following links, if you want to learn more about <a href="http://scrmblog.com/review/robust-strategies-for-mitigating-disruptions" title="SCRM Blog: Robust Strategies for Mitigating Disruptions">robustness</a> or <a href="http://scrmblog.com/review/measuring-agile-capabilities-in-the-supply-chain" title="SCRM Blog: Measuring agile Capabilities in the Supply Chain">agility</a>.</p></div></div></div><div class="field field-name-field-research-blogging field-type-text-long field-label-inline clearfix"><div class="field-label">Reference:&nbsp;</div><div class="field-items"><div class="field-item even"><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=International+Journal+of+Physical+Distribution+%26+Logistics+Management&amp;rft_id=info%3A%2F&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Dealing+with+supply+chain+risks%3A+Linking+risk+management+practices+and+strategies+to+performance&amp;rft.issn=&amp;rft.date=2012&amp;rft.volume=42&amp;rft.issue=10&amp;rft.spage=&amp;rft.epage=&amp;rft.artnum=&amp;rft.au=Wieland%2C+A.&amp;rft.au=Wallenburg%2C+C.M.&amp;rfe_dat=bpr3.included=1;bpr3.tags=Other%2CBusiness+Management%2C+Supply+Chain+Management">Wieland, A., &amp; Wallenburg, C.M. (2012). Dealing with supply chain risks: Linking risk management practices and strategies to performance <span style="font-style: italic;">International Journal of Physical Distribution &amp; Logistics Management, 42</span> (10)</span></p>
+    </div></div></div><div class="field field-name-field-user-rating field-type-fivestar field-label-above"><div class="field-label">Rate This:&nbsp;</div><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--3" method="post"><div><div class="clearfix fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--6" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option selected="selected" value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Fivestar rating field for readers to rate the content.</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--3" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-cSDupH09d5ctxKelvIvt1xHrA60-oLXcmo1ZdA4_BiI" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/robust">robust</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/agile">agile</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/methodology">methodology</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/design">design</a></div></div></div>

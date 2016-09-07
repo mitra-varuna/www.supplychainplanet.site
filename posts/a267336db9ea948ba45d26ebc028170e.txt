@@ -1,0 +1,32 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>This week I am busy including the feedback I received from my professor on my dissertation. Looks very promising. After a few days now I am already done and so I have time to prepare some related documents to boost the further graduation process.<br />
+    Articles are few this week, but if you are interested have a look at the following:</p>
+    
+    	<h5>Articles</h5>
+    
+    	<ul>
+    		<li>Have a look at the interview on &#8220;How to handle supply chain risk&#8221; in the offshore wind industry. (<a href="http://social.windenergyupdate.com/offshore-wind/how-handle-supply-chain-risk" title="WEU: How to handle supply chain risk">WindEnergyupdate</a>)</li>
+    	</ul>
+    
+    	<p>Also have a look at the articles I tweeted this week:</p>
+    
+    	<ul>
+    		<li>New research project <span class="caps">MIT</span> and PwC: Supply chain risk management <a href="http://www.supplychainmovement.com/new-research-project-mit-and-pwc-risk-management-and-the-executive-agenda/">http://t.co/leOdQ2Mz</a><br />
+    <blockquote><br />
+    PwC and Prof. David Simchi-Levi of <span class="caps">MIT</span> have launched a research initiative to study to which extent companies supply chain risk management practices are capturing the changing dynamics. Companies that participate in this initiative will be asked to fill out a survey and are able to meet peers at a state-of-the-art seminar.<br />
+    </blockquote></li>
+    		<li>Cavalcade of Risk #164 <a href="http://www.riskmanagementmonitor.com/cavalcade-of-risk-164/">http://t.co/1JByAiWE</a></li>
+    		<li>Companies swimming in Water Risk <a href="http://www3.cfo.com/article/2012/8/risk-management_water-risk-cfo-sarni-deloitte-energy?currpage=0">http://t.co/V6xxSyeC</a></li>
+    	</ul>
+    
+    	<p>Enjoy your weekend!</p></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/twi">twi</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/wind">wind</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--6" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--12" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--6" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-AlotIH4nXY8igp5iX2m4ciFAkQsGjSZHoxTkivewFEY" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

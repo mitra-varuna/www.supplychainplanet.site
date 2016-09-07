@@ -1,0 +1,30 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>The kayak tour last weekend was great. We had good weather and a lot of fun. Even though our boat lost in every speed competition.<br />
+    Afterwards we spent a night in Berlin, where I had the chance to eat dim sum (chinese dumplings) again at <a href="http://www.yumchaheroes.de" title="Yumcha Heroes">Yumcha</a>.  They remind me a lot of my semester in Hong Kong. Especially the Siu Mai.</p>
+    
+    	<h5>Research</h5>
+    
+    	<ul>
+    		<li>This week I found a new article on risk management in the chemical supply chain using agent-based modeling. (<a href="http://www.sciencedirect.com/science/article/pii/B9780444595065500456" title="SD: Mitigating Supply Disruption for a Global Chemical Supply Chain-Application of Agent-based Modeling">ScienceDirect</a>)<br />
+    <blockquote><br />
+    In today&#8217;s global and competitive markets, managing supply chain disruptions is a key factor in the success of any business. Disruption management, however, can be a challenging issue as disruptions can occur for a wide variety of reasons and the approaches to handle these risks are also ample. Moreover, evaluating the disruption impact and possible treatments is not a trivial task for a complex supply chain with many actors and different types of interactions. This calls for appropriate modeling and simulation frameworks. This paper presents a simulation-based risk analysis approach using an agent-based model and its application for a specific case of a lube oil supply chain.<br />
+    </blockquote></li>
+    	</ul>
+    
+    	<h5>Article</h5>
+    
+    	<ul>
+    		<li>Fox Business reports on potential risks in the supply chain of the french car maker Renault (<a href="http://www.foxbusiness.com/news/2012/07/27/renault-vulnerable-to-eventual-supply-chain-disruptions-tavares/" title="FB: Renault Vulnerable to Eventual Supply Chain Disruptions - Tavares">Fox Business</a>)</li>
+    	</ul>
+    
+    	<p>Enjoy your weekend!</p></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/twi">twi</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/car">car</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/research">research</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--10" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--20" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--10" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-6Co6mWOkQtocM76DYX0HSNPHnZHSp5PyTcNTsY83D9g" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

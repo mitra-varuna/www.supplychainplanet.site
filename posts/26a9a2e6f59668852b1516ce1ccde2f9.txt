@@ -1,0 +1,30 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="http://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">	<p>Let&#8217;s see if this new-biweekly publication pattern pays off. I think at lease the last two weeks produced some very interesting articles.<br />
+    <br /><br /><br /><br /></p>
+    
+    	<h5>Articles</h5>
+    
+    	<ul>
+    		<li>Just last week the new iPhone 5 has been announced. If you want to read a little bit more about the supply chain implications of its ultrafast global rollout, have a look at &#8220;Apple&#8217;s real iPhone 5 ace: Its supply chain&#8221; at <span class="caps">ZDN</span>et. (<a href="http://www.zdnet.com/apples-real-iphone-5-ace-its-supply-chain-7000004214/" title="ZDNet: Apple's real iPhone 5 ace: Its supply chain"><span class="caps">ZDN</span>et</a>)</li>
+    		<li>Contemplating the effects of the hottest US summer in memory, The Guardian writes about the necessity to think beyond the supply chain when building a sustainable business. (<a href="http://www.guardian.co.uk/sustainable-business/sustainable-businesses-think-beyond-supply-chains" title="The Guardian: Sustainable businesses need to think beyond their supply chains">Guardian</a>)</li>
+    		<li>Swiss Re claims that the losses related to floods now come close to those caused by earthquakes. &#8220;The $12 billion insured losses in Thailand really highlighted the potential for flood to cause extreme losses,” he says. “The insured losses corresponded to 1,800 percent of the country&#8217;s total annual property premium&#8221;. (<a href="http://www.insurancenetworking.com/news/flood-swiss-re-earthquakes-risk-management-30979-1.html" title="IN: Flood an Underestimated Risk">Insurance Networking</a>)</li>
+    	</ul>
+    
+    	<h5>Already tweeted</h5>
+    
+    	<ul>
+    		<li>René Descartes and supply chain management <a href="http://scmresearch.org/2012/09/13/rene-descartes-and-supply-chain-management/" title="Twitter">http://t.co/djF6UdPW</a></li>
+    		<li>The Evolving Role of the Risk Professional: A Panel Discussion at the 2012 <span class="caps">RIMS</span> Canada Conference <a href="http://www.riskmanagementmonitor.com/the-evolving-role-of-the-risk-manager/" title="Twitter">http://t.co/3M21FTtl</a></li>
+    		<li>Hans Lessoe Shares LEGO’s Risk Management Strategy at the 2012 <span class="caps">RIMS</span> Canada Conference <a href="http://www.riskmanagementmonitor.com/hans-lessoe-shares-legos-risk-management-strategy-at-the-2012-rims-canada-conference/" title="Twitter">http://t.co/xvopyHO</a></li>
+    		<li>For those who learn visually: Supply chain management infographics &amp; more <a href="http://www.scm-operations.com/p/infographics-more.html" title="Twitter">http://t.co/CdPwED1E</a></li>
+    	</ul></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://scrmblog.com/tags/news">news</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/twi">twi</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/flood">flood</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/apple">apple</a></div><div class="field-item even"><a href="http://scrmblog.com/tags/insurance">insurance</a></div><div class="field-item odd"><a href="http://scrmblog.com/tags/sustainability">sustainability</a></div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="http://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--2" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--4" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option selected="selected" value="60">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--2" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-K4yg41RUWHPlrWNd6UjDHC3JPUfdJntaCCguyNm2eCQ" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div>

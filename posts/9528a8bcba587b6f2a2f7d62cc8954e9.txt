@@ -1,0 +1,12 @@
+.. raw:: html
+
+    <div class="hs-featured-image-wrapper"> 
+     <a class="hs-featured-image-link" href="http://www.opsrules.com/supply-chain-optimization-blog/price-optimization-at-b2w-digital" title=""> <img alt="Price Optimization at B2W Digital" class="hs-featured-image" src="http://cdn2.hubspot.net/hubfs/153059/Price_optimization.jpg" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /> </a> 
+    </div>     
+    <span>In a recent MIT Sloan webinar titled </span> 
+    <a href="https://www.youtube.com/watch?v=n1upFDGRdfc">The New Frontier in Price Optimization&nbsp;</a> 
+    <span> , OPS Rules Chairman <a href="http://feeds.feedburner.com/david-simchilevi-opsrules">David Simchi-Levi</a> introduced several recent examples of new methods that improve business performance. One of them was </span> 
+    <a href="http://www.b2wdigital.com/en">B2W Digital</a> 
+    <span>, the leading e-commerce company in Latin America with whom OPS Rules worked last year on implementing price optimization.</span> 
+    <br />    
+    <img alt="" height="1" src="http://track.hubspot.com/__ptq.gif?a=153059&amp;k=14&amp;r=http%3A%2F%2Fwww.opsrules.com%2Fsupply-chain-optimization-blog%2Fprice-optimization-at-b2w-digital&amp;bu=http%253A%252F%252Fwww.opsrules.com%252Fsupply-chain-optimization-blog&amp;bvt=rss" style="width: 1px!important;" width="1" />
