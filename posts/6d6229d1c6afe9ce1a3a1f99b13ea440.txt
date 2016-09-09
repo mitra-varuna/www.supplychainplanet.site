@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Better barcoding 'could save &pound;100m a year'   <a href="http://buff.ly/2cuo8aE">http://buff.ly/2cuo8aE&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/43B270moHA">pic.twitter.com/43B270moHA</a></p> <img src="https://pbs.twimg.com/media/Cr5u0qFUAAEHaiX.jpg" width="250" />
