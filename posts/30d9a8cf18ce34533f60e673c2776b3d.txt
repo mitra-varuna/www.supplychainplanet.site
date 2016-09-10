@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">8,000 pairs of fake designer shoes worth $4.3m seized by port officials   <a href="http://buff.ly/2bZX0y1">http://buff.ly/2bZX0y1&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/zgfQ7PbPDW">pic.twitter.com/zgfQ7PbPDW</a></p> <img src="https://pbs.twimg.com/media/Crmpw8fXEAA4DEF.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Oracle said this week it has acquired LogFire, an Atlanta-based provider of Software as a Service (SaaS), Cloud-based, Warehouse Management Systems in an effort to complement its Oracle Supply Chain Management Cloud suite.

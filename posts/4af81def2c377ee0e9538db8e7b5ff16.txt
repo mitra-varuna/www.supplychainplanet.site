@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">VW to review procurement after supplier dispute halts production   <a href="http://buff.ly/2bXq5MU">http://buff.ly/2bXq5MU&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/meLblmIR2Q">pic.twitter.com/meLblmIR2Q</a></p> <img src="https://pbs.twimg.com/media/CrRSMizWIAAwYH7.jpg" width="250" />

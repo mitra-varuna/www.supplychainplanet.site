@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Longer lorry trailers have saved up to 90,000 UK journeys  <a href="http://buff.ly/2bQrfan">http://buff.ly/2bQrfan&nbsp;</a></p>
