@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">6% of world's aluminium found hidden in Mexico  <a href="http://buff.ly/2cmqJHf">http://buff.ly/2cmqJHf&nbsp;</a></p>
