@@ -1,0 +1,3 @@
+.. raw:: html
+
+    To run today’s supply chains requires a new paradigm, one that extends what ERP has done for the company within its four walls to the new reality of the multi-enterprise supply chain. This new paradigm is called a Supply Chain Operating Network.

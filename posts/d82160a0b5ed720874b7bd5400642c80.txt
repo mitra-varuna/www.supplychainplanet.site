@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Best public procurement project shortlist:  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/TheCountessNHS">@<b>TheCountessNHS</b></a>;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/ProcurementCoUK">@<b>ProcurementCoUK</b></a>;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/DVLAgovuk">@<b>DVLAgovuk</b></a>; NHS North West Procurement Development; cont...</p>

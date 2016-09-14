@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Best third sector/not-for-profit procurement project shortlist:  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/LCDIDC">@<b>LCDIDC</b></a>;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/TrentUni">@<b>TrentUni</b></a>;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/scope">@<b>scope</b></a></p>

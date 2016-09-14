@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Best contribution to the reputation of procurement shortlist:  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/Fusion21SocEnt">@<b>Fusion21SocEnt</b></a>;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/StandardLifeplc">@<b>StandardLifeplc</b></a></p>
