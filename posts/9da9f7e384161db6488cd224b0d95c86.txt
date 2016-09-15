@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Congratulations to all the winners at the 2016  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a>. It was a fantastic night. Here are the winners... <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/BsiOs9cs66">pic.twitter.com/BsiOs9cs66</a></p> <img src="https://pbs.twimg.com/media/CsaB16QXgAA8NVf.jpg" width="250" />

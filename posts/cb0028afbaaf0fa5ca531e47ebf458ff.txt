@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">It was another win for  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/HeathrowAirport">@<b>HeathrowAirport</b></a> at the  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a> for most improved procurement operation &ndash; step change</p>

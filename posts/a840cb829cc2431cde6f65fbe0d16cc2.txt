@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">The most innovative use of technology award at  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a> went to  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/kiergroup">@<b>kiergroup</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/WTBOTjwdsd">pic.twitter.com/WTBOTjwdsd</a></p> <img src="https://pbs.twimg.com/media/CsaDs91XgAAK2Vz.jpg" width="250" />

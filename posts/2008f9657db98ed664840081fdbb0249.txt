@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Congratulations to  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/UKSBS">@<b>UKSBS</b></a> on winning the international project of the year for Milan Expo  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/EGKLXZcpQq">pic.twitter.com/EGKLXZcpQq</a></p> <img src="https://pbs.twimg.com/media/CsaDc3LWEAE5Pb4.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    After receiving its initial $12 million in Series A funding in July, FogHorn Systems formally announced this week the general availability of its new Lightning software platform for real-time analytics and Internet of Things (IoT) focused applications running on ultra-small edge footprint physical devices. Suffice to indicate that this will not be the only time [&#8230;]<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/ekrslQKiv-U" width="1" />
