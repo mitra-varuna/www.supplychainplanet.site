@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Hinkley Point gets green light  <a href="http://buff.ly/2cOWGHJ">http://buff.ly/2cOWGHJ&nbsp;</a></p>
