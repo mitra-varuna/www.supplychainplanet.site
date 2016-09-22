@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Firms can 'rock the world' in fight against climate change   <a href="http://buff.ly/2cYJUVM">http://buff.ly/2cYJUVM&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/dC8QAcnSj1">pic.twitter.com/dC8QAcnSj1</a></p> <img src="https://pbs.twimg.com/media/Cs39aXVWcAE_uJj.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Video clips and photos from the CIPS SM Awards 2016 event.  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a>   <a href="http://bit.ly/ICUcri">http://bit.ly/ICUcri&nbsp;</a></p>

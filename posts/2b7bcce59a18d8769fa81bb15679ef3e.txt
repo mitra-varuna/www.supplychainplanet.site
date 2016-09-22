@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In October 2015, MIT launched the MITx MicroMasters credential, which enables online learners to take a semester’s worth of master’s-level courses on the edX platform, then complete a master’s degree in a single full semester on campus. The first MicroMasters in Supply Chain Management (SCM) has seen incredible success. Over 127,000 students have enrolled in [&#8230;]

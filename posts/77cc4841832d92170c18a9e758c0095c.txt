@@ -1,0 +1,3 @@
+.. raw:: html
+
+    While the trucking industry outlook remains bright—the American Trucking Associations predicts freight tonnage to grow 28.6 percent and revenue a healthy 74.5 percent over the next 10 years —trucking, like other logistics modes, seems to be at the beginning of a period of digital disruption.

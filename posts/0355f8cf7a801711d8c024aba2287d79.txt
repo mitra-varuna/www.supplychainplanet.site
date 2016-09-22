@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The combination brings together automation, data collection and edge sensors with a global presence.

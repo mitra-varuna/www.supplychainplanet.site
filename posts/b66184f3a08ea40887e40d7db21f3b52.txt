@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">SM poll for Oct/Nov issue: What difference does winning an award make to you or your team?</p>
