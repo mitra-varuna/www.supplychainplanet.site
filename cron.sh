@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cd /home/sushant/code/supply_chain_planet_site/www.supplychainplanet.site
 source /home/sushant/code/planet_site/bin/activate
 for i in $(seq 3)
