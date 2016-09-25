@@ -1,0 +1,3 @@
+.. raw:: html
+
+    At APICS 2016, we're reminded that while supply chains are more complex than ever, you can't win without a mastery of the basics.
