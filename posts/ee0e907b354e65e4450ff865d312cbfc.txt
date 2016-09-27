@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Digital contracts: the risks and how to avoid them - webinar starts in 15 min:   <a href="http://www.supplymanagementinsider.com/2016/08/05/e-contracting-therisksandhowtoavoidthem/">http://www.supplymanagementinsider.com/2016/08/05/e-contracting-therisksandhowtoavoidthem/&nbsp;&hellip;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a></p>
