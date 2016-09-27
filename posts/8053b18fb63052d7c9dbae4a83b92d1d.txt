@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A new EY report explains why exponential data growth is a fundamental problem that is continuing to overwhelm most businesses, it is accelerating and supply chain data is no exception.
