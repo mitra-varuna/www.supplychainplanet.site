@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">&ldquo;Supplier relationships critical for small firms," says Brompton bikes boss   <a href="http://buff.ly/2dla5Ts">http://buff.ly/2dla5Ts&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/P9YmJkHFpP">pic.twitter.com/P9YmJkHFpP</a></p> <img src="https://pbs.twimg.com/media/Ctd3wzXXEAAOQZv.jpg" width="250" />
