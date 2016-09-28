@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Companies commonly use inventory management policies that employ standard formulas for specific demand distributions and remain unchanged for several years.
