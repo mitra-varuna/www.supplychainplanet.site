@@ -1,0 +1,3 @@
+.. raw:: html
+
+    When Oracle OpenWorld 2016 came to a close last week, the company’s Executive Chairman and CTO spoke to the transformational strides needed to address Internet of Things and supply chain management.
