@@ -1,0 +1,3 @@
+.. raw:: html
+
+    “The internet of things is transforming business models among all sizes around the world”
