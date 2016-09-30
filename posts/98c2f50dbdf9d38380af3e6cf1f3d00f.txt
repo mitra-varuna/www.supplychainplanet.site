@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Freight location and status updates, along with advanced predictive analytics capabilities, are making load tracking a valuable tool for shippers, brokers, 3PLs, and carriers

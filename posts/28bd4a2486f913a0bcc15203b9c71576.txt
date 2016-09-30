@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cmshttp://resources.inboundlogistics.com/userfiles/ITToolkit_main_0816.jpg" /></p>A lack of route optimization software led to out-of-control logistics costs for Optimum Dental Studio, so the company turned to Maxoptra to optimize routing to serve dental offices and their patients.

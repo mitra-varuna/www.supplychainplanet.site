@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Your TMS is the perfect place to start making sense of IoT–giving you the ability to make smarter decisions faster.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The best solutions provide clear, regularly reported metrics not just to the shipper, but also to the carriers themselves.

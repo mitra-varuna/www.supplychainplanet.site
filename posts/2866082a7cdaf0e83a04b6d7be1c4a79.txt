@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Even though the rollout of the Automated Commercial Environment has had a bevy of delays, quicker and easier data access will benefit government agencies and the trading industry.

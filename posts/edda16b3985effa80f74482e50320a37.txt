@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A standards-based supply chain can provide an organization with the speed and accuracy required when it’s needed most—helping to manage risk during normal operations and at times of crisis.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Warehouses can use a number of techniques to maintain service level agreements (SLAs) – the ”guaranteed” turnaround time for an order to go out – during peak demand periods.

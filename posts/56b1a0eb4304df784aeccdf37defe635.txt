@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Using an import express less-than-container service, particularly from China, offers cost savings and faster transit times over traditional consolidated LCL services.

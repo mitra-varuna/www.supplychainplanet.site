@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain planning systems can greatly benefit from combining artificial intelligence techniques so they become more intelligent, dynamic, and user-friendly.

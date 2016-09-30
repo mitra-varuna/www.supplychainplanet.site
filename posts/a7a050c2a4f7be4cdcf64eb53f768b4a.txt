@@ -1,0 +1,3 @@
+.. raw:: html
+
+    When evaluating your needs for a transportation management system it’s important to look beyond technology and consider who will manage planning and execution. Use this advice to determine if a managed service provider will deliver greater value than developing an in-house team.

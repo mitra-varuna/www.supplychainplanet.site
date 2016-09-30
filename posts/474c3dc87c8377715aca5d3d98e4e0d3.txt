@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The benefits of a multi-tenant software platform are immense. Chris Johnson of LeanLogistics outlines the four areas of value with multi-tenant technology.

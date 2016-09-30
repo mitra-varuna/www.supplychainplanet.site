@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cmshttp://resources.inboundlogistics.com/userfiles/tms_main_0516.jpg" /></p>This article looks at what’s new and interesting in transportation management systems (TMS).

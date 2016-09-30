@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Waveless fulfillment consistently maximizes warehouse productivity by assigning orders on a real-time basis as resources and fulfillment opportunities become available.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Before selecting a new Warehouse Management System (WMS), you have to know what drives your company to select features that target your specific needs. Use this advice to select the right WMS.

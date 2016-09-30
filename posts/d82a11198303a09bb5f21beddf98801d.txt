@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The migration to web, cloud, and SaaS solutions continues, and it's a good thing for shippers. Here's why you'll love getting ahead in the cloud.

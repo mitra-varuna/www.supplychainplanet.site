@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Keeping cargo secure requires visibility and the automation technology to enable this view into your shipments. Additionally, immediate access to rapidly changing requirements for import and export activities plays a key role in light of new security concerns.
