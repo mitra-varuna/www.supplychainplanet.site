@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Greed, Greenpeace and Greece &ndash; the supply chain in numbers   <a href="http://buff.ly/2dEZlk4">http://buff.ly/2dEZlk4&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/7wiT2sVWNr">pic.twitter.com/7wiT2sVWNr</a></p> <img src="https://pbs.twimg.com/media/CtnRmBaWcAA6NpD.jpg" width="250" />
