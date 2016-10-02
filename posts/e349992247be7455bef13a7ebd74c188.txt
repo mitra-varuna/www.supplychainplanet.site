@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Legal implications of Hanjin Shipping's collapse  <a href="http://buff.ly/2dwDtLw">http://buff.ly/2dwDtLw&nbsp;</a></p>
