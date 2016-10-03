@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Lack of safeguards give miner 'licence to kill'   <a href="http://buff.ly/2dlkYdw">http://buff.ly/2dlkYdw&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/9L0OEesanx">pic.twitter.com/9L0OEesanx</a></p> <img src="https://pbs.twimg.com/media/Ct3nsGqWcAAV5qu.jpg" width="250" />
