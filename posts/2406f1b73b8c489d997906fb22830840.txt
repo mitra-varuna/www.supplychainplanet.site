@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Modest confidence returns to residential construction sector   <a href="http://buff.ly/2cQki9E">http://buff.ly/2cQki9E&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/x7LaloRucS">pic.twitter.com/x7LaloRucS</a></p> <img src="https://pbs.twimg.com/media/Ct77RQLWcAENh-G.jpg" width="250" />
