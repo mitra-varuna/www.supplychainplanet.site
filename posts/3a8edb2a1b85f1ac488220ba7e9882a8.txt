@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Officials who pay late face the sack, Kenyan president says   <a href="http://buff.ly/2dKsRsz">http://buff.ly/2dKsRsz&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/UbT5jiEXil">pic.twitter.com/UbT5jiEXil</a></p> <img src="https://pbs.twimg.com/media/CuA_W2eWAAEkZ_o.jpg" width="250" />
