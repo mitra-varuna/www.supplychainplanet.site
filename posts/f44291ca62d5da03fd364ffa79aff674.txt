@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">The Great British Bake Off face off: how did C4 win Britain's best-loved TV show? Oct/Nov issue out now!   <a href="http://buff.ly/2dRf7MH">http://buff.ly/2dRf7MH&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/FAGfnff3Py">pic.twitter.com/FAGfnff3Py</a></p> <img src="https://pbs.twimg.com/media/CuJ15-cVIAAZ2Jw.jpg" width="250" />

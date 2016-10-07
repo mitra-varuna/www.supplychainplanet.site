@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Cover of the Year - Business - Shortlist (5 of 5):  Rebecca Ellinor Tyler &amp; Aubrey Smith - Supply Management...   <a href="http://fb.me/8iAyqUSLR">http://fb.me/8iAyqUSLR&nbsp;</a></p>
