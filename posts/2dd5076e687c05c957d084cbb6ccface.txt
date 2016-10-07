@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Read the real story of how  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/Channel4">@<b>Channel4</b></a> won Britain's best-loved TV show in the lates issue of Supply Management   <a href="http://buff.ly/2dPWIeP">http://buff.ly/2dPWIeP&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/gwVaG1JZLg">pic.twitter.com/gwVaG1JZLg</a></p> <img src="https://pbs.twimg.com/media/CuLVMK6WIAAwDQo.jpg" width="250" />
