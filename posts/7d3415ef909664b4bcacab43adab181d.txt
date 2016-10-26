@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">What traits do supply chain execs share with psychopaths?   <a href="http://bit.ly/psychopathictraits">http://bit.ly/psychopathictraits&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> 
+     <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/usdsba">@<b>usdsba</b></a></p>

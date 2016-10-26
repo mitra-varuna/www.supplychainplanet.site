@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Second India state gets tractor rental service via smartphone app
+      <a href="http://bit.ly/rentatractor">http://bit.ly/rentatractor&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/MahindraRise">@<b>MahindraRise</b></a></p>
