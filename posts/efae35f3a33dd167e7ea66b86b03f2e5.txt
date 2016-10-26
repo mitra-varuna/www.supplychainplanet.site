@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Frst 3D printed driverless car in public use - Supply Management   <a href="http://bit.ly/2e7EKo0">http://bit.ly/2e7EKo0&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/7QuQxvJBWQ">pic.twitter.com/7QuQxvJBWQ</a></p> <img src="https://pbs.twimg.com/media/CvoZnIrWcAAA78U.jpg" width="250" />

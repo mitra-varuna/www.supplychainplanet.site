@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">David Noble, CIPS CEO, talks of three 'burning issues for procurement' at  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSUKConf?src=hash">#<b>CIPSUKConf</b></a>   <a href="http://buff.ly/2ermuGx">http://buff.ly/2ermuGx&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/VPlUJXXIld">pic.twitter.com/VPlUJXXIld</a></p> <img src="https://pbs.twimg.com/media/CvcUxZmXEAIoeXZ.jpg" width="250" />

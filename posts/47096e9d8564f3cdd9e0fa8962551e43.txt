@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Sign up to receive the free SM Daily to get the latest news, opinion, analysis and jobs sent to your inbox, Mon-Fri   <a href="http://bit.ly/SMDailynews">http://bit.ly/SMDailynews&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/S9nMmpQXNf">pic.twitter.com/S9nMmpQXNf</a></p> <img src="https://pbs.twimg.com/media/CvSfab3WEAA1LVb.jpg" width="250" />

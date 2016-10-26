@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Last week, thousands of airline passengers were delayed worldwide after a computer glitch temporarily halted departures at United Airlines, the latest in a series of outages to affect other airlines as well. Last week’s United system glitch was reportedly attributed to the airline’s weight reporting system which calculates and governs an aircraft’s total weight load [&#8230;]<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/AJ-72sampsw" width="1" />

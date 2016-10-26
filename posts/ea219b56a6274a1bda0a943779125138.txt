@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Syrian children working in UK stores' supply chains Supply Management   <a href="http://buff.ly/2f9eiOU">http://buff.ly/2f9eiOU&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/5AEOHltxkN">pic.twitter.com/5AEOHltxkN</a></p> <img src="https://pbs.twimg.com/media/CvizpVEWIAA-Bxp.jpg" width="250" />

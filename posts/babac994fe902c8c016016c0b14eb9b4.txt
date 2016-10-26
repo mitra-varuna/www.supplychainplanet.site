@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Deploying a cloud-based shipment execution system can promote a healthier ecosystem within the company, reduce costs, and pay big dividends via customer satisfaction.

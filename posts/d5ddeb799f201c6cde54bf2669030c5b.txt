@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Worried about your supply chain after Panorama's expose last night? Factory checklist here:   <a href="http://buff.ly/2dOG5lG">http://buff.ly/2dOG5lG&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/LOjiCVxZma">pic.twitter.com/LOjiCVxZma</a></p> <img src="https://pbs.twimg.com/media/Cvme4XqWgAAm3Qm.jpg" width="250" />

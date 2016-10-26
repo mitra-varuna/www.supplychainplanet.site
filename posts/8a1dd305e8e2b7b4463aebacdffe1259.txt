@@ -1,0 +1,3 @@
+.. raw:: html
+
+    &#160; Inventory management policies that fail to keep pace with shifting product demand can lock up valuable working capital, especially in volatile markets. By dynamically managing inventory without compromising service levels, companies can free up these unexploited reserves of working capital. A research project* at the Zaragoza Logistics Center, Zaragoza, Spain, has developed models for [&#8230;]

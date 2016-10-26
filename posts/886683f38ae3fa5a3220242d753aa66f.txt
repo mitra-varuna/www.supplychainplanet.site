@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Supply chain factory checklist:  Supply Management   <a href="http://buff.ly/2dOG5lG">http://buff.ly/2dOG5lG&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/xOeWQImFAz">pic.twitter.com/xOeWQImFAz</a></p> <img src="https://pbs.twimg.com/media/CvjFR6VWgAEgglJ.jpg" width="250" />

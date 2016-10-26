@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The USC Center for GSCM will be staging “Supply Chain Digital Transformation” (SCDT) next month. This is a forum for stakeholders from industry, public policy, academia and innovators to step out of their respective silos to work together on digitizing the supply chain.

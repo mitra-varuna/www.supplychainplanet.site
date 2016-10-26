@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The World Health Organization estimates that nearly half of the world’s population is at risk for malaria, a life-threatening, but ultimately curable and preventable disease spread by mosquitos. Malaria rapid diagnostic tests are an important part of the fight against the disease, but according to new research from MIT, supply chain challenges keep these tests [&#8230;]

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Checklist to stop it happening in your supply chain   <a href="http://bit.ly/2ex1wce">http://bit.ly/2ex1wce&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/BBCPanorama">@<b>BBCPanorama</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/slavery?src=hash">#<b>slavery</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/qciDPHYKt3">pic.twitter.com/qciDPHYKt3</a></p> <img src="https://pbs.twimg.com/media/Cvh2n_3WYAEcXl_.jpg" width="250" />

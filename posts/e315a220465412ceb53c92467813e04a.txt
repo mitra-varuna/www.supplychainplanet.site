@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">We don't know why anybody would want to shave wood thinner than a human hair but this is fascinating viewing:  <a href="http://www.popularmechanics.com/home/tools/a23483/japanese-hand-plane-shaves-wood/">http://www.popularmechanics.com/home/tools/a23483/japanese-hand-plane-shaves-wood/&nbsp;&hellip;</a></p>

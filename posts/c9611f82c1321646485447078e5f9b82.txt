@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Raise procurement's profile with storytelling, says BBC procurement boss   <a href="http://bit.ly/2e46oSw">http://bit.ly/2e46oSw&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/N2LqAgZcwD">pic.twitter.com/N2LqAgZcwD</a></p> <img src="https://pbs.twimg.com/media/Cvi2qycWcAAykIU.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Tonight's Panorama finds badly monitored supply chains Child refugees sew to survive    <a href="http://buff.ly/2exe5WK">http://buff.ly/2exe5WK&nbsp;</a> SM   <a href="http://buff.ly/2ex9SSM">http://buff.ly/2ex9SSM&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/0lX7MKZeCY">pic.twitter.com/0lX7MKZeCY</a></p> <img src="https://pbs.twimg.com/media/CvhbwcDWIAAFRVq.jpg" width="250" />
