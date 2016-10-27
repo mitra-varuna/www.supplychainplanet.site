@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Nissan to build new models in Sunderland, securing 7,000 jobs in first major decision for car industry since Brexit  <a href="http://bbc.in/2eyooI2">http://bbc.in/2eyooI2&nbsp;</a></p>
