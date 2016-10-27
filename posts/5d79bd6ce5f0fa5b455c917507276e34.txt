@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Finance minister Pravin Gordhan's Medium Term Budget Policy Statement to Parliament, see here   <a href="http://bit.ly/SAspending">http://bit.ly/SAspending&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/CIPS_SA">@<b>CIPS_SA</b></a></p>
