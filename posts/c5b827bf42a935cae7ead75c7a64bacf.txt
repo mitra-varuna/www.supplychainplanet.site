@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Heathrow decision launches &pound;16bn spend - Supply Management   <a href="http://bit.ly/2e7Hulb">http://bit.ly/2e7Hulb&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/CIPSMENA">@<b>CIPSMENA</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/DYQA8yg5mt">pic.twitter.com/DYQA8yg5mt</a></p> <img src="https://pbs.twimg.com/media/CvoaYwbW8AAgfwY.jpg" width="250" />
