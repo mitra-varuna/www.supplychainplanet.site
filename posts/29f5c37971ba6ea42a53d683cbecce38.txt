@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">N Scotland councils combine to boost local supply chain  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/onestopshop?src=hash">#<b>onestopshop</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://bit.ly/2fdE3hR">http://bit.ly/2fdE3hR&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/K3WcH3Jigt">pic.twitter.com/K3WcH3Jigt</a></p> <img src="https://pbs.twimg.com/media/Cv2Rt8GUIAE2vGD.jpg" width="250" />
