@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Freight rates forecast to rise next year - Supply Management  <a href="http://buff.ly/2eDyqHN">http://buff.ly/2eDyqHN&nbsp;</a></p>
