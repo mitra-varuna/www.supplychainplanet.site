@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Microsoft increases business prices in UK  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> - SM   <a href="http://bit.ly/2fdBk7Y">http://bit.ly/2fdBk7Y&nbsp;</a> Who's next? <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ZLmdwszoeE">pic.twitter.com/ZLmdwszoeE</a></p> <img src="https://pbs.twimg.com/media/Cv2X9tuUsAARCBE.jpg" width="250" />
