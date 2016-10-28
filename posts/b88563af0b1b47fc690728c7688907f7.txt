@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Pepsi and Kelloggs hailed as water champions - Supply Management  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://bit.ly/2feJbT0">http://bit.ly/2feJbT0&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/5htpLWZo82">pic.twitter.com/5htpLWZo82</a></p> <img src="https://pbs.twimg.com/media/Cv3v1CFWYAAuzDM.jpg" width="250" />
