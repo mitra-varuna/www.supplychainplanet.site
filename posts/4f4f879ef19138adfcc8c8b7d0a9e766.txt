@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The rise of eCommerce has added tremendous complexity to the way you deploy inventory today. Omni-channel customer expectations for faster fulfillment and free shipping, coupled with pressure to minimize the high cost of carrying inventory across channels, are driving companies to rethink their networks. During this session we’ll examine how omni-channel fulfillment is impacting inventory and what you can do to profitably plan and deploy inventory across channels.
