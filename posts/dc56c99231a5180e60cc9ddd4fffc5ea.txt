@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Beer shipment is the first commercial delivery by a self-driving truck   <a href="http://bit.ly/2fAUh4b">http://bit.ly/2fAUh4b&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/2HkhVNPhHw">pic.twitter.com/2HkhVNPhHw</a></p> <img src="https://pbs.twimg.com/media/CwMBQaZWAAAJvKl.jpg" width="250" />
