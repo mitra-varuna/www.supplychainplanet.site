@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Firms told to secure supply chains as part of &pound;1.9bn cyber strategy   <a href="http://buff.ly/2eTVbav">http://buff.ly/2eTVbav&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/VJKnDQ9TiA">pic.twitter.com/VJKnDQ9TiA</a></p> <img src="https://pbs.twimg.com/media/CwP7nJUXYAATrKM.jpg" width="250" />
