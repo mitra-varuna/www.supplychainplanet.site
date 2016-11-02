@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Residential housing was the main driver of growth in the UK construction sector in October  <a href="http://buff.ly/2eVgit5">http://buff.ly/2eVgit5&nbsp;</a></p>
