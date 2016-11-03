@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The index ISM uses to measure non-manufacturing growth—known as the NMI—came in at 54.8 (a level of 50 or higher indicates growth), down 2.3 percent from September, with economic growth for the non-manufacturing sector now intact for 81 consecutive months. The October NMI is even with the 12-month average of 54.8.
