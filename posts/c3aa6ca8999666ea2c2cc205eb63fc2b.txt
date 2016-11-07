@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">An Australian entrepreneur has found the perfect substitute for cheese in the form of... processed potato  <a href="http://buff.ly/2fUfgir">http://buff.ly/2fUfgir&nbsp;</a></p>
