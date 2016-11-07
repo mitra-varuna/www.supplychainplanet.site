@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Dynamic warehousing involves buying warehousing services on a pay-per-use basis. Just as with Uber and AirBnB—exemplars of today’s “on-demand” economy—users and providers meet and transact with each other via an electronic marketplace.
