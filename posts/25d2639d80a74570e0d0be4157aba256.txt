@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Indian government declares 1,000 and 500 rupee notes as no longer legal tender   <a href="http://buff.ly/2fFlcr8">http://buff.ly/2fFlcr8&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/mCRNmhE2rk">pic.twitter.com/mCRNmhE2rk</a></p> <img src="https://pbs.twimg.com/media/Cw5WOUlW8AAUgYc.jpg" width="250" />
