@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The Malaysia Institute for Supply Chain Innovation (MISI) has initiated a research project to help enterprises design networks for reverse logistics operations that meet their organizational objectives. The project has three main goals: to identify the main factors that influence reverse channel network design decisions, to propose a framework for making these decisions, and [&#8230;]
