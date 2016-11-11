@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">New anti-bribery standard unveiled - Supply Management   <a href="http://buff.ly/2fJA49X">http://buff.ly/2fJA49X&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/NQVbFeQm3g">pic.twitter.com/NQVbFeQm3g</a></p> <img src="https://pbs.twimg.com/media/Cw_1dUrXUAEMohE.jpg" width="250" />
