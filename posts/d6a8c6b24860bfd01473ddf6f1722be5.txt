@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Great piece on the US election from  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/paulsimpsonHN">@<b>paulsimpsonHN</b></a> for our  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> work for  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="https://www.cips.org/en/supply-management/news/2016/november/the-shock-of-trump/">https://www.cips.org/en/supply-management/news/2016/november/the-shock-of-trump/&nbsp;&hellip;</a></p>
