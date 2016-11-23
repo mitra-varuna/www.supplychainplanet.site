@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Technology can help improve supplier relationship management   <a href="http://buff.ly/2fQxD6V">http://buff.ly/2fQxD6V&nbsp;</a></p>

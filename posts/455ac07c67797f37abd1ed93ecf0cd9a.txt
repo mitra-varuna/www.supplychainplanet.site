@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">UK government to look at how its own procurement can be used to drive innovation in SMEs, prime minister says   <a href="http://buff.ly/2ggc94f">http://buff.ly/2ggc94f&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/SSzbyOK0Ps">pic.twitter.com/SSzbyOK0Ps</a></p> <img src="https://pbs.twimg.com/media/Cx8AbjQXAAAlvli.jpg" width="250" />
