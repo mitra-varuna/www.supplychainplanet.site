@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Implementing material handling automation within a distribution center requires an experienced systems integration, which acts as a matchmaker to ensure the software communicates fully and freely with the facility’s equipment.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">African mine income worth millions siphoned off   <a href="http://buff.ly/2fhp0iN">http://buff.ly/2fhp0iN&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/exJWQRsloY">pic.twitter.com/exJWQRsloY</a></p> <img src="https://pbs.twimg.com/media/CxaERwEXgAAt60y.jpg" width="250" />

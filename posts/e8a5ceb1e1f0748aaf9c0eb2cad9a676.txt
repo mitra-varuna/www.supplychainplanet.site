@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The Internet of Things is about to shake up the supply chain. Shippers need to develop mid- and long-term IoT strategies.

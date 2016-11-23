@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">The Senate will vote this week on legislation that will help secure better value for taxpayers&rsquo; money in Australia   <a href="http://buff.ly/2fAJUt8">http://buff.ly/2fAJUt8&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ELcyRYyp22">pic.twitter.com/ELcyRYyp22</a></p> <img src="https://pbs.twimg.com/media/Cx3W153WQAAxt5K.jpg" width="250" />

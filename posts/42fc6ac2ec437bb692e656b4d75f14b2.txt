@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Is your supply chain network ready to cope with disruption?  <a href="http://buff.ly/2gb8gx9">http://buff.ly/2gb8gx9&nbsp;</a></p>

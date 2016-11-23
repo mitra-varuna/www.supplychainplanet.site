@@ -1,0 +1,3 @@
+.. raw:: html
+
+    An area where the Internet of Things (IoT) can live up its hype is the post-sales or service supply chain. Sensors and product log files can be used to track and analyze the performance of installed products ranging from computer equipment and storage devices to production machinery. IoT-enabled product monitoring provides much greater precision and [&#8230;]

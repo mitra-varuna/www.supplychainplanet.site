@@ -1,0 +1,3 @@
+.. raw:: html
+
+    General Electric Digital conducted its Minds + Machines event this week which featured several significant announcements related to efforts directed at GE’s concept of the Industrial Internet and GE Digital’s Predix System. On the product front GE unveiled its next release of Predix that will now include a distributed computing at the edge feature. Instead [&#8230;]<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/xb_yVjJs8wk" width="1" />

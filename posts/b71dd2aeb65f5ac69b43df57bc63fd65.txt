@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Hurrah!  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> triumphs at Haymarket Network awards for its campaign to raise awareness of  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/slavery?src=hash">#<b>slavery</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/lKmmPglOis">pic.twitter.com/lKmmPglOis</a></p> <img src="https://pbs.twimg.com/media/Cx40d5sXcAApvTJ.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">China&rsquo;s e-commerce giant Alibaba has generated $17.8bn of sales in its biggest day of the year &ndash; Singles&rsquo; Day   <a href="http://buff.ly/2f12r0D">http://buff.ly/2f12r0D&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/nHhQ8tOXiH">pic.twitter.com/nHhQ8tOXiH</a></p> <img src="https://pbs.twimg.com/media/CxZ9iP1UQAAh0_F.jpg" width="250" />
