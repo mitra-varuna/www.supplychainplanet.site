@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Key Chinese logistic hub to receive $150m boost  <a href="http://buff.ly/2gkpkRu">http://buff.ly/2gkpkRu&nbsp;</a></p>
