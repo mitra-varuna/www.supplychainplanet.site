@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Tokyo Gas and Centrica join forces to cut LNG transport costs   <a href="http://buff.ly/2frCZSq">http://buff.ly/2frCZSq&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/fZbSoPlXe9">pic.twitter.com/fZbSoPlXe9</a></p> <img src="https://pbs.twimg.com/media/CyCVs5uWIAAVjeO.jpg" width="250" />
