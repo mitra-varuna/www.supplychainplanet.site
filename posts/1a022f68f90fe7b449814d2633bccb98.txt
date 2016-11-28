@@ -1,0 +1,6 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Supplier Engagement - The Advent Calendar Challenge!
+    
+    Please like and RT!
+     <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/ism">@<b>ism</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/fpchurchill">@<b>fpchurchill</b></a>  <a href="https://www.linkedin.com/pulse/supplier-engagement-advent-calendar-challenge-chris-cliffe">https://www.linkedin.com/pulse/supplier-engagement-advent-calendar-challenge-chris-cliffe&nbsp;&hellip;</a></p>
