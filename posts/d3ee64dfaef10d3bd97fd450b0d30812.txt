@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Take advantage of Brexit uncertainty to initiate change  <a href="http://buff.ly/2fHuoLq">http://buff.ly/2fHuoLq&nbsp;</a></p>

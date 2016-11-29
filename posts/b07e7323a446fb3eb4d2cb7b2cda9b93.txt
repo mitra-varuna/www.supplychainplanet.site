@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Business social networking is already providing value, particularly in the supply chain, says Susan Grant  <a href="http://buff.ly/2gs5Asn">http://buff.ly/2gs5Asn&nbsp;</a></p>
