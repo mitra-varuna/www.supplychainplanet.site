@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Textile index: cotton, polyester and wool prices on the rise  <a href="http://buff.ly/2g2tk5K">http://buff.ly/2g2tk5K&nbsp;</a></p>
