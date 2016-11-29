@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Connected technologies are on the rise throughout the manufacturing and distribution value chain. Industry 4.0, as this digital and physical integration has been dubbed, seems to be reshaping how products are designed, produced, distributed and everything in between.
