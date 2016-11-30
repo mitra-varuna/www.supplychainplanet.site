@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">As  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a>&rsquo;s  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/rebecca_ellinor">@<b>rebecca_ellinor</b></a> explains, employees need their own brand identity, just as much as companies   <a href="http://bit.ly/2fLmfpp">http://bit.ly/2fLmfpp&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/abx9kEXdiF">pic.twitter.com/abx9kEXdiF</a></p> <img src="https://pbs.twimg.com/media/CyhHOkAW8AQ2jyf.jpg" width="250" />
