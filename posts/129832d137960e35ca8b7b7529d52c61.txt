@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Diamonds may be forever, but buyers may not be, as demand for precious gems stall   <a href="http://buff.ly/2ffvcvu">http://buff.ly/2ffvcvu&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/IRWWQkKpnr">pic.twitter.com/IRWWQkKpnr</a></p> <img src="https://pbs.twimg.com/media/CygqadOW8AEsO4d.jpg" width="250" />
