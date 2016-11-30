@@ -1,0 +1,3 @@
+.. raw:: html
+
+    This report, featuring Aberdeen data as well as four extensive success stories, outlines some of the less-publicized benefits of a cloud ERP solution.
