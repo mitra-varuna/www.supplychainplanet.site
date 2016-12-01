@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Critics slam Cadbury cocoa sourcing shake-up   <a href="http://buff.ly/2fOHsP4">http://buff.ly/2fOHsP4&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/6u5uJR5yrj">pic.twitter.com/6u5uJR5yrj</a></p> <img src="https://pbs.twimg.com/media/CylprNmXcAAqMMP.jpg" width="250" />
