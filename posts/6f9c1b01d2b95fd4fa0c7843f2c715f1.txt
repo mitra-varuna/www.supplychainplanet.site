@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Does the UK need a &ldquo;proper industrial strategy&rdquo;?   <a href="http://buff.ly/2goNR7s">http://buff.ly/2goNR7s&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ZSC9P6jiZg">pic.twitter.com/ZSC9P6jiZg</a></p> <img src="https://pbs.twimg.com/media/CylVHRvXgAA2ARz.jpg" width="250" />
