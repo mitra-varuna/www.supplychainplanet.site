@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Growth in UK manufacturing slowed in November as the weak exchange rate continued to drive up input costs  <a href="http://buff.ly/2gCUxg0">http://buff.ly/2gCUxg0&nbsp;</a></p>
