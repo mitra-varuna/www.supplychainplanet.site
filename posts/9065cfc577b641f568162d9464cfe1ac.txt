@@ -1,0 +1,3 @@
+.. raw:: html
+
+    History is a poor predictor of future sales in today's fast-moving world. Yet many companies still rely on traditional demand planning systems such as time-series analysis to create forecasts. Learn how new demand sensing technology is helping companies capture and analyze the abundance of real-time data in the digital supply chain.
