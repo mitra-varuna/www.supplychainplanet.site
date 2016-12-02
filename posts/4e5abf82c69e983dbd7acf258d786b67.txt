@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">12 reasons why procurement is the best job in the world &ndash; and saving bees is one of them   <a href="http://buff.ly/2fUVhig">http://buff.ly/2fUVhig&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/bo3YBzKIWe">pic.twitter.com/bo3YBzKIWe</a></p> <img src="https://pbs.twimg.com/media/Cyq9mQqWgAELNUZ.jpg" width="250" />
