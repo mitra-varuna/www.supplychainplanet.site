@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">New contracts will be drawn up for the running of the UK&rsquo;s railways under a shake-up  <a href="http://buff.ly/2gNon3Z">http://buff.ly/2gNon3Z&nbsp;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Kuwait: what happens after the oil runs out?   <a href="http://buff.ly/2gN3LZC">http://buff.ly/2gN3LZC&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/s6d4obNaBP">pic.twitter.com/s6d4obNaBP</a></p> <img src="https://pbs.twimg.com/media/CzAosowWQAAGx8N.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Millennials opt for ethics over apps  <a href="http://buff.ly/2ggUs3F">http://buff.ly/2ggUs3F&nbsp;</a></p>
