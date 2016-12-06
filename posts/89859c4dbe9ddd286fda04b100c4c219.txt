@@ -1,0 +1,3 @@
+.. raw:: html
+
+    APQC’s research shows that that there is a disconnect between the perceived effectiveness of both network planning and optimization tools and DRP software and the actual results that organizations are achieving.

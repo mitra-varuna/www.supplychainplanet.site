@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">New &pound;5 note supplier 'working on solutions' to tallow backlash   <a href="http://buff.ly/2gGF5lM">http://buff.ly/2gGF5lM&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/KeJjgT7iEs">pic.twitter.com/KeJjgT7iEs</a></p> <img src="https://pbs.twimg.com/media/Cy6hdK7W8AAXoNH.jpg" width="250" />

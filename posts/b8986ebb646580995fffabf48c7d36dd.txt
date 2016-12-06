@@ -1,0 +1,3 @@
+.. raw:: html
+
+    First there was Uber and Airbnb. Now, shared warehousing is moving into the supply chain

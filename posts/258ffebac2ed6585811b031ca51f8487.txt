@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">'Serious abuses' found in big brands' palm oil supply chains   <a href="http://buff.ly/2gsO9rc">http://buff.ly/2gsO9rc&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/xaNHkh4Ktj">pic.twitter.com/xaNHkh4Ktj</a></p> <img src="https://pbs.twimg.com/media/Cy6adT0WQAAcuzI.jpg" width="250" />

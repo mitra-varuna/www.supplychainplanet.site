@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Blockchain is fast, it tracks digital transactions and is probably safer to use than money   <a href="http://buff.ly/2gYLf1a">http://buff.ly/2gYLf1a&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/bOcP5o3Y2P">pic.twitter.com/bOcP5o3Y2P</a></p>

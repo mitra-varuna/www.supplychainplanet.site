@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Clothing brands have been put on a &ldquo;naughty or nice&rdquo; list this Christmas based on visibility of their supply chains   <a href="http://buff.ly/2gudq4r">http://buff.ly/2gudq4r&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/k3s2RWop5p">pic.twitter.com/k3s2RWop5p</a></p> <img src="https://pbs.twimg.com/media/Cy7icuKUAAAVToU.jpg" width="250" />

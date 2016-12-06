@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Companies can calculate the overall carbon footprint of a logistics operation using readily available estimation tools. However, to implement meaningful management decisions about cutting CO2 emissions, a more detailed analysis is necessary.
