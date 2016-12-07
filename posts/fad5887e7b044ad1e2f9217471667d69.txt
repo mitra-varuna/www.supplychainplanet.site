@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">After 50 years and 10bn passengers, Japan&rsquo;s fast trains are famed for their safety, punctuality and cleaners   <a href="http://buff.ly/2gkCixP">http://buff.ly/2gkCixP&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/RBfxnPtuS4">pic.twitter.com/RBfxnPtuS4</a></p> <img src="https://pbs.twimg.com/media/CzFn3uPXEAAiDG9.jpg" width="250" />
