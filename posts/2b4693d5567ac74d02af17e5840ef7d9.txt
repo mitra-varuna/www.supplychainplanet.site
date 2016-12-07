@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">A record fine of &pound;84.2m has been imposed on Pfizer  for charging &ldquo;excessive and unfair&rdquo; prices for an epilepsy drug   <a href="http://buff.ly/2hgG8tp">http://buff.ly/2hgG8tp&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ciLP67T5GL">pic.twitter.com/ciLP67T5GL</a></p> <img src="https://pbs.twimg.com/media/CzFdlvIWgAAgFI3.jpg" width="250" />
