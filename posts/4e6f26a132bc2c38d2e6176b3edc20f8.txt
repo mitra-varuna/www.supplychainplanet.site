@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Buy local this Xmas, South Africans urged   <a href="http://buff.ly/2goGD2Y">http://buff.ly/2goGD2Y&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/yoIAdX1rE2">pic.twitter.com/yoIAdX1rE2</a></p> <img src="https://pbs.twimg.com/media/CzLM8S3WEAADgJ9.jpg" width="250" />
