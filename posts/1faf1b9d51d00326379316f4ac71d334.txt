@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A guide to better understanding the market, the software and the benefits
