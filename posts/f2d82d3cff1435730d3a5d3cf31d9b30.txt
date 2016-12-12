@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Read our approach to procurement &amp; social value in this month's copy of  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> magazine   <a href="http://bit.ly/2gQsKZc">http://bit.ly/2gQsKZc&nbsp;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/MakeAnImpact?src=hash">#<b>MakeAnImpact</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/VFM?src=hash">#<b>VFM</b></a></p>
