@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Half of multinationals fail to do basic corruption checks on third parties   <a href="http://buff.ly/2gVv0OZ">http://buff.ly/2gVv0OZ&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/3wR7gW1Gx7">pic.twitter.com/3wR7gW1Gx7</a></p> <img src="https://pbs.twimg.com/media/Czjs8LWUoAErd9O.jpg" width="250" />
