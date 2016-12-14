@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Crown Commercial Service has &ldquo;not yet achieved value for money&rdquo;, UK&rsquo;s public spending watchdog says  <a href="http://buff.ly/2hw2WCV">http://buff.ly/2hw2WCV&nbsp;</a></p>

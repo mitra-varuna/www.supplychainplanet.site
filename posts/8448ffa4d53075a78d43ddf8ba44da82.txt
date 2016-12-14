@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Adidas reveals training is key to tackling slavery   <a href="http://buff.ly/2gHTAGV">http://buff.ly/2gHTAGV&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/6gJNUbusiI">pic.twitter.com/6gJNUbusiI</a></p> <img src="https://pbs.twimg.com/media/Czoptf6XEAA7R1c.jpg" width="250" />
