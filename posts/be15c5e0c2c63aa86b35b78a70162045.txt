@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Dubai invests AED120m in tech firms  <a href="http://buff.ly/2gI2owC">http://buff.ly/2gI2owC&nbsp;</a></p>
