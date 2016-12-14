@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">&pound;10m threshold removed for UK infrastructure projects  <a href="http://buff.ly/2hlPMu4">http://buff.ly/2hlPMu4&nbsp;</a></p>
