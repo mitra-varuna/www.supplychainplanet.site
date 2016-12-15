@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">News stories about seasonal shortages in the run up to Christmas seem to be old as yuletide itself...   <a href="http://buff.ly/2hJJtlf">http://buff.ly/2hJJtlf&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/oZMpNfGDk9">pic.twitter.com/oZMpNfGDk9</a></p> <img src="https://pbs.twimg.com/media/CzvMtpiXgAEFTlG.jpg" width="250" />
