@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Many congratulations  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/rebecca_ellinor">@<b>rebecca_ellinor</b></a> richly deserved.  SM has been an inspiration for us  <a href="https://twitter.com/rebecca_ellinor/status/809228020020023296">https://twitter.com/rebecca_ellinor/status/809228020020023296&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Outstanding Content 2016 is our next award which goes to the brilliant  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> for its Ending Modern Slavery campaign  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/HaymarketXmas?src=hash">#<b>HaymarketXmas</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/iikmsWBl9u">pic.twitter.com/iikmsWBl9u</a></p> <img src="https://pbs.twimg.com/media/CzqVjc9W8AA1jd7.jpg" width="250" />
