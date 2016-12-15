@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">South Africa&rsquo;s National Treasury has confirmed the government&rsquo;s CPO will leave on 31 December  <a href="http://buff.ly/2hAlLV3">http://buff.ly/2hAlLV3&nbsp;</a></p>
