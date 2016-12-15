@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A massive data collection initiative will result in new exam specifications for ISM certification programs.
