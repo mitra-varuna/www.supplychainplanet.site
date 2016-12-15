@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Many companies are striving to improve supply chain traceability in response to increasing demand from customers and government regulators for more information on product flows. The ability to accurately track the movement of products also helps companies to raise the efficiency of supply chains. Researchers at the Malaysia Institute for Supply Chain Innovation (MISI), Shah [&#8230;]
