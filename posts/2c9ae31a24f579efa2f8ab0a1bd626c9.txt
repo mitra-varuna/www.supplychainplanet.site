@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Senior  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/AccountManager?src=hash">#<b>AccountManager</b></a> opportunity for one of Haymarket Network's biggest clients -  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> - Apply Now!   <a href="http://bit.ly/2fkMByQ">http://bit.ly/2fkMByQ&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/SLrvZZqtBC">pic.twitter.com/SLrvZZqtBC</a></p> <img src="https://pbs.twimg.com/media/CzOyte6WQAAfJ88.jpg" width="250" />
