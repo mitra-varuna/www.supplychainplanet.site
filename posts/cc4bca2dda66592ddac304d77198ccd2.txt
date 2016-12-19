@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en"> <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> is the world&rsquo;s leading supply chain and procurement brand produced for CIPS.  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/Editor?src=hash">#<b>Editor</b></a> opportunity   <a href="http://bit.ly/2fJWkCa">http://bit.ly/2fJWkCa&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/m9frWTJ7ih">pic.twitter.com/m9frWTJ7ih</a></p> <img src="https://pbs.twimg.com/media/CzzDivDXEAAoZm7.jpg" width="250" />
