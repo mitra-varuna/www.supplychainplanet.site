@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Price of Christmas dinner up 1%  <a href="http://buff.ly/2h3ZJ0d">http://buff.ly/2h3ZJ0d&nbsp;</a></p>
