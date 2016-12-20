@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">UK households will spend more than &pound;800 on Christmas this year, according to the British Retail Consortium   <a href="http://buff.ly/2iaDG4e">http://buff.ly/2iaDG4e&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/xbU1SBMXFK">pic.twitter.com/xbU1SBMXFK</a></p> <img src="https://pbs.twimg.com/media/C0HmuxNXEAAnlRN.jpg" width="250" />
