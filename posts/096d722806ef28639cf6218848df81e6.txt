@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">London South Bank University signs up to ethical supply chains  <a href="http://buff.ly/2hQ9zjO">http://buff.ly/2hQ9zjO&nbsp;</a></p>

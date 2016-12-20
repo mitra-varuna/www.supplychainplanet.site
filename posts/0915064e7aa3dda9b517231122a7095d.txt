@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">What are you having for your Xmas lunch? Turkey? Curried goat? Or sea-urchin omelette?  <a href="http://buff.ly/2h8AREY">http://buff.ly/2h8AREY&nbsp;</a></p>
