@@ -1121,7 +1121,19 @@ BODY_END = """<script>
   ga('create', 'UA-83805137-1', 'auto');
   ga('send', 'pageview');
 
-</script>"""
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- supplychainplanet -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1831067820463347"
+     data-ad-slot="4993689709"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
