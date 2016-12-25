@@ -1108,7 +1108,20 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = """<script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='12bd205855529a823a579d838a5e4a89' async='async'></script>"""
+EXTRA_HEAD_DATA = """<script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='12bd205855529a823a579d838a5e4a89' async='async'></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- supplychainplanet -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1831067820463347"
+     data-ad-slot="4993689709"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+"""
+
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
