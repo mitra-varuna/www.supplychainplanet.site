@@ -1,0 +1,3 @@
+.. raw:: html
+
+    By managing inbound freight spend, shippers can decouple transportation costs from suppliers’ product charges and gain visibility to the lanes, volumes and synergistic opportunities that exist within their outbound network.

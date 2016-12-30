@@ -1,0 +1,3 @@
+.. raw:: html
+
+    More accurate forecasts enable better planning, lower inventory and manufacturing costs, and improved service levels.
