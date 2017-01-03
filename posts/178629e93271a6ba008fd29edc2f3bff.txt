@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">A little change in the schedule to stave off  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/JanuaryBlues?src=hash">#<b>JanuaryBlues</b></a>: the supply chain in words   <a href="https://www.cips.org/en/supply-management/news/2017/january/the-supply-chain-in-words-/">https://www.cips.org/en/supply-management/news/2017/january/the-supply-chain-in-words-/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>
