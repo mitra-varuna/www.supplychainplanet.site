@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Readers may be aware that on Tuesday of this week, Amazon Web Services (AWS) encountered an hours-long services outage at a major U.S. East Coast data center complex that affected large numbers of web users and a fair number of Cloud services customers. Reports of major system outages have gained higher visibility of-late because of [&#8230;]<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/GV7a60ISf9c" width="1" />

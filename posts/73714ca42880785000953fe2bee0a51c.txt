@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Substantial investments in supply chain resilience have enabled companies to vastly improve their capacity for bouncing back after a disruption. But the digitization of supply chains is introducing new demands on company operations that require a different approach to building supply chain resilience. With the benefit of digital technologies, companies are using Big Data to [&#8230;]

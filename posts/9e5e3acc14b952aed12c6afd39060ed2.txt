@@ -1,0 +1,3 @@
+.. raw:: html
+
+    There are many innovations and societal changes such as robotics, autonomous vehicles, and the sharing economy that could shape the future of supply chains. But none of these developments is likely to transform the way manufacturing and supply chains are managed more than additive manufacturing, commonly known as 3D printing. While the concept of additive [&#8230;]

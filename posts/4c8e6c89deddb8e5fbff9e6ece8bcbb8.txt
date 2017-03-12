@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Retailers often face demand uncertainty due to seasonality and variable consumer shopping behavior, so supply chain robustness is critical to ensure sufficient product availability. A common strategy to combat demand uncertainty is the use of safety stock, but this also increases the risk of excess stock, increased obsolescence, and higher carrying costs. The thesis research [&#8230;]

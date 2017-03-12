@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cmshttp://resources.inboundlogistics.com/userfiles/ITtoolkit_main_0117.jpg" /></p>Kowalski Sausage implements a new in-house routing and dispatching system to improve how the piggies get to market.

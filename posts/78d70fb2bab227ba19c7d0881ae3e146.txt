@@ -1,0 +1,3 @@
+.. raw:: html
+
+    An Industry 4.0-enabled supply chain will collect and analyze data across all machines, yielding faster processes that are more flexible and produce higher-quality goods at reduced costs.

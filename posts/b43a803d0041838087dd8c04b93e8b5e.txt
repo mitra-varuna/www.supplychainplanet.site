@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">CEO procurement advice - get under the skin of your organisation   <a href="http://bit.ly/2mq0imi">http://bit.ly/2mq0imi&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/4P7cbMTWeb">pic.twitter.com/4P7cbMTWeb</a></p> <img src="https://pbs.twimg.com/media/C6fuiPEXEAM3GpS.jpg" width="250" />

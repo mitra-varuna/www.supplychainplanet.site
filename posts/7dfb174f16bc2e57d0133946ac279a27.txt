@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A YMS can provide significant benefits to your operation. Use these pointers to help select the right YMS.

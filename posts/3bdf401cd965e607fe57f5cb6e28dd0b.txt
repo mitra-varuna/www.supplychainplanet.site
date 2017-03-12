@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Andrew Neil: Brexit will become a sideshow in EU cipsnews   <a href="http://bit.ly/2mK4HBy">http://bit.ly/2mK4HBy&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/OMImvaCOLw">pic.twitter.com/OMImvaCOLw</a></p> <img src="https://pbs.twimg.com/media/C6t7TC5WoAQneDA.jpg" width="250" />

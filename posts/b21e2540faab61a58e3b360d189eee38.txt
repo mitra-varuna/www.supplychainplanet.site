@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Buyers influencers task jugglers: women in procurement by Co-op's Fabienne Lesbros  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://buff.ly/2mRxDYL">http://buff.ly/2mRxDYL&nbsp;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/InternationalWomensDay?src=hash">#<b>InternationalWomensDay</b></a> <a dir="ltr" href="https://twitter.com/hashtag/InternationalWomensDay?src=hash"><img alt="" class="twitter-hashflag" draggable="false" src="https://abs.twimg.com/hashflags/WomensDay_emojiv4/WomensDay_emojiv4.png" /></a></p>

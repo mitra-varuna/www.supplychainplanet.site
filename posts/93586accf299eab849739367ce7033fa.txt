@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Even with today’s sophisticated inventory management systems, retailers are woefully unaware of just how low on-shelf availability is for many of the products they carry. Our research, carried out in collaboration with a major consumer goods manufacturer, suggests the problem is significantly worse and costlier than many retailers assume. The culprit is “phantom inventory”—goods that [&#8230;]

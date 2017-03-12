@@ -1,0 +1,3 @@
+.. raw:: html
+
+    It’s important for companies to consider how they’ll build global supply chain visibility, especially when third party service providers own the execution data around shipment status, carrier performance, and freight costs within their own systems.

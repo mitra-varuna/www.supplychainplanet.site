@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Key points from  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/Budget2017?src=hash">#<b>Budget2017</b></a>   <a href="http://bbc.in/2mlr92X">http://bbc.in/2mlr92X&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/Z3j5suT8bY">pic.twitter.com/Z3j5suT8bY</a></p> <img src="https://pbs.twimg.com/media/C6Znv2AXMAEhwcK.jpg" width="250" />

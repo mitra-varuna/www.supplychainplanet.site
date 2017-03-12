@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Surround yourself with good people: Sam Walsh on successful procurement   <a href="http://bit.ly/2mq0imi">http://bit.ly/2mq0imi&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ksdVkdySeM">pic.twitter.com/ksdVkdySeM</a></p> <img src="https://pbs.twimg.com/media/C6je6fgWoAAmQNt.jpg" width="250" />

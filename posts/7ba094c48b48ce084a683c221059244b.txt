@@ -1,0 +1,3 @@
+.. raw:: html
+
+    To overcome the challenges that e-commerce presents to the supply chain, shippers need to succeed at omni-channel fulfillment. From leveraging brick-and-mortar stores to deploying an order management system, here’s how they can compete in an e-commerce world.
