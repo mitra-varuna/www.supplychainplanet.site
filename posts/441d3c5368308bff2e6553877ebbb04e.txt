@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Diageo mobile distillery lifts spirits in Africa   <a href="http://buff.ly/2nlgFyT">http://buff.ly/2nlgFyT&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/4QtXHKsnHa">pic.twitter.com/4QtXHKsnHa</a></p> <img src="https://pbs.twimg.com/media/C60R4kzV4AA5HZE.jpg" width="250" />

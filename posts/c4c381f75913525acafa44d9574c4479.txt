@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">Do you even know you are being sold to?   <a href="http://buff.ly/2mRW3R9">http://buff.ly/2mRW3R9&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/i8OVWVCkkn">pic.twitter.com/i8OVWVCkkn</a></p> <img src="https://pbs.twimg.com/media/C60Yl9bU0AEkJs4.jpg" width="250" />
