@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--26px js-tweet-text tweet-text" lang="en">&ldquo;What motivates me is the desire to do what most people think is impossible&rdquo; - Supply Management   <a href="http://buff.ly/2miFZDO">http://buff.ly/2miFZDO&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ytP9ocsvPt">pic.twitter.com/ytP9ocsvPt</a></p> <img src="https://pbs.twimg.com/media/C6zNLggWYAEI25l.jpg" width="250" />
