@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Engineering projects carried out in harsh environments require a reliable supply of spare parts. However, providing such a service is challenging when the demand for parts is intermittent and procurement practices lack cohesion. A thesis project completed by Sachin Shedge, a graduate of the MIT-Malaysia Master of Science in Supply Chain Management program, explored the [&#8230;]
