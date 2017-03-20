@@ -1,0 +1,3 @@
+.. raw:: html
+
+    APICS, and Michigan State University (MSU), recently announced findings from their latest report, “Managing the Complexity Paradigm.”
