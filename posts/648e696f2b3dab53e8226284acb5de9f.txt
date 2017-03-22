@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Nestl&eacute;, Hershey and others to act on deforestation in cocoa supply chain, will release framework at COP 23   <a href="http://bit.ly/2nQXDRp">http://bit.ly/2nQXDRp&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>
