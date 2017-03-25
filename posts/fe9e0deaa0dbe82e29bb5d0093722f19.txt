@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">UK food industry calls for early Irish Brexit deal   <a href="http://buff.ly/2nMW7T3">http://buff.ly/2nMW7T3&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

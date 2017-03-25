@@ -1,0 +1,3 @@
+.. raw:: html
+
+    According to Deloitte, the U.S. manufacturing sector is “woefully unprepared”for the cyber threats associated with new connected technology. In “Industry 4.0 and cyber risk: Security in an age of connected production,” one-third of all manufacturers sampled admitted to not having performed any cyber risk assessments of the industrial connected devices operating on factory floors.

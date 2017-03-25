@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Designing supply routes during periods of rapid growth when market conditions can change rapidly can be a major challenge for retailers. SCM program graduates Cyril Khamsi and Veronica Stolear developed a model for evaluating the cost trade-offs between multiple supply network designs under a variety of business scenarios. The research was carried out in collaboration [&#8230;]
