@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Beauties, budgets and 'bad ads' &ndash; the supply chain in numbers   <a href="http://buff.ly/2n8frWB">http://buff.ly/2n8frWB&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/ONrL1o3sxw">pic.twitter.com/ONrL1o3sxw</a></p> <img src="https://pbs.twimg.com/media/C78DbPwXQAQsHC6.jpg" width="250" />
