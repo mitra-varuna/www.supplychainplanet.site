@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Australia and China beef up trade deal   <a href="http://buff.ly/2neGHUa">http://buff.ly/2neGHUa&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/x6ZS2fb01d">pic.twitter.com/x6ZS2fb01d</a></p> <img src="https://pbs.twimg.com/media/C8BvXC5W4AEHLRn.jpg" width="250" />
