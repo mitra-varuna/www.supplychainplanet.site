@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Integrated Business Planning (IBP) aligns demand, supply and finance plans for a clear line of sight across an organization.
