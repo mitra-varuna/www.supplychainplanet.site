@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--16px js-tweet-text tweet-text" lang="en">Australian exporters step in as Indian cotton crop suffers   <a href="http://buff.ly/2nI7CLc">http://buff.ly/2nI7CLc&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/dAB5hlNlkp">pic.twitter.com/dAB5hlNlkp</a></p> <img src="https://pbs.twimg.com/media/C8ENN0nXUAQMO_h.jpg" width="250" />
