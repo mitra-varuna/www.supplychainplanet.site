@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A more comprehensive software strategy designed to enable container terminals and carriers to streamline their ocean supply chains for better collaboration was introduced at Navis World 2017 this week.
