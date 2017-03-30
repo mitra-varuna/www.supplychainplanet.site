@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Predictive analytics utilizes various statistical techniques and models that analyze current and historical facts to make predictions about future.

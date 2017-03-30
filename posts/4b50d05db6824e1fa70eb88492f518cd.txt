@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Deploying applications quickly and affordably, and ensuring those systems perform as promised, will be a key to success in tomorrow’s freight and logistics sector.
