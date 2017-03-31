@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--large js-tweet-text tweet-text" lang="en">The latest issue of Supply Management magazine is here. Enjoy this sneak peak of the cover&hellip;   <a href="http://buff.ly/2ogA7An">http://buff.ly/2ogA7An&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://t.co/1zIavblouM">pic.twitter.com/1zIavblouM</a></p>
