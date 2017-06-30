@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Every procurement you run poses risk to your business. Join us on 11 July to find out how you can minimise them   <a href="http://bit.ly/2sT6V4Z">http://bit.ly/2sT6V4Z&nbsp;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/ad?src=hash">#<b>ad</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/dztsio65uG">pic.twitter.com/dztsio65uG</a></a></p> <img src="https://pbs.twimg.com/media/DDgCYW_XoAEshY6.jpg" width="250" />

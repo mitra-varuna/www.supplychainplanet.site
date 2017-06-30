@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The right WMS solution can streamline order fulfillment, increase inventory accuracy, enhance the performance of your people, and maximize equipment utilization. Use these tips to help select a WMS.

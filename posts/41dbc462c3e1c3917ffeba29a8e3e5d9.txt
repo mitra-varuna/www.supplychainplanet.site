@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A recent Rimini Street global survey of SAP licensees indicates reluctance to adopt S4 HANA due to lack of clear business case.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/PkUsrKEHjxI" width="1" />

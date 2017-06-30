@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Sears suppliers accused of exploiting rumours to seek better deals   <a href="https://www.cips.org/en/supply-management/news/2017/june/sears-boss-accuses-suppliers-of-exploiting-negative-rumours-to-seek-better-deals/">https://www.cips.org/en/supply-management/news/2017/june/sears-boss-accuses-suppliers-of-exploiting-negative-rumours-to-seek-better-deals/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

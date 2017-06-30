@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">&lsquo;Chokepoints&rsquo; threaten global food supply  <a href="https://www.cips.org/en/supply-management/news/2017/june/trade-chokepoints-threaten-global-food-supply-warns-report/">https://www.cips.org/en/supply-management/news/2017/june/trade-chokepoints-threaten-global-food-supply-warns-report/&nbsp;&hellip;</a></p>

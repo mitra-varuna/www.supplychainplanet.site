@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The future of TMS systems is not only to monitor service in real-time, but to properly audit the carrier’s invoice through settlement.

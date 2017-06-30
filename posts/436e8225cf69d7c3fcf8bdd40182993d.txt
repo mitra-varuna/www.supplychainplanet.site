@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain infrastructure is rebuilding itself, below the surface where only logisticians can see it.

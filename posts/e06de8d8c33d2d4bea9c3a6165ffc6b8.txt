@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The only certainty is uncertainty. Procurement leaders debate the future of procurement at Somerset House thank you  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/blurGroup">@<b>blurGroup</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/cips?src=hash">#<b>cips</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/LHIxnNTQbb">pic.twitter.com/LHIxnNTQbb</a></a></p> <img src="https://pbs.twimg.com/media/DDblsmxW0AE_5rE.jpg" width="250" />

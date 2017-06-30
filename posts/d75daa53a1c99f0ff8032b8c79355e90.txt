@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">China opens up to foreign firms at WEF summit  <a href="https://www.cips.org/en/supply-management/news/2017/june/wef-innovation-may-increase-inequality-global-leaders-warn/">https://www.cips.org/en/supply-management/news/2017/june/wef-innovation-may-increase-inequality-global-leaders-warn/&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cmshttp://resources.inboundlogistics.com/userfiles/Casebook_main_0617.jpg" /></p>Agilent Technologies, a global high tech life sciences, diagnostics and applied chemical company applies sophisticated scientific methods provided by CorpU to implement sweeping new order fulfillment and supply chain strategies. Using the CorpU platform, and its precision tools, procedures and metrics for both engaging and educating employees, Agilent's transition from design to implementation for new supply chain plans was reduced from months to just 10 days.

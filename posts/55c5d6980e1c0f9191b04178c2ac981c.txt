@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Recent randomware attacks reveal vulnerabilities in manufacturing, logistics and supply chain security.

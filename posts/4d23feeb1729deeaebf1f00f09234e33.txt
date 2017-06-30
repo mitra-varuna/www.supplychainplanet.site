@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Fabulous evening, great insight. Thanks for all those attending and to  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/blurGroup">@<b>blurGroup</b></a>  for making it happen.  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/cips?src=hash">#<b>cips</b></a>  <a href="https://twitter.com/supplymgmt/status/880143334538391552">https://twitter.com/supplymgmt/status/880143334538391552&nbsp;&hellip;</a></p>

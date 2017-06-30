@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Really enjoyed facilitating this event tonight. A great group of CPOs talking Brexit, innovation, disruption &amp; more  <a href="https://twitter.com/supplymgmt/status/880143334538391552">https://twitter.com/supplymgmt/status/880143334538391552&nbsp;&hellip;</a></p>

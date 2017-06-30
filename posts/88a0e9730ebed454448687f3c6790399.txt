@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chains are heavily dependent on information technology (IT) systems, but are difficult to secure because they often involve multiple networks working together.

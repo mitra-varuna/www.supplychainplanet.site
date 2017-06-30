@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Asda named UK's worst major supermarket by suppliers   <a href="https://www.cips.org/en/supply-management/news/2017/june/asda-named-uks-worst-major-supermarket-in-treatment-of-suppliers/">https://www.cips.org/en/supply-management/news/2017/june/asda-named-uks-worst-major-supermarket-in-treatment-of-suppliers/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/SqiJDJAqGp">pic.twitter.com/SqiJDJAqGp</a></a></p> <img src="https://pbs.twimg.com/media/DDaYlYMXkAA-cOZ.jpg" width="250" />

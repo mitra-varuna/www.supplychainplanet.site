@@ -1,0 +1,3 @@
+.. raw:: html
+
+    It seems almost inevitable that automated trucks will be introduced to our roads at some point, but it will not happen in a single step and it will take time. The attractions are substantial. In some future end-state, driverless trucks will remove the cost of the human operator from the cab and allow the equipment [&#8230;]

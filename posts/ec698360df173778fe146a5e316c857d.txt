@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Working alongside robots in warehouses is the way of the present, rather than the way of the future.

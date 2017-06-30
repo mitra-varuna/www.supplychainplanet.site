@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain professionals are often confronted with the challenge of managing highly volatile customer shipments resulting from the bullwhip effect. This volatility leads to supply chain-wide inefficiencies, high operational complexity, low service levels and substantial costs. Companies commonly try to compensate the risk of stock outs by carrying elevated levels of inventory and by paying [&#8230;]

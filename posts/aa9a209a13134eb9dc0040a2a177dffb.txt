@@ -1,0 +1,3 @@
+.. raw:: html
+
+    While some companies have chosen to rely on 3PLs to manage their logistics, others have found other alternatives.

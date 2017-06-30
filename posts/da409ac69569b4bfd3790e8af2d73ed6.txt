@@ -1,0 +1,32 @@
+.. raw:: html
+
+    <p>Written by: Muching Zhang</p>
+    <p><img alt="muching" class="alignnone size-full wp-image-1219" src="https://mitscmprogram.files.wordpress.com/2017/05/muching.jpg?w=660" /></p>
+    <p>After weeks of staring at a blank screen, I was jolted awake at 3AM with snippets of words and phrases forming in my brain for this post. What was supposed to be a quick recap of my grad school decision-making process has instead inched ever closer to a novella. Because I never met a listicle that I didn’t like, here are the 3 questions I kept coming back to.</p>
+    <ol>
+    <li>Do you need grad school?
+    <ul>
+    <li>My work experience was internationally focused and the companies I worked at had a way of ensuring that just as I started feeling antsy and wondering if I should go back to school, a new role or exciting project would crop up. I loved my job, but eventually it hit me that for the industry I saw myself in (healthcare), I now had enough years of relevant experience for more senior roles, but those almost always required a graduate degree. However, I don’t think that is the case across the board, especially if you want to move up within a certain company. Be warned, the institutional knowledge and years you gain are not as relevant if you plan to be changing industries completely.</li>
+    <li>In terms of when in your career to do this program, my personal view (having been closer to the opposite end) is the earlier the better. The bump in seniority and salary is great at any level but to get there at 25 could truly catapult you on a different career trajectory altogether. However, the trade-off is that earlier on, you may not have a defined idea of what you want to do yet, which makes it harder to evaluate all the companies and job descriptions floating by.</li>
+    </ul>
+    </li>
+    </ol>
+    <p>&nbsp;</p>
+    <ol start="2">
+    <li>What do you want to get out of a program?
+    <ul>
+    <li>Like many of you, I initially thought that an MBA was the only viable option, given that I didn’t want to be a lawyer, doctor, or academic. However, within a business function, the core classes and tracks that appealed to me were operations-focused in any case.</li>
+    <li>One of SCM’s most underrated qualities though is that it is basically a choose-your-own adventure story within MIT and Sloan. If anything, the issue is that the pace of a one-year program makes the class-taking FOMO real—we recently had 3 snow days and there was some grumbling about having classes canceled!</li>
+    <li>One of the biggest assumptions I had coming in was that this was a program where everyone else, who already had deep experience in a specific supply chain function, came to be groomed further into demand planning/forecasting/analytics ninjas. As it turns out, this was not necessarily the case. My classmates come from a wide variety of backgrounds, and I am actually one of just a handful who came in having worked in a direct supply chain industry; some had not worked directly in this field at all. As a class, most of my classmates are also not necessarily looking to work in operations roles after graduation.</li>
+    <li>Be aware that the coursework is designed to aim for breadth over depth, which makes sense given the accelerated pace. Bruce and the team work hard to ensure that we get exposure to all the concepts and tools that are used in industry. But then certainly, should you want to delve deeper into the machine learning/3-D printing/UAV world, you happen to be at a place where the recent Nobel winner or the person who led the latest game-changing development in the field, could be in front of you at Chipotle.</li>
+    <li>I also find the wider MIT/Harvard/Boston area incredibly inspiring as there is no shortage of panel discussions, lectures and symposia happening all around you.</li>
+    </ul>
+    </li>
+    </ol>
+    <p>&nbsp;</p>
+    <ol start="3">
+    <li><strong>How does it fit in your ‘Life Project’?</strong><br />
+    Yes, yes, this is a professional program and you are doing this to further your career, but take a minute to consider what this degree will mean for your ‘Life Project’. My good friend Meli coined this term (she assures me it is a very common term in Colombia), which I think is a beautiful way to describe what she envisions for her <em>whole</em> life, personal and professional. Part of why I chose MIT was because it was the perfect transition to the next stage of my Life Project. Browse around the jobs and locations of where alumni end up and make sure that makes sense for where you want to be.</li>
+    </ol>
+    <p>Every morning as I ride my little Hubway bike share past the Tootsie Roll factory en route to school, with the scent of chocolate wafting in the crisp morning air, I know that MIT is where I belong, even if imposter syndrome and the stress and discomfort that is part of the learning process sometimes have me feeling otherwise. MIT SCM has been a great experience for me, and as co-President I am always looking for ways to ensure that the rest of our SCM family feels the same.</p>
+    <p>Good luck with wherever you are in the process!</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/mitscmprogram.wordpress.com/1215/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/mitscmprogram.wordpress.com/1215/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=mitscmprogram.wordpress.com&#038;blog=57100560&#038;post=1215&#038;subd=mitscmprogram&#038;ref=&#038;feed=1" width="1" />

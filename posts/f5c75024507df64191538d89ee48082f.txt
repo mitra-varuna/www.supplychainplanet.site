@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Blackwater founder wins security contract in Somalia   <a href="https://www.cips.org/en/supply-management/news/2017/june/blackwater-founder-wins-security-contract-in-somalia/">https://www.cips.org/en/supply-management/news/2017/june/blackwater-founder-wins-security-contract-in-somalia/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/CIPS_SA">@<b>CIPS_SA</b></a></p>

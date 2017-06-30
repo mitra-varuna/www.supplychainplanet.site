@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain logistics often focus on offsite storage and transportation. These are incredibly important aspects, of course, but it does overlook one thing that can be very effective — on site storage and basic assembly.

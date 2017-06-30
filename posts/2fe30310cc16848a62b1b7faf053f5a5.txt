@@ -1,0 +1,64 @@
+.. raw:: html
+
+    <p>After <a href="http://supplychaininsights.com/supply-chains-to-admire-household-nondurables-calculation-example/">doing a deep dive into the Household Products (Nondurable) industry segment</a> to show why Proctor &amp; Gamble did not make the <a href="http://supplychaininsights.com/portfolio/supply-chains-to-admire-2017/">Supply Chains to Admire</a><sup><u>TM</u></sup> winner list, I wanted to show an example calculation for a company that made the winner list.</p>
+    <p>Cisco Systems has actually made the Supply Chains to Admire list for <strong>4 years in a row</strong>! That’s amazing! They are the only company to do this. (Three companies &#8211; Apple, Cummins, and TSMC &#8211; were winners 2 years in a row and two companies &#8211; Dollar Tree and L&#8217;Oréal &#8211; were winners 3 years in a row.) I thought they would be a great company to use as an example.</p>
+    <p>Cisco is in the Technology &#8211; Computer Hardware industry segment along with 24 other companies. Of the 25 companies in this segment, there were two winners in the Supply Chains to Admire, Apple and Cisco Systems.</p>
+    <p>Cisco provides products and services related to internet networking – they are known for their Linksys brand of routers.</p>
+    <p>As we have seen, the Supply Chains to Admire methodology looks at 3 components:</p>
+    <ul>
+    <li><strong>improvement</strong> (measured by being in the top 2/3rds of the Supply Chain Index ranking for the industry),</li>
+    <li><strong>value</strong> (measured by being at or above industry average in either Market Capitalization or Price to Tangible Book Value),</li>
+    <li>and <strong>performance</strong> (measured by being at or above industry average for Growth, Operating Margin, Inventory Turns, and Return on Invested Capital).</li>
+    </ul>
+    <p>Figure 1. Supply Chains to Admire Methodology<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/SCtoAdmire2017_MethodologyImage-e1497905553990.png"><img alt="" class="alignnone wp-image-9682 size-full" height="357" src="http://supplychaininsights.com/wp-content/uploads/2017/06/SCtoAdmire2017_MethodologyImage-e1497905553990.png" width="600" /></a><br />
+    Starting with improvement, we’ll calculate the results for the Supply Chain Index. The Supply Chain Index looks at balance, strength, and resiliency over time (see Figure 2).</p>
+    <p>Figure 2. Supply Chain Index Methodology<br />
+    <span style="text-decoration: underline;"><a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Supply-Chain-Index-e1498056809368.png"><img alt="" class="alignnone size-full wp-image-9728" height="367" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Supply-Chain-Index-e1498056809368.png" width="600" /></a><br />
+    Improvement &#8211; Balance<br />
+    </span>Balance looks at Revenue Growth and Return on Invested Capital results from 2010 to 2016.  For Cisco, both have both decreased in this time period, see Table 1 and Figure 3.</p>
+    <p>Table 1. Cisco Balance Metrics<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Balance.png"><img alt="" class="alignnone size-medium wp-image-9721" height="91" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Balance-300x91.png" width="300" /></a><br />
+    Figure 3. Cisco Balance Metrics Orbit Chart<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Orbit-ROIC-Rev-Growth-Good.png"><img alt="" class="alignnone wp-image-9726 size-full" height="371" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Orbit-ROIC-Rev-Growth-Good-e1498055720307.png" width="601" /></a><br />
+    As a result of decreasing in both metrics, Cisco&#8217;s balance score was -0.19. This ranked them at number 9 out of the 25 companies in the Technology &#8211; Computer Hardware industry.</p>
+    <p style="padding-left: 30px;">Balance Calculation:<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/After-Table-A.png"><img alt="" class="alignnone size-medium wp-image-9683" height="66" src="http://supplychaininsights.com/wp-content/uploads/2017/06/After-Table-A-300x66.png" width="300" /></a><br />
+    Balance = (1/(7-1)) x [ ((-0.002-0.11)/(0.11)) + ((0.121-0.143)/(0.143)) ],<br />
+    Balance = (1/6) x (-0.98 + -0.15),<br />
+    Balance = (1/6) x (-1.14),<br />
+    Balance = -0.19</p>
+    <p><span style="text-decoration: underline;">Improvement &#8211; Strength<br />
+    </span>Strength looks at Operating Margin and Inventory Turn results from 2010 to 2016. Cisco showed strong improvement in both of these metrics from 2010 to 2016.</p>
+    <p>Table 2. Cisco Strength Metrics<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Strength.png"><img alt="" class="alignnone size-medium wp-image-9722" height="119" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Strength-300x119.png" width="300" /></a><br />
+    As a result of increasing in both metrics, Cisco&#8217;s strength score was 0.08. This ranked them at number 10 out of the 25 companies in the Technology &#8211; Computer Hardware industry.</p>
+    <p style="padding-left: 30px;">Strength Calculation:<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/After-Table-C.png"><img alt="" class="alignnone wp-image-9684 size-medium" height="60" src="http://supplychaininsights.com/wp-content/uploads/2017/06/After-Table-C-300x60.png" width="300" /></a><br />
+    Strength = (1/(7-1)) x [ ((0.26-0.23)/(0.23)) + ((15.0-10.8)/(10.8)) ],<br />
+    Strength = (1/6) x [0.12 + 0.39],<br />
+    Strength = (1/6) x 0.51,<br />
+    Strength = 0.08</p>
+    <p><span style="text-decoration: underline;">Improvement &#8211; Resiliency<br />
+    </span>Similar to strength, resiliency looks at Operating Margin and Inventory Turn results from 2010 to 2016; instead of just the change from 2010 to 2016, however, resiliency measures how much the metric moved over the 7 years. Cisco results in these metrics from 2010 to 2016 varied quite a bit from year to year, see the orbit chart in Figure 4.</p>
+    <p>Figure 4. Cisco Resiliency Metrics Orbit Chart<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Orbit-Chart-e1498054773708.png"><img alt="" class="alignnone wp-image-9724 size-full" height="371" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Orbit-Chart-e1498054773708.png" width="601" /></a><br />
+    As a result of the movement in metric results between 2010 and 2016, Cisco&#8217;s resiliency score was 1.72, resulting in a ranking of 16th out of 25 in the Technology &#8211; Computer Hardware industry.</p>
+    <p style="padding-left: 30px;">Resiliency Calculation:<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/after-Table-D.png"><img alt="" class="alignnone wp-image-9685 size-full" height="78" src="http://supplychaininsights.com/wp-content/uploads/2017/06/after-Table-D-e1498057611597.png" width="150" /></a><br />
+    Where d is the Euclidean distance between the points, and m is the total number of pairs, in this case 21 (6! or 6 + 5 + 4 + 3 + 2 +1). The sum of the total distance between all of the points is 36.2 (see Table 3). This results in a resiliency of 1.72 (36.2/21 = 1.72).</p>
+    <p>Table 3. Resiliency Calculation for Cisco Systems<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Resiliency-Calc-e1498058357215.png"><img alt="" class="alignnone size-full wp-image-9732" height="307" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Resiliency-Calc-e1498058357215.png" width="600" /></a><br />
+    As a result of being ranked 9<sup>th</sup> in balance, 10<sup>th</sup> in strength, and 16<sup>th</sup> in resiliency, Cisco Systems was ranked 10<sup>th</sup> overall in the Technology &#8211; Computer Hardware industry Supply Chain Index (see Table 4). Since there are 25 companies in the industry, a ranking of 10 is within the top 2/3rds, so therefore they qualify to be a Supply Chains to Admire winner.</p>
+    <p>Table 4. Summary of Cisco Supply Chain Index Rank<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Systems-Supply-Chain-Index-Rank.png"><img alt="" class="alignnone wp-image-9723 size-full" height="462" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Cisco-Systems-Supply-Chain-Index-Rank-e1498054688927.png" width="600" /></a></p>
+    <p><span style="text-decoration: underline;">Value<br />
+    </span>In terms of value, Cisco beats the industry average from 2010 to 2016 in both Market Cap and Price to Tangible Book Value (see Table 5 below), and qualifies to be a Supply Chains to Admire winner.</p>
+    <p><span style="text-decoration: underline;">Performance<br />
+    </span>In performance, Cisco was at or above industry average in all categories: Growth, Operating Margin, Inventory Turns, and Return on Invested Capital (see Table 5), and therefore qualifies to be a Supply Chains to Admire winner.<br />
+    (One note, you may see Cisco’s average growth for the years 2010 through 2016 was 4.6% while the industry average was 5.1%. We allow for a margin of error difference between the company results and the average, and for Growth, the margin of error is 13%. 13% of 5.1% is 0.66%, meaning the company can have a Growth as low as 4.4% and still be considered at industry average.)</p>
+    <p>Table 5. Technology Computer Hardware Metric Results<br />
+    <a href="http://supplychaininsights.com/wp-content/uploads/2017/06/Technology-Computer-Hardware-Supply-Chains-to-Admire-Winners-e1498057868679.png"><img alt="" class="alignnone size-full wp-image-9730" height="529" src="http://supplychaininsights.com/wp-content/uploads/2017/06/Technology-Computer-Hardware-Supply-Chains-to-Admire-Winners-e1498057868679.png" width="601" /></a></p>
+    <p>Since Cisco met all the qualifications in improvement, value, and performance over the years 2010 through 2016, they are a Supply Chains to Admire winner!</p>
+    <p>Let me know if you would like me to do this same calculation for any other company or industry, or if there is any part of the methodology that still isn&#8217;t clear.</p>
+    <p><a class="a2a_button_linkedin" href="http://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fsupplychaininsights.com%2Fsupply-chains-to-admire-technology-computer-hardware-calculation-example%2F&amp;linkname=Supply%20Chains%20to%20Admire%20%E2%80%93%20Technology%20Computer%20Hardware%20Calculation%20Example" rel="nofollow" target="_blank" title="LinkedIn"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fsupplychaininsights.com%2Fsupply-chains-to-admire-technology-computer-hardware-calculation-example%2F&amp;linkname=Supply%20Chains%20to%20Admire%20%E2%80%93%20Technology%20Computer%20Hardware%20Calculation%20Example" rel="nofollow" target="_blank" title="Twitter"></a><a class="a2a_button_email" href="http://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fsupplychaininsights.com%2Fsupply-chains-to-admire-technology-computer-hardware-calculation-example%2F&amp;linkname=Supply%20Chains%20to%20Admire%20%E2%80%93%20Technology%20Computer%20Hardware%20Calculation%20Example" rel="nofollow" target="_blank" title="Email"></a><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fsupplychaininsights.com%2Fsupply-chains-to-admire-technology-computer-hardware-calculation-example%2F&amp;linkname=Supply%20Chains%20to%20Admire%20%E2%80%93%20Technology%20Computer%20Hardware%20Calculation%20Example" rel="nofollow" target="_blank" title="Facebook"></a><a class="a2a_dd a2a_counter addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fsupplychaininsights.com%2Fsupply-chains-to-admire-technology-computer-hardware-calculation-example%2F&amp;title=Supply%20Chains%20to%20Admire%20%E2%80%93%20Technology%20Computer%20Hardware%20Calculation%20Example"></a></p>

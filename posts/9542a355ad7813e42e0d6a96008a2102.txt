@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Want to earn more money? Of course you do. Here are six ways to boost your salary from  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/HaysNews">@<b>HaysNews</b></a>   <a href="https://www.cips.org/en/supply-management/analysis/2017/june/six-ways-to-boost-your-earnings/">https://www.cips.org/en/supply-management/analysis/2017/june/six-ways-to-boost-your-earnings/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/f0kmahNETl">pic.twitter.com/f0kmahNETl</a></a></p> <img src="https://pbs.twimg.com/media/DDV7nhcXoAAwoTk.jpg" width="250" />
