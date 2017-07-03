@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Start the week by checking you're on top of the five principles of commissioning  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="https://www.cips.org/en/supply-management/news/2017/june/the-five-principles-of-commissioning/">https://www.cips.org/en/supply-management/news/2017/june/the-five-principles-of-commissioning/&nbsp;&hellip;</a></p>

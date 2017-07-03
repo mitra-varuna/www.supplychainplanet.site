@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Want to boost your salary? Here's how   <a href="https://www.cips.org/en/supply-management/analysis/2017/june/six-ways-to-boost-your-earnings/">https://www.cips.org/en/supply-management/analysis/2017/june/six-ways-to-boost-your-earnings/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/1SES3PPkm6">pic.twitter.com/1SES3PPkm6</a></a></p> <img src="https://pbs.twimg.com/media/DDzvzYpXkAEid7p.jpg" width="250" />

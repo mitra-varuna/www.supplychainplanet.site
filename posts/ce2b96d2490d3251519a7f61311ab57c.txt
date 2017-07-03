@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">What are the five principles of commissioning?   <a href="https://www.cips.org/en/supply-management/news/2017/june/the-five-principles-of-commissioning/">https://www.cips.org/en/supply-management/news/2017/june/the-five-principles-of-commissioning/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/gstZswS6Xs">pic.twitter.com/gstZswS6Xs</a></a></p> <img src="https://pbs.twimg.com/media/DDzh436WsAA7rr7.jpg" width="250" />

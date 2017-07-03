@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Automotive OEM HIROTEC AMERICA is taking the first steps towards lights out manufacturing with robotics
