@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Fancy an ice lolly this summer?   <a href="http://bit.ly/2tRnmPJ">http://bit.ly/2tRnmPJ&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/6bYzwCGI2W">pic.twitter.com/6bYzwCGI2W</a></a></p> <img src="https://pbs.twimg.com/media/DD_Lty_W0AEcz5I.jpg" width="250" />

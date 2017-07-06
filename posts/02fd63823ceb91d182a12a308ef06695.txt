@@ -1,0 +1,85 @@
+.. raw:: html
+
+    <p><img alt="shutterstock_399407947" class="alignleft size-thumbnail wp-image-8553" height="150" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/shutterstock_399407947-150x150.jpg" width="150" />When I engage with supply chain leaders , I ask, <em>&#8220;Are you making progress?&#8221;</em> Most will shake their heads &#8220;yes&#8221;; but upon a closer look at the data, they admit that they are stuck. Acknowledging this truth is a freeing moment. Why? It is hard work to maintain the status quo in metrics performance. Most leaders are treading water. When asked to do more, they try to deliver. They often fail. A downward-facing red arrow signals the lack of progress.</p>
+    <p>Before we continue, let me share a perspective. A balanced portfolio of metrics delivers the greatest value (market capitalization or price to tangible book). The supply chain is a complex, non-linear system. Globalization increases the challenge to deliver improvement. When supply chain leaders focus on unrealistic goals of inventory or costs, they will throw the system out of balance. This is often the case. In the setting of strategy goals, executive teams often set stretch goals not aligned with supply chain potential and run the risk of throwing the system out of balance.</p>
+    <p>We also see tension in the management of inventory. As demand and supply volatility increases, the design of inventory buffers increases in importance. Unfortunately companies make several mistakes. The first is a singular focus on safety stock and lack the holistic management of the form and function of inventory. As demand error increases, it is important to push inventory back into the supply chain to hold as raw materials common platforms, and define postponement strategies. Frequently, we see companies try to manage inventory as a bank account. Dipping into safety stock to fund projects and improve cash-to-cash. This is detrimental to driving value.</p>
+    <p>Table 1. Definition of Form and Function of Inventory</p>
+    <p><img alt="form and function of inventory" class="alignleft wp-image-8556 size-medium" height="177" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/form-and-function-of-inventory-300x177.png" width="300" /></p>
+    <p>These discussions are intense and often convoluted. We find a general lack of understanding of the impact of complexity on supply chain performance. While process industries focus on the efficient supply chain of mass production, marketing strategies focus on late-stage postponement strategies and customization. As a result, the front office and back office strategies are not aligned.</p>
+    <p><strong>Fighting the Status Quo</strong></p>
+    <p>There is a pervasive believe in the industry that supply chain leaders are making progress. After all, isn&#8217;t this why we call traditional processes, &#8220;best practices?&#8221; Isn&#8217;t it about people, process and technology and process evolution? We think not. Traditional processes are not equal to today&#8217;s challenges. Technology companies are pushing their products. Business development campaigns, advertisements, and consulting calls to implement ERP, upgrade analytics and focus on best practices inundate traditional agendas. The stories of success are largely project-based improvements that did not translate to long-term balance sheet value. Or they were progress in vertical supply chain efficiency in manufacturing or transportation. It is seldom a story of the translation of supply chain transformation to improve dynamic organizational capabilities with sustained balance sheet results.</p>
+    <p>I encourage teams to look at the facts. This is the goal of this post. The belief of &#8220;best practices&#8221; as defined by historic supply chain processes is not supported by the balance sheet analysis. We are making a mistake of having companies tasked with a force march to implement the &#8220;tightly integrated supply chain&#8221; that is inflexible and cannot sense market trends.  While companies need ERP as a system of record for transactional processing, it is not the future of supply chain analytics or innovation.</p>
+    <p>The opportunity? Rethink supply chain practices. Companies do not make progress when we attack problems in the same old way. To illustrate the point, here we share snapshots from four different value chains: automotive, healthcare, consumer, and technology. In each case, note that the greatest improvement is happening in industries like contract manufacturing where innovation is a necessity due low margins. It is not happening in industries with traditionally high margins like pharmaceuticals or household products.</p>
+    <p>Supply chains pedal better uphill than downhill. Companies balance supply chain metrics better in good times than bad. In a nut shell, we find that good new of successful growth travels quickly; conversely, bad news of declining growth moves slowly. There is denial. As a result, the supply chain cannot adapt. To gain this understanding, compare the results below automotive industry to the consumer value chain. The automotive supply chain is rebounding with growth post recession.</p>
+    <p><strong>A Closer Look at Value Chains</strong></p>
+    <p>To understand these trends, let&#8217;s take a closer look at value chains. Of all the value chains, the automotive value chain is making the greatest improvement. As shown in Figure 1. Car buying growth stimulated the value chain.</p>
+    <p>Reader&#8217;s note, the way to reach this chart is to first identify the average value for the metric for the period of 2010-2016. Then identify, if the peer group is making progress. For example, the average growth rate for the automotive industry for the period of 2010-2016 is 9%. The growth rate of 2016 when compared to 2010 is an increase of 28%. As you scan across the first line, of Figure 1, you can see that the industry improved performance in all metrics with the exception of SG&amp;A. A green arrow represents improvement while a red arrow indicates a deterioration in metrics performance.  As you scan down the chart, note that the green arrows are fewer and fewer. In critical industries like semiconductor and computer hardware, growth is down, operating margin is off and inventory turns are declining. This is the case in most industries.</p>
+    <p>The source of this data is a syndicated data source (Y Charts) for financial data. We take public companies and place them into industry peer groups and begin the analysis for time periods. The period of 2010-2016 represents post-recession results.</p>
+    <p>Figure 1. Automotive Value Networks</p>
+    <p><img alt="automotive_valuechain_revision_jul32017" class="alignleft wp-image-8545" height="427" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/automotive_valuechain_revision_jul32017-1024x728.png" width="800" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>The consumer value chain has fewer green arrows. While the packaging industry has consolidated to gain economies of scale, progress in this value chain is an exception. The transformation of the channel with eCommerce is leading to disintermediation, and transformation of trading relationships. Historic leaders, with strong global teams, are insular to change, and have been slow to develop new business models and use channel data.</p>
+    <p>Figure 2. Consumer Value Networks 2010-2016</p>
+    <p><img alt="consumer value networks_revision2_July3" class="alignleft wp-image-8544" height="427" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/consumer-value-networks_revision2_July3-1024x775.png" width="800" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>In most industries, there is progress in cash-to-cash, but not in inventory. Elongation of Days of Payables improves the state of Cash-to-Cash for the enterprise, but not the value chain. Why? The focus on the elongation of Payables adds cost and waste to suppliers in the value chain. It is a short-term gain for the enterprise with long-term implications. Also despite improvements in revenue/employee, these improvements do not counteract market factors to offset the deterioration of margin. To overcome these trends, companies need to move to bi-directional orchestration across source, make and deliver. Most have focused on vertical silo improvements, but not the redesign of value networks. Efficient organizational silos do not deliver effective supply chain performance.</p>
+    <p>Figure 3. Healthcare Value Chain 2010-2016</p>
+    <p><img alt="healthcare_july3_2017" class="alignleft size-large wp-image-8550" height="427" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/healthcare_july3_2017-1024x632.png" width="800" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>The biggest and most detrimental shifts in market drivers occurred in the Technology Value Chain. Post-recession negative market winds blew strong in this value chain. It is a case of when the going gets tough, the tough get going. Ironically, despite these odds, in the <a href="http://www.supplychainshaman.com/supply-chain-2/supply-chain-excellence/announcing-the-supply-chains-to-admire-winners-2017/" title="Announcing the Supply Chains to Admire 2017 Award Winners">Supply Chains to Admire Research</a>, there are more leaders from the Technology Value Network, than any other value chain. While the process industries focused on safety stock, the high-tech sector used network optimization technologies to design the form and function of inventory and align push/pull decoupling points. This industry takes planning seriously. Excel ghettos dominate process industries, and the overuse of spreadsheets becomes a barrier. High-tech industries are the best planners across all industries. Career paths, analytics and center of excellence are better defined with greater results in these industries.</p>
+    <p>Figure 4. Technology Value Chain Progress 2010-2016</p>
+    <p><img alt="technology value networks_july2017" class="alignleft wp-image-8551" height="540" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/technology-value-networks_july2017.jpg" width="720" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p><strong>Conclusion.</strong></p>
+    <p>What can we learn? Value chain views are a litmus test: a barometer of business process improvement. We think it is time to sit back and reflect on the trends.</p>
+    <p>For us, there are five takeaways:</p>
+    <p><strong>1) Set realistic set points</strong>. Use these charts to understand what is possible in both the areas of performance and improvement within your industry and for value networks. Define your balanced portfolio and align to realistic goals</p>
+    <p><strong>2) Focus on a balanced portfolio of metrics.</strong> The concept of a balanced scorecard is easier to say than do. Planning and horizontal processes help companies achieve balance. Get good at planning. Do not limit planning options to sub-standard options offered by ERP providers. IT standardization discussions derails many great projects.  There is a false belief that when planning tools are purchased from the ERP vendor that there is a higher probability of success. This is not the case. Use the data in these charts to define your balanced scorecard.</p>
+    <p><strong>3) Learn from other industries. </strong>Start by getting honest on current supply chain performance. Hold yourself accountable to the balance sheet and income statement data within your industry and branch-out to understand how contract manufacturers have driven improvements between trading partners or how high-tech leaders have driven differentiation in the face of tough market conditions.</p>
+    <p><strong>4) The opportunity is beyond the four-walls of the enterprise.</strong> Pushing water uphill is hard. Realize when you are stuck and challenge the status quo. The greatest opportunity is the automation of processes between the vertical silos of the enterprise and the definition of multi-process flows between companies in value chains. Go beyond the traditional concepts of tight integration and focus on the harmonization and synchronization of data across value networks. What to do? Invest in the use of cognitive computing engines and machine learning to clean data and automate/define adaptive rule sets. Test blockchain concepts to drive B2B process flows and use sensors/Internet of Things to automate real-time data flows. Focus on the confluence of technologies. Experiment with open source alternatives and design these flows outside-in. Avoid the traditional inside-out definitions. (If you want to align with other companies to test these technologies to automate B2B join the Network of Networks effort. Our next meeting is in <a href="http://supplychaininsights.com/events/">Dallas on July 25th-26th</a>.)</p>
+    <p><strong>5) Avoid business process outsourcing.</strong> Many companies today are looking at BPO strategies as easy answers to reduce costs. We find that extreme use of BPO initially reduces costs, but reduces long-term competitiveness. Use caution. While the Indian outsourcing firms offer lower costs of labor, we find that most Indian outsourcing firms struggle to understand the process implications of organizational change management and process redefinition. Buyers beware.</p>
+    <p>For more on these trends, and technology innovation areas, join us at the <a href="http://feeds.feedburner.com/www.supplychaininsightsglobalsummit.com">Supply Chain Insights Global Summit</a> on September 5th-8th, 2017. At this conference, we will share the insights of correlations between our five years of quantitative studies (7000 responses), fifteen years of financial data and market indexes. Join the conference to gain an understanding of the characteristics of companies that have driven the greatest improvements on cost, growth and value. The program focuses on supply chain innovation. We handpick the presenters. Our goal is to use the mining of data using big data analytics to give us new insights and drive a quantum change in supply chain management processes. (For more on this project, <a href="https://www.linkedin.com/pulse/eating-my-own-dog-food-lora-cecere">check out this post.</a>) We hope to see you there!</p>
+    <p><a class="a2a_button_email" href="http://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fmarket-driven%2Fmarket-driven-value-networks%2Flooking-beyond-red-arrows%2F&amp;linkname=Looking%20Beyond%20Red%20Arrows" rel="nofollow" target="_blank" title="Email"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fmarket-driven%2Fmarket-driven-value-networks%2Flooking-beyond-red-arrows%2F&amp;linkname=Looking%20Beyond%20Red%20Arrows" rel="nofollow" target="_blank" title="Twitter"></a><a class="a2a_button_linkedin" href="http://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fmarket-driven%2Fmarket-driven-value-networks%2Flooking-beyond-red-arrows%2F&amp;linkname=Looking%20Beyond%20Red%20Arrows" rel="nofollow" target="_blank" title="LinkedIn"></a><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fmarket-driven%2Fmarket-driven-value-networks%2Flooking-beyond-red-arrows%2F&amp;linkname=Looking%20Beyond%20Red%20Arrows" rel="nofollow" target="_blank" title="Facebook"></a><a class="a2a_dd a2a_counter addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.supplychainshaman.com%2Fmarket-driven%2Fmarket-driven-value-networks%2Flooking-beyond-red-arrows%2F&amp;title=Looking%20Beyond%20Red%20Arrows"></a></p><img alt="" height="1" src="http://feeds.feedburner.com/~r/SupplyChainShamancom/~4/S_xNCUtWjqU" width="1" />

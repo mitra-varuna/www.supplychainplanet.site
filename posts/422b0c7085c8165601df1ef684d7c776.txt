@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Dell using ocean plastic as packaging   <a href="https://www.cips.org/en/supply-management/news/2017/july/dell-using-ocean-plastic-as-packaging/">https://www.cips.org/en/supply-management/news/2017/july/dell-using-ocean-plastic-as-packaging/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/PL96GWIWWf">pic.twitter.com/PL96GWIWWf</a></a></p> <img src="https://pbs.twimg.com/media/DD6B28aWAAExjuE.jpg" width="250" />

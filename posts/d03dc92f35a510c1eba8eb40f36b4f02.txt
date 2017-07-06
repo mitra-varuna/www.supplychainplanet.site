@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">&pound;3.7bn frigate contract 'designed to protect against cost overruns'   <a href="https://www.cips.org/en/supply-management/news/2017/july/37bn-frigate-contract-designed-to-protect-against-cost-overruns/">https://www.cips.org/en/supply-management/news/2017/july/37bn-frigate-contract-designed-to-protect-against-cost-overruns/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/43b4uueizX">pic.twitter.com/43b4uueizX</a></a></p> <img src="https://pbs.twimg.com/media/DD45N_bXoAEHCK7.jpg" width="250" />

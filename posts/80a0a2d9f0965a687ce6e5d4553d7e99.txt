@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Demand forecasting should be done in-house for effective and efficient integration with planning processes such as S&amp;OP, and also for competitive and financial disclosure reasons.

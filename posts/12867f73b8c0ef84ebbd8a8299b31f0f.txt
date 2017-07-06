@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The Manufacturing Institute, Deloitte and APICs recently released a study, “Women in Manufacturing: Stepping up to make an impact that matters.” The supply chain implications make this a “must read” for managers.

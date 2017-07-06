@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">An anime fan poses with his new wife after a virtual wedding ceremony in Tokyo, Japan   <a href="https://www.cips.org/en/supply-management/">https://www.cips.org/en/supply-management/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/sLsA2OaL2g">pic.twitter.com/sLsA2OaL2g</a></a></p> <img src="https://pbs.twimg.com/media/DD5MitWXgAUnFlJ.jpg" width="250" />
