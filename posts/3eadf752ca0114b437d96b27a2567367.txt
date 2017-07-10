@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Cyber attack could cost Reckitt Benckiser &pound;100m in lost sales  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CyberSecurity?src=hash">#<b>CyberSecurity</b></a>  <a href="https://www.cips.org/en/supply-management/news/2017/july/cyber-attack-costs-Reckitt-Benckiser-100m/">https://www.cips.org/en/supply-management/news/2017/july/cyber-attack-costs-Reckitt-Benckiser-100m/&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The International Air Transport Association (IATA) released data for global air freight markets showing that demand grew 12.7% in May 2017 compared to the year-earlier period.

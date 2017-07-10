@@ -1,0 +1,3 @@
+.. raw:: html
+
+    According to a recent study from 3M, 70-percent of suppliers claim that half their customers do not have systems in place for collaboration – this leads to inefficiencies.

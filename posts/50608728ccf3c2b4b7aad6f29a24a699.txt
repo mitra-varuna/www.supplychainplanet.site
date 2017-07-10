@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Should you be adopting RVfM to determine value for money?  Tune into our webcast 11 July and see for yourself   <a href="http://bit.ly/2sT6V4Z">http://bit.ly/2sT6V4Z&nbsp;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/ad?src=hash">#<b>ad</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/3Wi2VRzoxC">pic.twitter.com/3Wi2VRzoxC</a></a></p> <img src="https://pbs.twimg.com/media/DEJCCuAXsAA9BxY.jpg" width="250" />

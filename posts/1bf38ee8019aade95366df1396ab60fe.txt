@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">What you need to know about Amazon&rsquo;s bid for Whole Foods and how it will impact on retail supply chains   <a href="https://www.cips.org/en/supply-management/analysis/2017/july/what-you-need-to-know-about-amazons-bid-for-whole-foods/">https://www.cips.org/en/supply-management/analysis/2017/july/what-you-need-to-know-about-amazons-bid-for-whole-foods/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/mQf3dkfwNd">pic.twitter.com/mQf3dkfwNd</a></a></p> <img src="https://pbs.twimg.com/media/DEDMA5vXcAIUAZQ.jpg" width="250" />

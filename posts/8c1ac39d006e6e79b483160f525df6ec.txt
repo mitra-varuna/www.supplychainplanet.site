@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A panel of experts participated in a "brown bag" lunch discussion this past week, hosted by the Federal Maritime Commission, where the topic of blockchain technology and its applicability to supply chain management and increasing efficiency in international trade was explored.

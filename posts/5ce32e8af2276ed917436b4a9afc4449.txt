@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Five tips for buying marketing technology  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="https://www.cips.org/en/supply-management/analysis/2017/july/five-tips-for-buying-marketing-technology/">https://www.cips.org/en/supply-management/analysis/2017/july/five-tips-for-buying-marketing-technology/&nbsp;&hellip;</a></p>
