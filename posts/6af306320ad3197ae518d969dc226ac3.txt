@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">An alternative proposal could take &pound;6.7bn off the cost of Heathrow expansion   <a href="http://bit.ly/2sXqzx3">http://bit.ly/2sXqzx3&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

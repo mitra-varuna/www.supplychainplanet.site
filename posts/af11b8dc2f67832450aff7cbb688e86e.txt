@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Doing a comprehensive assessment (and then constructing a roadmap for improvement) is exactly what most companies should do (at least once).
