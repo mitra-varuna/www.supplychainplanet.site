@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Thanks to recent advances in information technology, there’s never been such a wealth of facts and analytics captured by today’s research firms. But the sheer volume of these numbers can easily overwhelm supply chain managers
