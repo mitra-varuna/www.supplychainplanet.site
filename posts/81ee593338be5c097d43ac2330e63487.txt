@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Marketing procurement processes &lsquo;too slow&rsquo;  <a href="https://www.cips.org/en/supply-management/news/2017/july/marketing-procurement-processes-too-slow/">https://www.cips.org/en/supply-management/news/2017/july/marketing-procurement-processes-too-slow/&nbsp;&hellip;</a></p>

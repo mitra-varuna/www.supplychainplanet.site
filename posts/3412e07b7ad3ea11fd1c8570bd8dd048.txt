@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Luxury brands failing to source sustainable timber, says WWF  <a href="https://www.cips.org/en/supply-management/news/2017/july/luxury-brands-failing-to-source-sustainable-timber-say-wwf/">https://www.cips.org/en/supply-management/news/2017/july/luxury-brands-failing-to-source-sustainable-timber-say-wwf/&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Sustainability concerns are driving rival companies to collaborate.   <a href="http://bit.ly/2uDItFH">http://bit.ly/2uDItFH&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/C4LlccRBNb">pic.twitter.com/C4LlccRBNb</a></a></p> <img src="https://pbs.twimg.com/media/DFAvm88XsAA9KeJ.jpg" width="250" />

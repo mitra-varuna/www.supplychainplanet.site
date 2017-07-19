@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Don't be blinded by rivalry - there's good in working with competitors. Latest Supply Management online now   <a href="http://bit.ly/2uqrExp">http://bit.ly/2uqrExp&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/VzDwq91raf">pic.twitter.com/VzDwq91raf</a></a></p>

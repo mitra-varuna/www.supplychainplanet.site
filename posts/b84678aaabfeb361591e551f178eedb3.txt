@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The 14 chokepoints impacting food supply chains globally   <a href="https://www.cips.org/supply-management/news/2017/june/trade-chokepoints-threaten-global-food-supply-warns-report/">https://www.cips.org/supply-management/news/2017/june/trade-chokepoints-threaten-global-food-supply-warns-report/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/cx0r4DqLYd">pic.twitter.com/cx0r4DqLYd</a></a></p>

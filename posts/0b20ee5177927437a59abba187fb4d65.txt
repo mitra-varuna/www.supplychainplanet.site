@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Amber Road announced this week that it has added advanced Politically Exposed Persons (PEPs) lists to Its Global Knowledge database.

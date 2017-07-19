@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">'Romantics who see Brexit as chance to relive wartime days go silent if culinary era of spam is mentioned'   <a href="http://bit.ly/2tiJrqx">http://bit.ly/2tiJrqx&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/OJCE1h9PDp">pic.twitter.com/OJCE1h9PDp</a></a></p> <img src="https://pbs.twimg.com/media/DE8ZAmZXgAAhHkW.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Demand for top talent increases as supply chain volumes and complexity rise, but the supply of that talent is decreasing.
