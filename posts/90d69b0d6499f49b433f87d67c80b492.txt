@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Trucking companies are rated on a general scorecard, which allows them to benchmark, and gives shippers some guidance on performance levels when developing their routing guides. But what if current scorecards are too general to give shippers the information they need to create a portfolio of high-performance carriers with different market strategies? In our research [&#8230;]

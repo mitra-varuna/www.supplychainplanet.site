@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">This woman has been given the job of growing Apple's market share in China   <a href="https://www.cips.org/en/supply-management/news/2017/july/apples-chinese-challenge/">https://www.cips.org/en/supply-management/news/2017/july/apples-chinese-challenge/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/5nhcRLIdGJ">pic.twitter.com/5nhcRLIdGJ</a></a></p> <img src="https://pbs.twimg.com/media/DFRh1PiW0AIP03j.jpg" width="250" />

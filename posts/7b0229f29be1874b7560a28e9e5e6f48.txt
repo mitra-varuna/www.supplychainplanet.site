@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Kuebix, creator of a transportation management systems providing shipping intelligence, recently partnered with SimpliShip International Freight Rate API to manage all freight modes and providers on one cloud-based platform.

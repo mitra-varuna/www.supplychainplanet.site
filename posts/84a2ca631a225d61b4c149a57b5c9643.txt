@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">How to ensure your business supports gender-balanced procurement.   <a href="http://bit.ly/2uLEvei">http://bit.ly/2uLEvei&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/klEq69TAcd">pic.twitter.com/klEq69TAcd</a></a></p> <img src="https://pbs.twimg.com/media/DFKqXMEXYAALjtE.jpg" width="250" />

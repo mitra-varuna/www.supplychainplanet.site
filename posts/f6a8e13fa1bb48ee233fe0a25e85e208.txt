@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Ghana facing food shortages due to armyworm  <a href="https://www.cips.org/en/supply-management/news/2017/july/ghanaian-farmers-urge-ministers-to-step-up-fight-against-armyworms/">https://www.cips.org/en/supply-management/news/2017/july/ghanaian-farmers-urge-ministers-to-step-up-fight-against-armyworms/&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Inquiry uncovers Indian pulses cartel behaviour  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsasia">@<b>cipsasia</b></a>  <a href="https://www.cips.org/en/supply-management/news/2017/july/cartel-behaviour-behind-spike-in-india-pulse-prices/">https://www.cips.org/en/supply-management/news/2017/july/cartel-behaviour-behind-spike-in-india-pulse-prices/&nbsp;&hellip;</a></p>

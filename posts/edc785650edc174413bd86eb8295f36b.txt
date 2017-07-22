@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Siam City Cement triumphs at CIPS Asia SM Awards   <a href="https://www.cips.org/en/supply-management/news/2017/july/siam-city-cement-triumphs-at-cips-asia-sm-awards/">https://www.cips.org/en/supply-management/news/2017/july/siam-city-cement-triumphs-at-cips-asia-sm-awards/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/xQRoREQLF4">pic.twitter.com/xQRoREQLF4</a></a></p> <img src="https://pbs.twimg.com/media/DFK80xvW0AEjhSn.jpg" width="250" />

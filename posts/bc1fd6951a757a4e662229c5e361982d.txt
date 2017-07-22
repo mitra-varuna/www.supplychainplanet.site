@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">UN encourages procurement professionals to ensure gender-balanced buying.   <a href="http://bit.ly/2uLEvei">http://bit.ly/2uLEvei&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/eMwBvQ436e">pic.twitter.com/eMwBvQ436e</a></a></p> <img src="https://pbs.twimg.com/media/DFKrTumXkAAU9Up.jpg" width="250" />

@@ -1,0 +1,61 @@
+.. raw:: html
+
+    <p>Getting S&amp;OP right is hard. The facts don’t lie.</p>
+    <p>According to Gartner, 67% of companies can not get further than stage 2 out of a four-stage S&amp;OP maturity model. Lora Cecere assessed that 36% of companies’ S&amp;OP efforts are stalled or moving slowly. This lack progress or even stalling of S&amp;OP, can be even despite processes, KPI’s and systems are all well implemented and integrated.</p>
+    <p>What else can be done to get your S&amp;OP initiative on track to become great?</p>
+    <p>In an extensive review of S&amp;OP literature, Tuomikangas and Kaipia (2014) specifically mention that the “<strong><em>organizational mind-set and practices that facilitate and advance formal planning</em></strong>” impact effective S&amp;OP. To win with S&amp;OP, you clearly need a wining organizational mindset.</p>
+    <h2><strong>A Winning Mindset</strong></h2>
+    <p>Performance psychologist and practitioner Jim Loehr called the mind-set of the winner Mental Toughness, a concept that has been successfully used in elite sport coaching for the last 30 years. Professor Peter Clough took Mental Toughness out of the elite sport environmnet in to our every day and business life. He identified <strong><em>control</em></strong>, <strong><em>commitment</em></strong>, <strong><em>challenge</em></strong>, and <strong><em>confidence</em></strong> as the underlying attributes of Mental Toughness. These are also called the four C’s:</p>
+    <ul>
+    <li><em><strong>Challenge</strong> </em>– stretch yourself, seeing challenge as an opportunity and “getting comfortable with being uncomfortable”.</li>
+    <li><em><strong>Confidence</strong> </em>– having high levels of self-belief and confidence in interpersonal interactions.</li>
+    <li><strong><em>Commitment</em></strong>– goal setting and being able to stick to tasks and agreements.</li>
+    <li><strong><em>Control</em></strong>– self esteem, being comfortable in your own skin and managing emotions.</li>
+    </ul>
+    <h2><strong>Team Mindset and effective S&amp;OP</strong></h2>
+    <p>Survey participant in my S&amp;OP Pulse Check, who indicate they have an effective S&amp;OP processes, also indicate they see more evidence of the attributes of a winning mindset in their organisation. As the graph below shows, effective S&amp;OP processes see more stake holder commitment, willingness to change, emotional control, challenging peers and pro-activeness.</p>
+    <p><a href="https://supplychaintrends.files.wordpress.com/2017/01/sop-mindset.png"><img alt="" class="aligncenter wp-image-2384" height="344" src="https://supplychaintrends.files.wordpress.com/2017/01/sop-mindset.png?w=414&#038;h=344" width="414" /></a></p>
+    <p>Using the 4 C’s, here are some of the behaviours Mentally Tough S&amp;OP teams display.*</p>
+    <p><strong> Control</strong></p>
+    <ul>
+    <li>Agree on who is doing what.</li>
+    <li>Accept that setbacks are normal occurrences.</li>
+    <li>Agree on a plan together and stick to it.</li>
+    <li>Keep their calm in heated discussion.</li>
+    <li>Give each other the space and time needed to recover from setbacks.</li>
+    <li>Work as a team to manage and accept the things outside of your control.</li>
+    </ul>
+    <p><strong>Challenge</strong></p>
+    <ul>
+    <li>Review and prioritise work together.</li>
+    <li>Communicate and constructively challenge each other.</li>
+    <li>Define stretching goals as a team.</li>
+    <li>View challenges as opportunities.</li>
+    <li>Break down challenges into bit sized chunks so as not to get overwhelmed.</li>
+    <li>Recognise when you need time out as a team to recharge.</li>
+    </ul>
+    <p><strong>Commitment</strong></p>
+    <ul>
+    <li>Take time to recognise contributions and give praise.</li>
+    <li>Review resources and energy and where these can best be directed.</li>
+    <li>Identify what motivates you as a team.</li>
+    <li>Agree on goals and deadlines and stick to them.</li>
+    <li>Don’t be afraid to ask each other for help.</li>
+    <li>Listen to each other and ask questions.</li>
+    </ul>
+    <p><strong>Confidence</strong></p>
+    <ul>
+    <li>Recognise each other’s strengths – engage in strength spotting and then acknowledge and use these strengths.</li>
+    <li>Don’t dwell on mistakes and over-generalise.</li>
+    <li>Pro-actively engage cross functional silo’s.</li>
+    <li>Speak up when you have another opinion.</li>
+    <li>Always keep in mind the positive intent behind any conversation.</li>
+    <li>Give team members support to improve their skills.</li>
+    </ul>
+    <p>Mental Toughness can be measured and developed. On individual, team and on organisational level. Only 26% of S&amp;OP practitioners believe behaviours are addressed enough in S&amp;OP implementations. However, developing a wining mindset is one of the keys to effective S&amp;OP and unlocking team potential.</p>
+    <h2><strong>Addressing Mindset is the next step in S&amp;OP</strong></h2>
+    <p>Most businesses have tried the processes, systems, KPI’s, scorecards and benchmarking tools. After 30 years of S&amp;OP, that’s old news by now. It is time to have another type of conversation in the business to become great at S&amp;OP. It is time to have a conversation about a winning S&amp;OP mindset. It is time to define what’s required to develop a winning mindset for your business and make this part of a long-term S&amp;OP vision. You can&#8217;t just assume you have a winning mindset when you implement S&amp;OP.</p>
+    <p>Only with the development and nurturing of a winning team mindset as part of your S&amp;OP vision, you’ll have a change to rejuvenate your S&amp;OP and continue that long journey to become great at S&amp;OP.</p>
+    <p>Niels is an acknowledged S&amp;OP expert and accredited Mental Toughness coach. If you want to know more about team Mental Toughness and rejuvenating your S&amp;OP, you can contact him at <a href="mailto:niels@mentaltoughness.online">niels@mentaltoughness.online</a> or download <a href="https://supplychaintrends.files.wordpress.com/2017/04/mental-toughness-workshop-sop1.pdf" rel="noopener" target="_blank">this brochure.</a></p>
+    <p>*with thanks to my Mental Toughness colleague Michelle Bakjac</p>
+    <p>&nbsp;</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/supplychaintrends.wordpress.com/2570/" /></a> <a href="http://feeds.wordpress.com/1.0/godelicious/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/supplychaintrends.wordpress.com/2570/" /></a> <a href="http://feeds.wordpress.com/1.0/gofacebook/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/supplychaintrends.wordpress.com/2570/" /></a> <a href="http://feeds.wordpress.com/1.0/gotwitter/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/supplychaintrends.wordpress.com/2570/" /></a> <a href="http://feeds.wordpress.com/1.0/gostumble/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/supplychaintrends.wordpress.com/2570/" /></a> <a href="http://feeds.wordpress.com/1.0/godigg/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/supplychaintrends.wordpress.com/2570/" /></a> <a href="http://feeds.wordpress.com/1.0/goreddit/supplychaintrends.wordpress.com/2570/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/supplychaintrends.wordpress.com/2570/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=supplychaintrend.com&#038;blog=12046524&#038;post=2570&#038;subd=supplychaintrends&#038;ref=&#038;feed=1" width="1" />

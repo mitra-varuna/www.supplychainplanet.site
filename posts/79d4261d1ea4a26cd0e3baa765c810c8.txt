@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Optimizing Across Six Guiding Principles
