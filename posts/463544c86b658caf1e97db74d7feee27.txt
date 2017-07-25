@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The science of deal-making: learn how to read the signs if you want to negotiate the best deal   <a href="http://bit.ly/2uLwPIJ">http://bit.ly/2uLwPIJ&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/14JSM5ARg4">pic.twitter.com/14JSM5ARg4</a></a></p> <img src="https://pbs.twimg.com/media/DFKu7F_W0AAOT2V.jpg" width="250" />

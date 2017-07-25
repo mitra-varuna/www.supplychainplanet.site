@@ -1,0 +1,3 @@
+.. raw:: html
+
+    When looking to improve performance for regular activities such as ordering materials, many organizations overlook front-end processes that can have an impact.

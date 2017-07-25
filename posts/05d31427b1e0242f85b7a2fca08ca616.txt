@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Government pumps &pound;246m into electric battery technology   <a href="https://www.cips.org/en/supply-management/news/2017/july/government-invests-246m-into-electric-battery-technology/">https://www.cips.org/en/supply-management/news/2017/july/government-invests-246m-into-electric-battery-technology/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/utLCqs5imE">pic.twitter.com/utLCqs5imE</a></a></p> <img src="https://pbs.twimg.com/media/DFg0KrlXgAQR3sq.jpg" width="250" />

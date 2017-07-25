@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">How City of Gold Coast transformed its procurement function in order to host the 2018 Commonwealth Games
+      <a href="http://bit.ly/2tFoTJ0">http://bit.ly/2tFoTJ0&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/GzgPjKa5C3">pic.twitter.com/GzgPjKa5C3</a></a></p> <img src="https://pbs.twimg.com/media/DFkUfQ5W0AQZwp6.jpg" width="250" />

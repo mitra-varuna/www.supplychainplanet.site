@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Companies failing to address climate change and child labour in their supply chains finds  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/TheEIU">@<b>TheEIU</b></a> study   <a href="https://www.cips.org/en/supply-management/news/2017/july/companies-failing-to-address-climate-change-and-child-labour-in-their-supply-chains/">https://www.cips.org/en/supply-management/news/2017/july/companies-failing-to-address-climate-change-and-child-labour-in-their-supply-chains/&nbsp;&hellip;</a></p>
