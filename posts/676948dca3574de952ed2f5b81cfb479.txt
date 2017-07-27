@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Can you speak creative? How procurement can add value to marketing   <a href="http://bit.ly/2vL7vQl">http://bit.ly/2vL7vQl&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/hIl8OUPIvr">pic.twitter.com/hIl8OUPIvr</a></a></p> <img src="https://pbs.twimg.com/media/DFusyCoXsAA0bKX.jpg" width="250" />
