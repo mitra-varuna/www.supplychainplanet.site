@@ -1,0 +1,3 @@
+.. raw:: html
+
+    RapidRatings, a leader in “financial health” analytics for public and private companies, continues to track the trend of investment in risk management technologies across all industries and business areas.

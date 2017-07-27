@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">UK to ban sale of all diesel and petrol vehicles   <a href="https://www.cips.org/en/supply-management/news/2017/july/uk-to-ban-sale-of-all-diesel-and-petrol-vehicles-by-2040/">https://www.cips.org/en/supply-management/news/2017/july/uk-to-ban-sale-of-all-diesel-and-petrol-vehicles-by-2040/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/zze9TNl1qF">pic.twitter.com/zze9TNl1qF</a></a></p> <img src="https://pbs.twimg.com/media/DFq54AFXsAAiZKm.jpg" width="250" />

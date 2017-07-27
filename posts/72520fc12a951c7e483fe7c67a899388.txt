@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Supply audit: Speedo. Uncovering the swimwear brand that leaves little to the imagination   <a href="http://bit.ly/2eMwNKc">http://bit.ly/2eMwNKc&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/MDzd097UcA">pic.twitter.com/MDzd097UcA</a></a></p> <img src="https://pbs.twimg.com/media/DFpeXejXcAIScJ9.jpg" width="250" />
