@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Uncertainty around diesel ban could &lsquo;cripple firms&rsquo; says freight body   <a href="http://bit.ly/2tGI01l">http://bit.ly/2tGI01l&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>CIPSnews</b></a></p>
