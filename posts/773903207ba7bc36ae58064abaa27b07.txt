@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Do you know how to keep hold of your EU staff post Brexit? SM has some tips for procurement professionals.   <a href="http://bit.ly/2v1Nabw">http://bit.ly/2v1Nabw&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/Ewa4rTcWwe">pic.twitter.com/Ewa4rTcWwe</a></a></p> <img src="https://pbs.twimg.com/media/DFuxCKvXkAA0VDj.jpg" width="250" />

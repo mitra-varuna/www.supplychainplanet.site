@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Procurement and supply chain vacancies in the UK rose 22% year-on-year last quarter   <a href="http://bit.ly/2uJtxTz">http://bit.ly/2uJtxTz&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

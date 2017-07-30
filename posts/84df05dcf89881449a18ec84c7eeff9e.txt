@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Sudan aims to increase access to electricity by 13% a year, reaching universal access by 2025   <a href="http://bit.ly/2eQFmmY">http://bit.ly/2eQFmmY&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>CIPSnews</b></a></p>

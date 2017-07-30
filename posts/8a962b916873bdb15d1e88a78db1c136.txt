@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">A hotel group is rolling out anti-slavery training to more than 400 employees   <a href="http://bit.ly/2vQbQ4R">http://bit.ly/2vQbQ4R&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/tqdeehvvf9">pic.twitter.com/tqdeehvvf9</a></a></p> <img src="https://pbs.twimg.com/media/DF1fj91XsAA1GOO.jpg" width="250" />
