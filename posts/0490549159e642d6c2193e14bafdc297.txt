@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The world's first flying taxi, and other innovations from around the globe.   <a href="http://bit.ly/2uB0Cmm">http://bit.ly/2uB0Cmm&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/r04sovJaNZ">pic.twitter.com/r04sovJaNZ</a></a></p> <img src="https://pbs.twimg.com/media/DFvWl7BXsAA8sMU.jpg" width="250" />
