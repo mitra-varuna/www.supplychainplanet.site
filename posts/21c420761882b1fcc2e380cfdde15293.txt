@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Late payments affecting UK SMEs reach &pound;266bn. Read SM's tips on how to avoid payment delays   <a href="http://bit.ly/2faYrAN">http://bit.ly/2faYrAN&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/4MDIMMbJd4">pic.twitter.com/4MDIMMbJd4</a></a></p> <img src="https://pbs.twimg.com/media/DGSqip6V0AEJKb6.jpg" width="250" />

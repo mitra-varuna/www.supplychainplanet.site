@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Canada to increase cheese imports from Europe  <a href="https://www.cips.org/en/supply-management/news/2017/august/canada-to-double-cheese-imports-from-europe-/">https://www.cips.org/en/supply-management/news/2017/august/canada-to-double-cheese-imports-from-europe-/&nbsp;&hellip;</a></p>
