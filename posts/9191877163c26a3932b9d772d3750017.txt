@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Mixed PMI results in July demonstrate the effect economic uncertainty and the weak pound can have   <a href="http://bit.ly/2vvD7Nj">http://bit.ly/2vvD7Nj&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

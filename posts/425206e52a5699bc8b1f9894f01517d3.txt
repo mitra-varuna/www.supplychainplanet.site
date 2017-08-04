@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Resilinc, a California-based cloud provider of supply chain resilience and risk management intelligence and analytics has announced that the United States Patent and Trademark Office granted their patent for analyzing supply chain vulnerability metrics such as risk score and impact and presenting it via interactive maps and dashboards, using supplier intelligence collected via a networked solution and platform.

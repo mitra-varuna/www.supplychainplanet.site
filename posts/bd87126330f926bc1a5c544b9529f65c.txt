@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">From CPO to commercial leader: HSBC's Alison Barto talks to Supply Management   <a href="http://bit.ly/2wnRgIs">http://bit.ly/2wnRgIs&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/xLZRDB6Reh">pic.twitter.com/xLZRDB6Reh</a></a></p> <img src="https://pbs.twimg.com/media/DGSoHTtV0AAcJgz.jpg" width="250" />

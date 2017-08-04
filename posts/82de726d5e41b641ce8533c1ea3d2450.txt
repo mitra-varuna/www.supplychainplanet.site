@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">July&rsquo;s PMI results are a &lsquo;worryingly mixed bag&rsquo;   <a href="http://bit.ly/2vvD7Nj">http://bit.ly/2vvD7Nj&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

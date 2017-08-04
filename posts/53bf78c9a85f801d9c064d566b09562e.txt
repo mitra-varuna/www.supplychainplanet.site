@@ -1,0 +1,3 @@
+.. raw:: html
+
+    This week, Oracle announced the introduction and availability of Oracle Cloud Applications Release 13 including Oracle SCM Cloud with a significant added complement of added applications, features and functionality.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/8nWsjp6RSfg" width="1" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">GDPR could lead to &ldquo;disruptive&rdquo; consumer privacy demands   <a href="https://www.cips.org/en/supply-management/news/2017/august/gdpr-could-lead-to-disruptive-consumer-privacy-demands/">https://www.cips.org/en/supply-management/news/2017/august/gdpr-could-lead-to-disruptive-consumer-privacy-demands/&nbsp;&hellip;</a></p>
