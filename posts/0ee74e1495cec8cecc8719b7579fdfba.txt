@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Seven things you should be doing about  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/Brexit?src=hash">#<b>Brexit</b></a>   <a href="https://www.cips.org/en/supply-management/analysis/2017/august/seven-things-you-should-be-doing-about-brexit/">https://www.cips.org/en/supply-management/analysis/2017/august/seven-things-you-should-be-doing-about-brexit/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

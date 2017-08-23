@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In Chinese ports, less than container load (LCL) business processes are complicated and inefficient. As container throughput volumes have risen in line with the growth in international trade and economic development, the need to improve LCL processes has become more urgent. The Malaysia Institute of Supply Chain Innovation (MISI) and Shanghai Jiaotong University are engaged [&#8230;]

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Supply chain and purchasing among top paying non-degree jobs   <a href="https://www.cips.org/en/supply-management/news/2017/august/supply-chain-and-purchasing-roles-among-highest-paying-non-degree-jobs/">https://www.cips.org/en/supply-management/news/2017/august/supply-chain-and-purchasing-roles-among-highest-paying-non-degree-jobs/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

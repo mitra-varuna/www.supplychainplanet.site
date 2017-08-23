@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Tainted eggs: two arrested as scandal unfolds  <a href="https://www.cips.org/en/supply-management/news/2017/august/tainted-eggs-two-arrests-as-scandal-spreads-globally/">https://www.cips.org/en/supply-management/news/2017/august/tainted-eggs-two-arrests-as-scandal-spreads-globally/&nbsp;&hellip;</a></p>

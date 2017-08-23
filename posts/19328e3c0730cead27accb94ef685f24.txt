@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In a world driven by new technology, industries are finding ways to work faster and smarter.

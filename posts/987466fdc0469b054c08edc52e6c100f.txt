@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The days of EDI connectivity is quickly becoming outdated and replaced with real-time data feeds that benefit both shipper and their shipping partners.

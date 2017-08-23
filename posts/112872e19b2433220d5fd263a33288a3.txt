@@ -1,0 +1,3 @@
+.. raw:: html
+
+    VMI is a way for suppliers to manage re-supply by monitoring customer stock levels and forward demand that optimizes working capital with service levels. Use these tips for best managing the VMI relationship.

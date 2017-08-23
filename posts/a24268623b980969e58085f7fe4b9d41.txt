@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The advent of autonomous vehicles is nothing short of a revolution. For the logistics world, it could mean a near end to human-caused accidents and could single-handedly eliminate the driver shortage problem.

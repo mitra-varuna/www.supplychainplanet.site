@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In order to gain true end-to-end supply chain visibility and unlock the full potential for strategic savings opportunities, shippers must get beyond the shipment level to the PO level.

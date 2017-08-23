@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The government has outlined two post-Brexit customs plans   <a href="http://cips.org/en/supply-management/news/2017/august/government-fleshes-out-post-brexit-customs-proposals/">http://cips.org/en/supply-management/news/2017/august/government-fleshes-out-post-brexit-customs-proposals/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

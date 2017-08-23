@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Councils call for &lsquo;lighter touch&rsquo; procurement post Brexit   <a href="https://www.cips.org/en/supply-management/news/2017/august/councils-call-for-lighter-touch-procurement-post-brexit/">https://www.cips.org/en/supply-management/news/2017/august/councils-call-for-lighter-touch-procurement-post-brexit/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

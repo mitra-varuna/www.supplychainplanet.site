@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">UK government teams up with CIPS to boost commercial skills   <a href="https://www.cips.org/en/supply-management/news/2017/august/uk-government-teams-up-with-cips-to-boost-commercial-capability/">https://www.cips.org/en/supply-management/news/2017/august/uk-government-teams-up-with-cips-to-boost-commercial-capability/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/rcDs7xtBn1">pic.twitter.com/rcDs7xtBn1</a></a></p> <img src="https://pbs.twimg.com/media/DHcE9P8W0AAg4yC.jpg" width="250" />

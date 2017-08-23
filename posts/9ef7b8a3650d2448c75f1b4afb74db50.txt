@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">DHL's smart glasses have increased production in warehouses by 15%  <a href="https://www.cips.org/en/supply-management/news/2017/august/dhl-smart-glasses-new-standard-in-logistics-/">https://www.cips.org/en/supply-management/news/2017/august/dhl-smart-glasses-new-standard-in-logistics-/&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">What are your preparations for Brexit? Check here:   <a href="https://www.cips.org/en/supply-management/analysis/2017/august/seven-things-you-should-be-doing-about-brexit/">https://www.cips.org/en/supply-management/analysis/2017/august/seven-things-you-should-be-doing-about-brexit/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/nFjWaYLOy3">pic.twitter.com/nFjWaYLOy3</a></a></p> <img src="https://pbs.twimg.com/media/DH6KDtNXgAAjeEj.jpg" width="250" />

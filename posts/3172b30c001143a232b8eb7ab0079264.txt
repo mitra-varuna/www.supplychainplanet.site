@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">LGA calls for a &lsquo;lighter touch&rsquo; procurement system once out of the EU   <a href="http://bit.ly/2wXvU5O">http://bit.ly/2wXvU5O&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

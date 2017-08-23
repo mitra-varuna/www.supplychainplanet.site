@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The new release includes a number of innovative solutions including: supplier collaboration, quality management, maintenance, sales and operations planning, demand management, and supply planning, as well as expansions across all existing solutions.

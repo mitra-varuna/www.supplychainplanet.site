@@ -1,0 +1,3 @@
+.. raw:: html
+
+    For every online store or drone delivery system introduced to commerce, in the end, a company’s products will come from warehouse storage of some sort.

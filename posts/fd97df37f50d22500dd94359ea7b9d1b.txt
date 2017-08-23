@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Infor, a provider of business applications specialized by industry and built for the cloud, today announced a series of new capabilities that are now available on the GT Nexus Commerce Network.

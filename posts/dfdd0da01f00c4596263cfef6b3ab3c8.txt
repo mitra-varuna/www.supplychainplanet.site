@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Stopping slavery is so much about transparency - have you done the five-minute supply chain survey yet?  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>
+      <a href="http://cipssurveys.reporting-modern-slavery-in-supply-chains-2017.sgizmo.com/s3/">&hellip;http://cipssurveys.reporting-modern-slavery-in-supply-chains-2017.sgizmo.com/s3/&nbsp;</a></p>

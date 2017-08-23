@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Slavery risk is up in 20 EU countries    <a href="https://www.cips.org/en/supply-management/news/2017/august/uk-modern-slavery-risk-rises/">https://www.cips.org/en/supply-management/news/2017/august/uk-modern-slavery-risk-rises/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/OUqnIW8Ecj">pic.twitter.com/OUqnIW8Ecj</a></a></p> <img src="https://pbs.twimg.com/media/DHRk37eXUAAGmtb.jpg" width="250" />

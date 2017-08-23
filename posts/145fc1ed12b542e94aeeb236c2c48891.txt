@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Supply chain says it can&rsquo;t afford any more delays over the new wind farm off the coast of Fife   <a href="http://bit.ly/2fROcBz">http://bit.ly/2fROcBz&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/NeNCV4JiQI">pic.twitter.com/NeNCV4JiQI</a></a></p> <img src="https://pbs.twimg.com/media/DHhigbtW0AQlnUd.jpg" width="250" />
