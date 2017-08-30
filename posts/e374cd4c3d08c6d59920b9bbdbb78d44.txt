@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Victoria hopes reverse auctions will help it hit its renewable energy targets   <a href="http://cips.org/en/supply-management/news/2017/august/victoria-releases-details-of-planned-renewable-energy-auction-/">http://cips.org/en/supply-management/news/2017/august/victoria-releases-details-of-planned-renewable-energy-auction-/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/cyRwCP3pIW">pic.twitter.com/cyRwCP3pIW</a></a></p> <img src="https://pbs.twimg.com/media/DIF7L12XsAA4k8C.jpg" width="250" />

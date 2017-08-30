@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">What part should procurement play in the Grenfell Tower inquiry?   <a href="https://www.cips.org/en/supply-management/news/2017/august/procurement-is-missing-piece-of-puzzle-in-grenfell-tower-inquiry/">https://www.cips.org/en/supply-management/news/2017/august/procurement-is-missing-piece-of-puzzle-in-grenfell-tower-inquiry/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/kDrtSsryzC">pic.twitter.com/kDrtSsryzC</a></a></p> <img src="https://pbs.twimg.com/media/DIF6AmaXUAAbId4.jpg" width="250" />

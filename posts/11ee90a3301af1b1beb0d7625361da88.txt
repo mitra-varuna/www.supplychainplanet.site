@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Tesco offers mini avocados to stop food waste   <a href="https://www.cips.org/en/supply-management/news/2017/august/tesco-offers-mini-avocados-to-stop-food-waste/">https://www.cips.org/en/supply-management/news/2017/august/tesco-offers-mini-avocados-to-stop-food-waste/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/LPAFHzK4Ge">pic.twitter.com/LPAFHzK4Ge</a></a></p> <img src="https://pbs.twimg.com/media/DH_BQuIW0AA7_AI.jpg" width="250" />

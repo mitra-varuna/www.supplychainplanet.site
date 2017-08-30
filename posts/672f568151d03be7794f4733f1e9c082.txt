@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Food industry warns of post-Brexit worker shortage   <a href="https://www.cips.org/en-gb/supply-management/news/2017/august/food-industry-warns-of-post-brexit-worker-shortage/">https://www.cips.org/en-gb/supply-management/news/2017/august/food-industry-warns-of-post-brexit-worker-shortage/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

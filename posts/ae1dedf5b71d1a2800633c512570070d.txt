@@ -1,0 +1,3 @@
+.. raw:: html
+
+    These past few weeks, there have been many announcements from IBM focused on blockchain proof-of-concept efforts with the largest and more significant coming this week.  These particular announcements are a component to our prediction of a renaissance in SCM technology investments.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/CDnD3Nd66Ow" width="1" />

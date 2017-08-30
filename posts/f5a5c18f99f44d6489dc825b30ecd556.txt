@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">A third of UK businesses in the food and drink supply chain could become 'unviable' without EU workers   <a href="http://cips.org/en-gb/supply-management/news/2017/august/food-industry-warns-of-post-brexit-worker-shortage/">http://cips.org/en-gb/supply-management/news/2017/august/food-industry-warns-of-post-brexit-worker-shortage/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

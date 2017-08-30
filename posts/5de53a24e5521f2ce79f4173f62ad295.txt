@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Groceries need to be stored and transported at different temperatures depending on the nature of each product – so why not rationalize the distribution of these items by accommodating different temperature zones in the same truck? This is the basic rationale of multi-compartment vehicle (MCV) distribution, which is gaining ground in Europe. But adding complexity [&#8230;]

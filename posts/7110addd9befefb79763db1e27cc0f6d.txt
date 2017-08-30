@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Firms will have to publish the pay ratios between chief executives and average employees under new laws   <a href="http://cips.org/en/supply-management/news/2017/august/companies-forced-to-publish-pay-ratios-between-top-and-average-employees/">http://cips.org/en/supply-management/news/2017/august/companies-forced-to-publish-pay-ratios-between-top-and-average-employees/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

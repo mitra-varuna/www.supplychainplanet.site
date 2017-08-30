@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Driverless truck trial set to start in 2018   <a href="https://www.cips.org/en/supply-management/news/2017/august/truck-platooning-trials-set-for-uk-major-roads/">https://www.cips.org/en/supply-management/news/2017/august/truck-platooning-trials-set-for-uk-major-roads/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ZXTeXaWzDh">pic.twitter.com/ZXTeXaWzDh</a></a></p> <img src="https://pbs.twimg.com/media/DIF33zBXoAEleFF.jpg" width="250" />

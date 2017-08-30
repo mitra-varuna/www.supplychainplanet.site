@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Demand for air freight showed the strongest growth in the first half of this year since 2010   <a href="http://cips.org/en-gb/supply-management/news/2017/august/air-freight-demand-shows-strong-growth/">http://cips.org/en-gb/supply-management/news/2017/august/air-freight-demand-shows-strong-growth/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

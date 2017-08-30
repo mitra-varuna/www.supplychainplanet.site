@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="fi">Unilever, Nestl&eacute; and Tyson join  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/blockchain?src=hash">#<b>blockchain</b></a> pioneers   <a href="https://www.cips.org/en/supply-management/news/2017/august/unilever-nestle-and-tyson-join-blockchain-collaboration/">https://www.cips.org/en/supply-management/news/2017/august/unilever-nestle-and-tyson-join-blockchain-collaboration/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>
