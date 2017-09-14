@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Heroes of modern slavery: Shayne Tyler. Despite threats from traffickers, he continues to uncover abuse   <a href="http://bit.ly/2gGAT3s">http://bit.ly/2gGAT3s&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/AVF8q2L9lM">pic.twitter.com/AVF8q2L9lM</a></a></p> <img src="https://pbs.twimg.com/media/DJChUcLWsAEZXVA.jpg" width="250" />

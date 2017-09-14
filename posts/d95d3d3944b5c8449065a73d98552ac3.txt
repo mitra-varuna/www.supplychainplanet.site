@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain planning involves the careful coordination of partners across the value chain to best meet customer requirements.

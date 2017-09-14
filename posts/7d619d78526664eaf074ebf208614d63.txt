@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain planning technology provider ToolsGroup made a significant product announcement this week, migrating its software to the Microsoft Azure platform and one that could lead to other announcements down the road.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/4o2EQWMIzXE" width="1" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Today is your last day to claim your Early Bird discount. Book now for the CIPS Annual Conference   <a href="http://www.cipsannualconference.com/">http://www.cipsannualconference.com/&nbsp;</a></p>

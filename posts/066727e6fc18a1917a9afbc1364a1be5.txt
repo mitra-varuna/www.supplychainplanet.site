@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Taking home the  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a> trophy for best process improvement initiative is  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/manairport">@<b>manairport</b></a>! Congratulations to all</p>

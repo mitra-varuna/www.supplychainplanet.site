@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">International procurement project of the year up next at the  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/CIPSSMAwards?src=hash">#<b>CIPSSMAwards</b></a> with the applause and win going to  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/InterserveNews">@<b>InterserveNews</b></a></p>

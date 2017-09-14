@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Thank you  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> &amp;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> for recognising Unseen CEO, Andrew Wallis's tireless effort to combat slavery.   <a href="http://bit.ly/2gzayEz">http://bit.ly/2gzayEz&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/GBow7QXy7l">pic.twitter.com/GBow7QXy7l</a></a></p> <img src="https://pbs.twimg.com/media/DI5EKqDXgAAqKIg.jpg" width="250" />

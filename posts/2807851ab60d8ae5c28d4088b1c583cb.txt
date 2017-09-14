@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">&lsquo;We must do better&rsquo; for modern slavery victims, says peer   <a href="https://www.cips.org/en/supply-management/news/2017/september/we-can-and-must-do-better-for-modern-slavery-victims-says-peer/">https://www.cips.org/en/supply-management/news/2017/september/we-can-and-must-do-better-for-modern-slavery-victims-says-peer/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

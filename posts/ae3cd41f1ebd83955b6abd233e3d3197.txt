@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Asian refineries are increasing production to fill the gap left by Hurricane Harvey  <a href="http://cips.org/en/supply-management/news/2017/september/asian-oil-refiners-move-to-fill-supply-gap-left-by-harvey/">http://cips.org/en/supply-management/news/2017/september/asian-oil-refiners-move-to-fill-supply-gap-left-by-harvey/&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Pitney Bowes recently announced a 48 percent increase in global parcel volume over the last two years, as reported by its second annual Parcel Shipping Index.

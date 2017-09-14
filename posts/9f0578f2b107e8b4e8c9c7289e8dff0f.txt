@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The James Bond franchise is up for sale, and table stakes start at $2bn   <a href="http://cips.org/en/supply-management/news/2017/september/bidders-line-up-for-5bn-bond-rights/">http://cips.org/en/supply-management/news/2017/september/bidders-line-up-for-5bn-bond-rights/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/EI1y4FLekD">pic.twitter.com/EI1y4FLekD</a></a></p> <img src="https://pbs.twimg.com/media/DJdS0j3XkAAp5M9.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply Chain Matters has provided many examples of the implications of the Amazon Effect. Food and consumer goods manufacturers have become so cognizant to the threat of Amazon in their respective markets, that they have taken action to secure their control of customer and other mission critical information. The latest is retailer Target which is reportedly aggressively moving away from dependence on Amazon Web Services.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/sqicFmR8EfY" width="1" />

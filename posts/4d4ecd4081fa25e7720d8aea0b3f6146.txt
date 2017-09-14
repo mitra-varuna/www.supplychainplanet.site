@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Brexit's affect on wholesale food prices  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://bit.ly/2vF21dH">http://bit.ly/2vF21dH&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/yJ8cG8EgOG">pic.twitter.com/yJ8cG8EgOG</a></a></p> <img src="https://pbs.twimg.com/media/DJMooP9W4AI6OYA.jpg" width="250" />

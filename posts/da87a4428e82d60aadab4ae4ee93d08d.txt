@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Very disturbing stats in this report. Companies must comply with their legal responsibilities to keep supply chains free from exploitation.  <a href="https://twitter.com/supplymgmt/status/905362624212295681">https://twitter.com/supplymgmt/status/905362624212295681&nbsp;&hellip;</a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Integrating external content is becoming more valuable for companies seeking more automation and real-time control over their supply chain planning and execution functions.

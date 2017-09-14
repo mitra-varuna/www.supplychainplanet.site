@@ -1,0 +1,3 @@
+.. raw:: html
+
+    This week, Oracle announced some significant enhancements to its Cloud-based and on-premise IoT support offerings, in addition to previous announced capabilities. Further announced was a collaboration with Mitsubishi Electric for developing and IoT Platform for Smart Manufacturing.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/L_NzioZKwCk" width="1" />

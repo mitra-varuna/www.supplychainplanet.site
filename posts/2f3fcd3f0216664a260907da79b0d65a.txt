@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The Hackett Group, Inc. has launched Quantum Leap, a digital benchmarking and performance improvement platform designed to speed up the benchmarking process, and enable supply chain managers to better assess performance gaps.

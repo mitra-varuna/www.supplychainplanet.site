@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The winners onstage  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/cipssmawards?src=hash">#<b>cipssmawards</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/oSQ3pomq1h">pic.twitter.com/oSQ3pomq1h</a></a></p> <img src="https://pbs.twimg.com/media/DJortWwXcAAbl3z.jpg" width="250" />

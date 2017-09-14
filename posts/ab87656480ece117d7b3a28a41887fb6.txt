@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Manhattan Associates, Inc. recently announced new additions to its Transportation Management System (TMS) to allow shippers to fully utilize the transportation market’s sharing economy.

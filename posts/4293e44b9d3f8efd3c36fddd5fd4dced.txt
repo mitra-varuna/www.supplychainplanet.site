@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">French strike set for 12 September 'threatens UK supply chain continuity'   <a href="https://www.cips.org/en/supply-management/news/2017/september/french-strike-threatens-uk-supply-chain-continuity/">https://www.cips.org/en/supply-management/news/2017/september/french-strike-threatens-uk-supply-chain-continuity/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

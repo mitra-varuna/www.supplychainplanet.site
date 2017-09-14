@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Good luck to everyone from the SM news team!  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/cipssmawards?src=hash">#<b>cipssmawards</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/kKvuZj3RoR">pic.twitter.com/kKvuZj3RoR</a></a></p> <img src="https://pbs.twimg.com/media/DJoUeTeXcAAM1QR.jpg" width="250" />

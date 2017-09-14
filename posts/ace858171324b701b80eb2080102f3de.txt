@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Amazon is set to launch in Australia within 60 days   <a href="http://cips.org/en/supply-management/news/2017/september/amazon-to-launch-in-australia/">http://cips.org/en/supply-management/news/2017/september/amazon-to-launch-in-australia/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/7pP3pIRMmf">pic.twitter.com/7pP3pIRMmf</a></a></p> <img src="https://pbs.twimg.com/media/DJdTbJvXUAMDlMl.jpg" width="250" />

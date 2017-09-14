@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Going green from John O'Groats to Land's End. One truck powered by gas has gone the distance   <a href="http://bit.ly/2x79eTZ">http://bit.ly/2x79eTZ&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ymcmH1fFC6">pic.twitter.com/ymcmH1fFC6</a></a></p> <img src="https://pbs.twimg.com/media/DI9T1ftXkAELsLa.jpg" width="250" />

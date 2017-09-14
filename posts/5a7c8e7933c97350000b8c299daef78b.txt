@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Digital Transformation (DT) is coming of age. Eighty percent of respondents to a recent IFS Digital Change Survey see themselves as “enabled”, “enhanced” or “optimized” to leverage DT.

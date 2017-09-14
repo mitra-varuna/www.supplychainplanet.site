@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">"There is never a good time for something like this to happen&rdquo; &ndash; MacEwan Uni on loosing $11.8m to a phishing scam    <a href="https://www.cips.org/en/supply-management/news/2017/september/university-loses-118m-in-fake-supplier-phishing-scam/">https://www.cips.org/en/supply-management/news/2017/september/university-loses-118m-in-fake-supplier-phishing-scam/&nbsp;&hellip;</a></p>

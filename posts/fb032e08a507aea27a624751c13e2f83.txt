@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">What has Brexit done to your supply chain now? Take the CIPS survey  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://bit.ly/2vKJd91">http://bit.ly/2vKJd91&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/dLQ4ZLlTpx">pic.twitter.com/dLQ4ZLlTpx</a></a></p> <img src="https://pbs.twimg.com/media/DJMpk9aXkAA3-K3.jpg" width="250" />
