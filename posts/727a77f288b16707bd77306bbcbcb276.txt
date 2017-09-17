@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Amber Road, a provider of cloud-based global trade management (GTM) solutions, recently announced that its software platform has expanded support for the new import filing requirements under the United States Automated Commercial Environment (ACE) Single Window for Partner Government Agencies (PGAs).
