@@ -1,0 +1,108 @@
+.. raw:: html
+
+    <p><img alt="Imagine Highlights_1" class="alignleft size-thumbnail wp-image-8734" height="150" src="http://www.supplychainshaman.com/wp-content/uploads/2017/09/Imagine-Highlights_1-150x150.jpg" width="150" />Last week I spoke at the <a href="https://www.clxlogistics.com/about/">CLX Logistics Conference</a> in Philadelphia on the future of Supply Chain Management. As I presented on Supply Chain 2030, I shared the research on balance sheet performance, and provided the insights on why I believe 90% of organizations failed in the delivery of supply chain excellence at the balance sheet level. My speech also focused on how current technologies are rapidly becoming obsolete due to market demands to do more with less and make better decisions. The recent <a href="http://feeds.feedburner.com/www.supplychaininsightsglobalsummit.com">Supply Chain Insights Global Summit</a> gave me new perspective and insights.</p>
+    <p>The redefinition of supply chain practices is happening through the coalescence of multiple technologies, not one. This includes:</p>
+    <ul>
+    <li>Sensors coupled with data from the Internet of Things (IOT)</li>
+    <li>Blockchain/Cryptocurrency</li>
+    <li>Analytics (Artificial Intelligence, Machine Learning and Cognitive Computing)</li>
+    <li>Open Source Technologies (Examples include Hadoop, Spark, Kafka).</li>
+    <li>3D Printing</li>
+    <li>Autonomous Vehicles</li>
+    <li>Wearables</li>
+    </ul>
+    <p>We are witnessing the redefinition of supply chain practices and technologies.  Our current technologies built on relational databases&#8211; like Advanced Planning (APS) and Enterprise Resource Planning (ERP)&#8211; are not equal to the test. And, advances in relational databases like SAP HANA does not provide the answer.</p>
+    <p>Why? The digital supply chain transformation is just beginning. The driver is growth. The world is no longer just about rows and columns and transactional data. Growth from M&amp;A, and globalization is slowing. The digital supply chain is the future engine of growth through the delivery of:</p>
+    <ul>
+    <li>Market sensing. Test and learn capabilities to understand customer preferences in vitro.</li>
+    <li>Building of new business models based on platforms of delivery to deliver solutions (products coupled with services).</li>
+    <li>Localized manufacturing.</li>
+    <li>Shipment and manufacturing of the unit of one.</li>
+    <li>Transformation of supply chain finance.</li>
+    <li>Listening and improving the customer response.</li>
+    </ul>
+    <p><strong>A Gift from the Audience</strong></p>
+    <p>With the influx of unprecedented hurricane impacts on United Supply Chain operations, the CLX group was smaller than expected, but I found the group (albeit small) invigorating. &#8230; a group of energized innovators. After I spoke, the head of CLX legal council smiled and handed me a publication, <a href="https://www.chemheritage.org/distillations/summer-2017">Distillations</a>, (It is a very well-written publication by the Chemical Foundation. I love great writing.) With a blue pen, he had circled the sentence in the opening letter from Michael Meyer, Editor in Chief:</p>
+    <p><em>&#8220;Evidence can be difficult to interpret. New ideas are often shunted aside for a time&#8211;not necessarily because of willful ignorance or stubbornness, but because evidence can be messy and ambiguous and re-imagining the world and how it works takes time.&#8221;</em></p>
+    <p>As he handed it to me, he whispered,<em> &#8220;For me, this is the essence of your presentation.&#8221; </em>I smiled and stood in the back of the room and read through the entire publication. It spoke to me.</p>
+    <p>In the publication, the author details the discovery of a cure for scurvy. Two million sailors died between the age of Columbus and the invention of steam engines. The answer for a cure scurvy was not obvious because medicine focused on humoral and germ theory. The scientists missed the fact that the human body cannot generate Vitamin C and the prevention of scurvy depends on nutritional Vitamin C supplements. The answer lay in reimagining medicine.</p>
+    <p>In the article, Mary continues, &#8220;<em>Old theories can survive for a while. With a little tweaking there and there, even as the evidence against them accumulates. After all, new theories cannot be built out of nothing: they need new facts to be discovered and old facts to be reinterpreted. And that takes time, a long time.&#8221;</em></p>
+    <p>As I read the publication, I smiled. I like to think that I am helping supply chain professional reimagine the future of supply chain processes that can drive balance sheet improvement. I want to help.</p>
+    <p><b>Global Trade is Here to Stay. Growth is Slowing.</b></p>
+    <p>I take inspiration from many speakers.</p>
+    <p>Last week, as I listened to the <a href="https://www.youtube.com/watch?time_continue=11&amp;v=-AL6WM6qQMI">presentation of Gita Gopinath </a>(shown here in Figure 1) at the <a href="http://feeds.feedburner.com/www.supplychaininsightsglobalsummit.com">Supply Chain Insights Global Summit</a>, I thought hard about Image in Figure 1 on World Trade Intensity. As supply chains transitioned from regional, to multi-national to global, there was always discussion on the impact of global supply chain practices, but we never stepped-back to redefine global processes. In the Post World War II Economy, we experienced sixty years of global trade. Improvements in connectivity, falling costs of imports and a favorable political climate enabled this shift. In retrospect, the 1990s were an exceptional time of innovation impacts on productivity. This impact declined at the start of the last decade, and the impact of the third-industrial revolution stopped in 2004.</p>
+    <p>Figure 1. World Trade Intensity and Annual Growth</p>
+    <p><img alt="gita_world trade intensity" class="alignleft size-full wp-image-8713" height="370" src="http://www.supplychainshaman.com/wp-content/uploads/2017/09/gita_world-trade-intensity-e1505154882193.png" width="650" /></p>
+    <p>&nbsp;</p>
+    <p>As growth slowed post 2007 recession, companies fought back. There was a surge in M&amp;A activity, and a focus on building global supply chains. While the push in the back office was for efficiency&#8211;larger batch sizes, transactional processing, lower costs of transportation, and labor arbitrage strategies  &#8211;the focus in the front office was for agility. (Many companies mistakenly outsourced the back office to India.)</p>
+    <p>Complexity increased as commercial organizations attempted to sell personalized products, delivery localized assortments, and a greater variety of products. The technologies of the third industrial revolution&#8211;mobility, social networks, in-memory computing, digital image sharing of video/pictures&#8211;redefined front office processes to drive a more personalized, and custom product/service delivery.</p>
+    <p>Back office connectivity between trading partners remained dependent on the forty-year technology of EDI. While companies talked &#8220;collaboration&#8221;, they progressively pushed costs and wastes backwards in the supply chain. Cash-to-cash improved through the lengthening of payables not due to the improvement in inventory.</p>
+    <p>In the journey, there were many fits and starts. Organizations struggled. For many, it was a forced march for ERP consolidation, standardized processes and linear optimization. This benefited technologists and consultants, but not supply chains. There was a large industry pull of technology providers, consultants and business leaders pushing the belief that the best-run companies had great ERP systems. There were three gaps:</p>
+    <ul>
+    <li><strong>Agility.</strong> Post recession supply chains needed to become more agile. The focus on efficiency and transactional architectures decreased agility.</li>
+    <li><strong>Insights.</strong> Decision support needed to support non-linear insights. We used linear optimization to improve small processes within functional silos, but did not create effective supply chains. As a result, the gap, post-recession, grew between what was needed and what was delivered.</li>
+    <li><strong>Visibility.</strong>  Flows increasingly grew outside of the enterprise. Companies needed greater insights for visibility from the customer&#8217;s customer to the supplier&#8217;s supplier, but the focus on Information Technology (IT) automated the enterprise not the value network.   While many technology companies sell control towers and E2E supply chain planning solutions, they are not equal to the task. As shown in Figure 2, visibility does not have just one definition. It is about more than data sharing. &#8230;or pretty visualization on enterprise data.</li>
+    </ul>
+    <p>Figure 2. Supply Chain Visibility: Current State of Gaps</p>
+    <p><img alt="visibility" class="alignleft size-full wp-image-8584" height="357" src="http://www.supplychainshaman.com/wp-content/uploads/2017/07/visibility-e1501328673747.png" width="600" /></p>
+    <p>&nbsp;</p>
+    <p>There is no solution that I shortlist for visibility. Instead, the dialogue with prospects is on the fit of current solutions and how to weave the many solutions in the market today to answer the needed questions.</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>My inbox is full. Clients call me with the following questions:</p>
+    <ul>
+    <li>The size of planning teams are growing, but we are not seeing the value. How can we redefine planning to reduce headcount and be more effective?</li>
+    <li>I need to automate the value network. How do I get started?</li>
+    <li>We need to effectively share data and sense market shifts. What does this mean for existing architectures?</li>
+    </ul>
+    <p>My answer is:</p>
+    <ul>
+    <li>We need to reimagine the supply chain from the outside-in. From the customer back to the enterprise and across value networks. This means the stabilization of investment in current architectures and redefining processes while testing new technologies.</li>
+    <li>Embrace innovation. Form small scrappy teams to test and learn with best-of-breed technologists to redefine the status quo. Don&#8217;t get lulled to sleep by hollow claims.</li>
+    <li>Recognize that past practices are not best practices. We must learn from the past to unlearn to forge the future.</li>
+    </ul>
+    <p><strong>My Thank-you(s).</strong></p>
+    <p>I am a fan of Jimmy Fallon and I love it when he writes of thank-you notes at the end of his show. So as I think about the future and the need to embrace new forms of innovation, I want to share some thank-you notes today. (I want to end on a positive note after a stressful week.)</p>
+    <p>My first thank-you note is to the United States military. While we all need to thank-you for helping us to remain free and safe within our borders, for the supply chain leader, it is great to see that something good came out of the invasion of Iraq and Afghanistan. The investment in IOT and cognitive computing was the start of best-of-breed solution providers like Enterra Solutions, Savi, and Transvoyant. Each is very promising. At the digital showcase, I loved the energy and dialogues on streaming data, and cognitive computing. I believe that the convergence of these technologies can reduce planning headcount by 50-70% while providing better insights.</p>
+    <p>&nbsp;</p>
+    <p><img alt="thank_you1" class="alignleft size-full wp-image-8729" height="339" src="http://www.supplychainshaman.com/wp-content/uploads/2017/09/thank_you1.png" width="600" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>This new evolution of software is made possible from the funds by ERP companies invested in market consolidation. This consolidation was painful. As most users realize, the consolidation of technology vendors seldom drives value for the user. Instead, it becomes a graveyard for legacy solutions. As founders of first and second generation solutions sell-out to ERP providers they are no longer shackled by traditional solution architectures and the evolution of legacy software. They are free to innovate. Ironically, while the motivation of the ERP vendors to consolidate the market was to drive greater market share, they have created the next set of competitors.</p>
+    <p><img alt="thank you erp" class="alignleft size-full wp-image-8732" height="339" src="http://www.supplychainshaman.com/wp-content/uploads/2017/09/thank-you-erp.png" width="600" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>I love the innovation happening with Microsoft Azure. So, my third thank-you is to Microsoft for providing a software foundation for these future innovators. As I talk to innovators like Lean DNA, Orchestr8, and Retail Velocity, I keep hearing about the virtues of Microsoft BI and Azure for Software as a Service applications. While I am no technologist, and cannot give you the details of this shift, what I can tell you is that the user interface and the analytics are so much easier to use and intuitive than the past solutions. References are happier and the costs are lower. So, Microsoft Azure gets my third thank-you.</p>
+    <p><img alt="thanks microsoft azure" class="alignleft size-full wp-image-8733" height="339" src="http://www.supplychainshaman.com/wp-content/uploads/2017/09/thanks-microsoft-azure.png" width="600" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p><strong>Think Differently. Drive New Outcomes.</strong></p>
+    <p>The<a href="http://feeds.feedburner.com/www.supplychaininsightsglobalsummit.com"> S<img alt="digital showcase" class="alignleft size-thumbnail wp-image-8735" height="150" src="http://www.supplychainshaman.com/wp-content/uploads/2017/09/digital-showcase-150x150.jpg" width="150" />upply Chain Insights Global Summit</a> is over and we posted the presentations and videos this week. We remain committed to open content sharing. Please review and share with your team. I hand-pick the speakers to drive innovative thinking.</p>
+    <p>Next year&#8217;s event will be in Philadelphia on September 4th-7th. Committed to our purpose, we are downsizing the event. There will be no technology sponsors, fewer frills and less expense. While you can expect the same strong content and fun, it will be a smaller, and a more focused event. My goal is to help business users to learn new concepts and network with other supply chain business innovators. Freeing the event from sponsor funding allows me to drive a more innovative program. My goal is to have 80% business leaders in the audience. I will invite technology innovators to support the program on an as needed basis.</p>
+    <p><a class="a2a_button_email" href="http://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fbig-data-supply-chains-2%2Freflections-thank-yous-and-rethinking-the-future%2F&amp;linkname=Reflections%2C%20Thank-you%28s%29%20and%20Rethinking%20the%20Future" rel="nofollow" target="_blank" title="Email"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fbig-data-supply-chains-2%2Freflections-thank-yous-and-rethinking-the-future%2F&amp;linkname=Reflections%2C%20Thank-you%28s%29%20and%20Rethinking%20the%20Future" rel="nofollow" target="_blank" title="Twitter"></a><a class="a2a_button_linkedin" href="http://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fbig-data-supply-chains-2%2Freflections-thank-yous-and-rethinking-the-future%2F&amp;linkname=Reflections%2C%20Thank-you%28s%29%20and%20Rethinking%20the%20Future" rel="nofollow" target="_blank" title="LinkedIn"></a><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fbig-data-supply-chains-2%2Freflections-thank-yous-and-rethinking-the-future%2F&amp;linkname=Reflections%2C%20Thank-you%28s%29%20and%20Rethinking%20the%20Future" rel="nofollow" target="_blank" title="Facebook"></a><a class="a2a_dd a2a_counter addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.supplychainshaman.com%2Fbig-data-supply-chains-2%2Freflections-thank-yous-and-rethinking-the-future%2F&amp;title=Reflections%2C%20Thank-you%28s%29%20and%20Rethinking%20the%20Future"></a></p><img alt="" height="1" src="http://feeds.feedburner.com/~r/SupplyChainShamancom/~4/JPYFN6gA6dI" width="1" />
