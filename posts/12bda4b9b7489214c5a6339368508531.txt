@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">How Skanska works with small suppliers, opening up access to local skills and innovation   <a href="http://bit.ly/2wYdtB8">http://bit.ly/2wYdtB8&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ycOZGvXoaj">pic.twitter.com/ycOZGvXoaj</a></a></p> <img src="https://pbs.twimg.com/media/DJrDV60X0AEZgMQ.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The benefits and uses of hands-free tech, from Apple Watch to Google Glass   <a href="http://bit.ly/2faivzI">http://bit.ly/2faivzI&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/oD158NDA8T">pic.twitter.com/oD158NDA8T</a></a></p> <img src="https://pbs.twimg.com/media/DKLA7PyXoAAaoac.jpg" width="250" />

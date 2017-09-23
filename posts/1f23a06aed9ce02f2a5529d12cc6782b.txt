@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">City of York Council must 'address negative public image of procurement'   <a href="https://www.cips.org/en/supply-management/news/2017/september/york-must-address-negative-public-image-of-procurement/">https://www.cips.org/en/supply-management/news/2017/september/york-must-address-negative-public-image-of-procurement/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The mission of the Trusted IoT Alliance is to bring companies together to develop and set the standard for an open source blockchain protocol to support IoT technology in major industries worldwide.

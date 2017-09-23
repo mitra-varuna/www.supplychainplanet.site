@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Adidas joins Gartner&rsquo;s European top 15 supply chains   <a href="http://cips.org/en/supply-management/news/2017/september/unilever-tops-garners-european-top-15/">http://cips.org/en/supply-management/news/2017/september/unilever-tops-garners-european-top-15/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/3QlBVPuJA7">pic.twitter.com/3QlBVPuJA7</a></a></p> <img src="https://pbs.twimg.com/media/DKUg009WsAEA5BC.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Heineken aims to cut costs and inventory   <a href="https://www.cips.org/en/supply-management/news/2017/september/heineken-aims-to-cut-costs-and-inventory/">https://www.cips.org/en/supply-management/news/2017/september/heineken-aims-to-cut-costs-and-inventory/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/xhP6EmTKqu">pic.twitter.com/xhP6EmTKqu</a></a></p> <img src="https://pbs.twimg.com/media/DKV_Q8iW0AAmmhP.jpg" width="250" />

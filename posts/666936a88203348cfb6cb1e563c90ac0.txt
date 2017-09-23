@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Asda savings project 'not wholly compliant' with watchdog code  <a href="https://www.cips.org/en/supply-management/news/2017/september/asda-savings-project-not-wholly-compliant-with-watchdog-code/">https://www.cips.org/en/supply-management/news/2017/september/asda-savings-project-not-wholly-compliant-with-watchdog-code/&nbsp;&hellip;</a></p>
