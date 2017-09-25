@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">More than three-quarters of the products Aldi sells are sourced in the UK   <a href="https://www.cips.org/en/supply-management/news/2017/september/aldis-buy-local-policy-generates-85bn-to-uk-economy/">https://www.cips.org/en/supply-management/news/2017/september/aldis-buy-local-policy-generates-85bn-to-uk-economy/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/6L4SpfDOQE">pic.twitter.com/6L4SpfDOQE</a></a></p> <img src="https://pbs.twimg.com/media/DKlbguwXoAUh-mG.jpg" width="250" />
