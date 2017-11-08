@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">&ldquo;Between 30% and 50% of deals don&rsquo;t translate to the bottom line,&rdquo; said State of Flux chairman Alan Day  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://cips.org/en/supply-management/news/2017/november/embrace-entrepreneurial-srm-to-add-value-/">http://cips.org/en/supply-management/news/2017/november/embrace-entrepreneurial-srm-to-add-value-/&nbsp;&hellip;</a></p>

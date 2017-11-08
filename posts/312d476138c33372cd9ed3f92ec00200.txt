@@ -1,0 +1,68 @@
+.. raw:: html
+
+    <p>Today, I got a quick email from Peggy Gulick. Peggy was a speaker at the <a href="http://www.supplychaininsightsglobalsummit.com">Supply Chain Global Summit.</a> She had some exciting news.  AGCO was honored to receive the AME 2017 Excellence Award. Congrats to the Agco team.</p>
+    <p><img alt="" class="alignleft size-thumbnail wp-image-8821" height="150" src="http://www.supplychainshaman.com/wp-content/uploads/2017/10/PeggyProfilePic-115x150.jpg" width="115" />I loved <a href="http://supplychaininsightsglobalsummit.com/2017-summit-presentations/">Peggy&#8217;s presentation at the Summit</a>. When her employees kept breaking their tablets on the production floor, Peggy used lean-production thought processes to innovate for new answers. While many employers would have penalized the employees for tablet breakage , Peggy explored the world of wearables to enable her digital manufacturing transformation. It is a story of &#8220;carrots&#8221; not &#8220;sticks.&#8221; Here I share her story.</p>
+    <p><strong>About Agco</strong></p>
+    <p>AGCO’s culture of innovation policy deployment enabled employees to pioneer a technology solution for manufacturing. AGCO Corp. is a publicly held $7B global corporation focused on the manufacturing and distribution of high-tech solutions—tractors, harvest equipment and implements&#8211; for professional farmers. The company makes highly complex machines at a low-volume. They are an innovator in agricultural equipment. As shown in Table A, the Company ranked 3 out of 12 companies in their peer group on driving supply chain improvement as measured by the <a href="http://supplychaininsights.com/portfolio/launch-of-the-supply-chain-index/">Supply Chain Index</a>.</p>
+    <p>Table A. Performance and Improvement for the Period of 2010-2016 for Trucks and Heavy Equipment</p>
+    <p><img alt="" class="alignleft wp-image-8825 size-large" height="647" src="http://www.supplychainshaman.com/wp-content/uploads/2017/10/Winner_2010-2016_Trucks-1024x647.png" width="1024" />With a focus on high performance work teams and principle-based leadership, the AGCO production teams are skilled at working together to solve problems. The culture is one of solution-oriented thinking using Kaizen Action Sheets to dissect the step-by-step process of problem-solving. The steps are simple, but profound:</p>
+    <ol>
+    <li>Figure out the problem</li>
+    <li>Determine the root cause of the problem</li>
+    <li>Develop possible solutions.</li>
+    </ol>
+    <p>The approach works. Last year AGCO’s Jackson, TN Operations saved around 750K using this methodology.<strong> </strong></p>
+    <p><strong>The Wearable Journey</strong></p>
+    <p>The final factory inspection quality teams disliked having to get off of the large pieces of equipment to complete inspection lists on a computer. In 2012, this turned into an IT problem: the tablets were being dropped from the tops of tractors with no warranty available. This was no small problem: the rugged tablet was $3,000 to replace. At a Kaizen event of the quality team, IT came up with using Google Glass as an alternative.</p>
+    <p><strong> </strong>The new tool had to be integrated into AGCO’s work environment. Google Glass in its original form was not very useful on the floor, since it did not allow for typing, connecting to current tools, or storing passwords. To solve these problems, AGCO partnered with Proceedix to develop an application for manufacturing. Next, the IT department worked on the issues of infrastructure, risk, data security, cloud storage, and data sharing.</p>
+    <p>The company stuck to a no-tether policy – no battery pack or phone attached to the device. The goal was to have the independent application running on the Glass, enabling users to pick up right where they’d left off.</p>
+    <p>At this point, AGCO team was at the ground level pioneering the solution. They had to test ergonomics and wear-ability of the solution, including addressing such issues as the lack of safety wear, potential headaches, overheating, and insufficient battery life.</p>
+    <p>Figure `1. Classes of Smart Eyewear</p>
+    <p><img alt="" class="alignleft wp-image-8824 size-full" height="540" src="http://www.supplychainshaman.com/wp-content/uploads/2017/10/smart-glasses_Agco.jpg" width="960" /></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>As shown in Figure 1, at the time of the project, there were five distinct classes of smart eyewear. AGCO deliberately chose smart glass assisted reality. As the assemblers were working on the floor, they did not need a 20% overlay of additional information. Instead, they needed a tool to gather the information and to report back as needed.</p>
+    <p>The use of wearable glasses replaced tablets. Glass-equipped operators now follow quality check-lists that are tailor-made for the type of unit they are inspecting. Recording of pictures and videos is accomplished in a hands-free environment via voice commands and tied directly to the unit’s documentation through the use of the Proceedix Action Management System. When operators detect an issue, they are able to assign an action within the system to an appropriate party to have it promptly addressed.</p>
+    <p><strong>Results</strong></p>
+    <p>AGCO ‘s initial goal was limited to replacing fragile tablets and enhancing safety on the warehouse floor by freeing up both hands for the workers to climb on and off the unit. The new technology solution, however, led to other, quite remarkable, unintended results:</p>
+    <ul>
+    <li><strong>Improved Cycles. </strong>A 30% Initial Reduction in Processing Time. Automated real-time information sharing cut the processing time and reduced a multi-layer inspection process to one tool.</li>
+    </ul>
+    <p style="text-align: left;">Figure B. Improvement in Finished Factory Inspection</p>
+    <p><strong><img alt="" class="alignleft size-full wp-image-8823" height="338" src="http://www.supplychainshaman.com/wp-content/uploads/2017/10/agco2.png" width="600" /></strong><strong>Touchless: </strong>Creation of a paperless Environment.  A “decline” voice command from an operator opens a non-conform that is sent off to a quality gate to be addressed immediately.</p>
+    <ul>
+    <li><strong>Quality of Conformation. </strong>Built-In Assembly Work Instructions. Glass usage expanded from quality control to assembly process support. Employees used to have to walk from the tractors and sprayers that they were assembling to the monitors displaying information, including billing material for lineside hardware. AGCO estimated the walks to average 25 trips a day per employee and include 36 steps to the monitor in assembly operations with high complexity. Wearables enabled the streamlining of tasks and the elimination of unnecessary motion.</li>
+    </ul>
+    <p>Figure C. View of the Inspection Instructions as Seen by an AGCO employee.</p>
+    <p><img alt="" class="alignleft size-large wp-image-8822" height="553" src="http://www.supplychainshaman.com/wp-content/uploads/2017/10/agco3-1024x553.png" width="1024" /></p>
+    <p>AGCO also took the standard instruction images: sequenced instructions, bills and materials, and torque settings, and made them visible on the glass (Fig.C). Employees could zoom, freeze, and it didn’t inhibit the employees’ movements, easing neck and eye pain. The move led to an additional 30% &#8211; 35% reduction in process time.</p>
+    <ul>
+    <li><strong>Time to Value. </strong>Improved On-The-Job Training.  AGCO envisioned employing a 3&#215;3 training metrics: every operation would have 3 people able to execute it, and every person would be able to do 3 operations. In the pre-Glass era, the company was never able to execute this approach because of high complexity of the tasks involved. The new tool cut the learning curve in half. Any operator can now move from one work station to another, as long as they have instructions with them.</li>
+    </ul>
+    <ul>
+    <li><strong>Improvement in Digital Manufacturing. </strong>The project became a means to an end to drive data-driven processes. Every small task in operation and assembly is timed and monitored, moving AGCO to a predictive analysis stage. The company analyzes large data sets reported live from each employee’s transactions to coordinate with the learning matrix   By knowing the employee’s skillset by model and what models will go down the line on a specific day, AGCO is able to design the best employee setup for the task at hand.</li>
+    </ul>
+    <p><strong>Our Take</strong></p>
+    <p>We feel that the Agco case study has several important lessons for the supply chain transformational leader.</p>
+    <ul>
+    <li><strong> </strong><strong>Involve Employees in the Digital Transformation.</strong> While many companies might have penalized employees for breaking tablets, the Agco team asked the employees to help solve the problem. Use carrots not sticks. Involve employees in developing answers to problems using new technologies.</li>
+    <li><strong>Partner with Technology Providers.</strong> While many companies implement traditional buy/sell strategies with technology providers, Agco chose to partner. To get the most out of a new technology, partner to drive value.</li>
+    <li><strong>Big Wings. Big Feet.</strong> The best transformations have both “big wings’ or an inspirational leader driving the transformation and “Big feet” a focus on seamless execution. In this case Peggy met both criteria. The takeaways? Look out for the Peggy’s in your organization and cultivate the winning teams.</li>
+    </ul>
+    <p>If you are a leader in digital manufacturing or supply chain excellence, we would love to write and share your case study. No one pays us for our ink on this blog, and the businesses always get to read, review and approve their case studies before publication. We appreciation Peggy&#8217;s time in working with us to tell her story.</p>
+    <p>Next year, the <a href="http://www.supplychaininsightsglobalsummit.com">Supply Chain Insights Global Summit </a>will be in Philadelphia on September 4th-7th. The details are on the event website. The conference is a small and intimate setting designed for innovators to talk to innovators. The goal is to &#8220;Imagine the Supply Chain of the Future Together.&#8221; The format of the event is simple. It is about the audience in the room. I set the stage by hand-picking case studies and setting-up the conference so that leaders can talk to each other in roundtable discussions. These dialogues after 2-3 case studies allows the translation of the concepts to their operations.</p>
+    <p>Next year, there will be no technology sponsorships, and the technologists will be limited to 30% of the audience. The invitations will be on a case-by-case basis. (Our goal is technology thought leaders versus sales/marketing.) We hope to see you there!</p>
+    <p>&nbsp;</p>
+    <p><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fdigital-supply-chain%2Fagco-driving-a-digital-manufacturing-transformation%2F&amp;linkname=AGCO%3A%20Driving%20a%20Digital%20Manufacturing%20Transformation" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fdigital-supply-chain%2Fagco-driving-a-digital-manufacturing-transformation%2F&amp;linkname=AGCO%3A%20Driving%20a%20Digital%20Manufacturing%20Transformation" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fdigital-supply-chain%2Fagco-driving-a-digital-manufacturing-transformation%2F&amp;linkname=AGCO%3A%20Driving%20a%20Digital%20Manufacturing%20Transformation" rel="nofollow noopener" target="_blank" title="LinkedIn"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fdigital-supply-chain%2Fagco-driving-a-digital-manufacturing-transformation%2F&amp;linkname=AGCO%3A%20Driving%20a%20Digital%20Manufacturing%20Transformation" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_dd a2a_counter addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.supplychainshaman.com%2Fdigital-supply-chain%2Fagco-driving-a-digital-manufacturing-transformation%2F&amp;title=AGCO%3A%20Driving%20a%20Digital%20Manufacturing%20Transformation"></a></p><img alt="" height="1" src="http://feeds.feedburner.com/~r/SupplyChainShamancom/~4/2v_WKBThx3g" width="1" />

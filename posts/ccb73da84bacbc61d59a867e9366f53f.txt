@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Israel's policy of feeding pelicans to protect fish farms is called into question   <a href="https://www.cips.org/en/supply-management/news/2017/november/pelican-feeding-policy-called-into-question/">https://www.cips.org/en/supply-management/news/2017/november/pelican-feeding-policy-called-into-question/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/z0zHotAdU3">pic.twitter.com/z0zHotAdU3</a></a></p> <img src="https://pbs.twimg.com/media/DOGr6WbWkAAex2M.jpg" width="250" />

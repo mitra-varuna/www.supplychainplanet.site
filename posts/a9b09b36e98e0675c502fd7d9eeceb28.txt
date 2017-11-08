@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Traditionally, production and transportation planning processes are managed separately in most companies. A shipment of products from a plant to a warehouse typically entails three activities: order, plan, and ship. Once orders are received from customers, a load plan is initiated. The load planning process involves building a truckload of SKUs to be shipped. A [&#8230;]

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    “The Future of Digital Procurement,” a new report released by Accenture, maintains that many supply chain managers are seeking to modernize this function, but may not have the tools to get started.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Joe buys gas maintenance contracts to keep the nation powered. Just one of the great jobs in procurement  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/iBuy?src=hash">#<b>iBuy</b></a> CIPSnews   <a href="http://bit.ly/2zqWnub">http://bit.ly/2zqWnub&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ybxozlNH7t">pic.twitter.com/ybxozlNH7t</a></a></p>

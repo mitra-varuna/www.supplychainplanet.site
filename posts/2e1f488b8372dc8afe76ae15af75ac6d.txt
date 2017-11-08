@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Tips for Bake Off winners and reality TV stars everywhere: how to build a brand like Nadiya Hussain   <a href="http://bit.ly/2zYxR2C">http://bit.ly/2zYxR2C&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/a9rDC4sKiy">pic.twitter.com/a9rDC4sKiy</a></a></p> <img src="https://pbs.twimg.com/media/DNibchzW4AATK4z.jpg" width="250" />

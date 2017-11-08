@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Three ways Brexit will hit the North of England. The CBI's Damian Waters explains   <a href="http://bit.ly/2io9W5O">http://bit.ly/2io9W5O&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/WrQon1GuHB">pic.twitter.com/WrQon1GuHB</a></a></p> <img src="https://pbs.twimg.com/media/DNnpqobX0AAxlBQ.jpg" width="250" />

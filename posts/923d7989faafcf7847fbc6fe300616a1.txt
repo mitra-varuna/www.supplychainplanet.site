@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Shipment-level visibility is just step one. Decisions, at any stage of the product life cycle, can have a direct impact on the cost and on the time it takes for goods to be sold and delivered.

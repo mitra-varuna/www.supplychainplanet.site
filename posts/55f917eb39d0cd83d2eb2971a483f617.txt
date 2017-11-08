@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Cloud-based warehouse management systems have many merits, but don’t presume they offer a cheap, one-size-fits-all option for your organization. In other words, read the fine print.

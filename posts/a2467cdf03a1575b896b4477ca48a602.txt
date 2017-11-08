@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Successful supply chains use technology, data, processes and communication to create a truly dynamic supply chain solution that is optimized on an ongoing basis.

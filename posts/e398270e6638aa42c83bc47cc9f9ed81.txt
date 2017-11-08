@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">This is a career opportunity with bags of potential. Check out this Local Category Manager vacancy at Twinings   <a href="http://bit.ly/2A2KMS7">http://bit.ly/2A2KMS7&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/90pfDqJVd8">pic.twitter.com/90pfDqJVd8</a></a></p> <img src="https://pbs.twimg.com/media/DNdzLx5VwAAqGPt.jpg" width="250" />

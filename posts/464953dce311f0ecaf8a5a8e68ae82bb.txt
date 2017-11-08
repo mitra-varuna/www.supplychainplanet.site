@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Simon Muir, Head of Procurement  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/Incelaw">@<b>Incelaw</b></a> discussing our recent  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/gametheory?src=hash">#<b>gametheory</b></a> event. Watch the full highlights here   <a href="http://bit.ly/2AgAXPL">http://bit.ly/2AgAXPL&nbsp;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/Ad?src=hash">#<b>Ad</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ezLQDGj6oS">pic.twitter.com/ezLQDGj6oS</a></a></p>

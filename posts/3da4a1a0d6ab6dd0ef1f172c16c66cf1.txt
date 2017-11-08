@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Any information system is only as good as the quality of its data; the well-known garbage in, garbage out conundrum. Blockchains are distributed ledgers that are subject to this principle, but more so than conventional systems since the entries are supposed to be unalterable. Is data integrity the Achilles Heel of blockchain technology, especially in [&#8230;]

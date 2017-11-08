@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Clunky payment processes cause supply chain friction.

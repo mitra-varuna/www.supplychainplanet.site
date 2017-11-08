@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Arriva drops out of Welsh rail tender   <a href="https://www.cips.org/en/supply-management/news/2017/october/arriva-trains-drops-out-of-welsh-rail-tender/">https://www.cips.org/en/supply-management/news/2017/october/arriva-trains-drops-out-of-welsh-rail-tender/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/9n7HvSNb6m">pic.twitter.com/9n7HvSNb6m</a></a></p> <img src="https://pbs.twimg.com/media/DNfCMDLWkAMhFQV.jpg" width="250" />

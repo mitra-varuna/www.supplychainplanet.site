@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cmshttp://resources.inboundlogistics.com/userfiles/WMSGuide_main_0917.jpg" /></p>Warehouse management systems provide organizations with a boost to their operations and help them keep up with the growing demands of their customers and partners. Still, implementing a WMS is a complex process that requires extensive planning, study and patience. Experts point to a number of key factors to consider when shopping for a system for your organization.

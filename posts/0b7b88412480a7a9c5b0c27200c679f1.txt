@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">An online tool will help the oil and gas supply chain recover the 20bn barrels of oil left in the UK  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>Cipsnews</b></a>   <a href="http://cips.org/en/supply-management/news/2017/november/online-hub-created-to-support-oil-and-gas-supply-chain/">http://cips.org/en/supply-management/news/2017/november/online-hub-created-to-support-oil-and-gas-supply-chain/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/PY6ZqQizBV">pic.twitter.com/PY6ZqQizBV</a></a></p> <img src="https://pbs.twimg.com/media/DNubICRX0AAl9-M.jpg" width="250" />

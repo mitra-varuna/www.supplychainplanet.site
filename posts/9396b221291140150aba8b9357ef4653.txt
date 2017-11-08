@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In a previous August commentary, Supply Chain Matters highlighted some of the major features of Oracle’s SCM Cloud, Release 13. In this October commentary we take the opportunity to update our procurement focused readers as to the latest Release 13 features within Oracle Procurement Cloud.<img alt="" height="1" src="http://feeds.feedburner.com/~r/Supply-Chain-Matters/~4/7pMXNJz7pyE" width="1" />

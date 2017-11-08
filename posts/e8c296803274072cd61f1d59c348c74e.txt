@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Apparel manufacturer Nike is nearshoring factories to reduce lead times and get closer to consumers  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="http://cips.org/en/supply-management/news/2017/november/nike-onshoring-manufacturing-in-north-america/">http://cips.org/en/supply-management/news/2017/november/nike-onshoring-manufacturing-in-north-america/&nbsp;&hellip;</a></p>
