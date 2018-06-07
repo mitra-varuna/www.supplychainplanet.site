@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">&ldquo;The exuberance of youth is a powerfully engaging tool&rdquo; as CIPS NZ branch knows  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://bit.ly/2KtQMYr">http://bit.ly/2KtQMYr&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/npQ2fWpWbF">pic.twitter.com/npQ2fWpWbF</a></a></p> <img src="https://pbs.twimg.com/media/Deh6qQZWsAA7YbI.jpg" width="250" />

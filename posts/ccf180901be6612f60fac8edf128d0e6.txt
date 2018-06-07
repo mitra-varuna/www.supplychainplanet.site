@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">NHS procurement savings will 'kick in' next year, according to the HCSA. The long-awaited procurement overhaul comes into force in March 2019.   <a href="http://bit.ly/2JCluBV">http://bit.ly/2JCluBV&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/1nsd26dA9J">pic.twitter.com/1nsd26dA9J</a></a></p> <img src="https://pbs.twimg.com/media/DfFEYDVX0AAQ6jS.jpg" width="250" />

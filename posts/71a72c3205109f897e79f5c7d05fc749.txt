@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Support CIPS' campaign against modern slavery. Take the survey - it really counts  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>   <a href="http://bit.ly/2JmOY6U">http://bit.ly/2JmOY6U&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/naGnQrLiTq">pic.twitter.com/naGnQrLiTq</a></a></p> <img src="https://pbs.twimg.com/media/Deh2DChX0AAgsBe.jpg" width="250" />

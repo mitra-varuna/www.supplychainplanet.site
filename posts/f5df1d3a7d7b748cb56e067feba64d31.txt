@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The mineral mines using e-tagging and selfies to prove provenance.   <a href="http://bit.ly/2wV7KNJ">http://bit.ly/2wV7KNJ&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/W2tY9JCd5O">pic.twitter.com/W2tY9JCd5O</a></a></p> <img src="https://pbs.twimg.com/media/Dd9XiuAVwAAQLkn.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">UK services 'losing their lifeblood', according to the latest PMI, as Brexit worries continued to claw away at confidence, new orders and business margins.   <a href="http://bit.ly/2szuyh1">http://bit.ly/2szuyh1&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

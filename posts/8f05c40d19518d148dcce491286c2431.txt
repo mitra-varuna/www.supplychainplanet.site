@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Four ways to add top line value &ndash; from embracing agility to being more human.   <a href="http://bit.ly/2Kw6pyO">http://bit.ly/2Kw6pyO&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/i3RZVXzk2b">pic.twitter.com/i3RZVXzk2b</a></a></p> <img src="https://pbs.twimg.com/media/DeX9ueHWsAAGg6o.jpg" width="250" />
