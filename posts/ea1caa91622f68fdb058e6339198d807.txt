@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Blockchain and robotic process automation is the next big bet.

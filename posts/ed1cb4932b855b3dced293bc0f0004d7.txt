@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A rapid implementation strategy is ideal for enterprises whom must implement very fast, as well as continuing focus on process improvements.

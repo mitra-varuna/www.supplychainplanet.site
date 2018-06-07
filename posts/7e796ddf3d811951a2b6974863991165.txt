@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The key to supply chain visibility is a common system that all stakeholders can use to plan their moves, be alerted to changes as they occur, and make real time adjustments to keep the supply chain moving smoothly.

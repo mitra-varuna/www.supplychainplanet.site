@@ -1,0 +1,3 @@
+.. raw:: html
+
+    These primary techniques help achieve supply chain optimization.

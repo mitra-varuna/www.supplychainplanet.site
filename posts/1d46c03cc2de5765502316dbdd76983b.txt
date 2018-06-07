@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Oracle ended its Modern Supply Chain Experience (MSCE) event in San Jose, CA by announcing that Office Depot, Inc. selected Oracle Cloud Applications to modernize its IT systems and transform its business processes to meet the demands of today’s digital economy.

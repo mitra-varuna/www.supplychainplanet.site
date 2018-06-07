@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The UK construction sector has slumped almost to the point of stagnation according to the latest PMI   <a href="https://www.cips.org/en/supply-management/news/2018/february/uk-construction-near-stagnation/">https://www.cips.org/en/supply-management/news/2018/february/uk-construction-near-stagnation/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

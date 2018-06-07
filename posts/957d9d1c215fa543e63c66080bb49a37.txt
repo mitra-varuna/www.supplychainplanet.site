@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/IoT_main_0118.jpg" /></p>This story looks at some ways in which companies are using IoT or IIoT technology along the supply chain and discusses the added value companies will gain as they move from discrete applications to integrated ones.

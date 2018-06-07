@@ -1,0 +1,20 @@
+.. raw:: html
+
+    <div class="field field-name-field-picture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="https://scrmblog.com/sites/default/files/styles/thumbnail/public/default_images/NewsIcon.jpg?itok=2X-4GZfB" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">
+    
+    	<h5></h5>
+    
+    
+    
+    	<h5></h5>
+    
+    </div></div></div><div class="field field-name-field-news-user-rating field-type-fivestar field-label-hidden"><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="https://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--2" method="post"><div><div class="clearfix fivestar-smart-stars fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--4" name="vote"><option value="-">Select rating</option><option value="20">Give Flooding and iPhone - This Week in Supply Chain Management (36+37 / 2012) 1/5</option><option value="40">Give Flooding and iPhone - This Week in Supply Chain Management (36+37 / 2012) 2/5</option><option selected="selected" value="60">Give Flooding and iPhone - This Week in Supply Chain Management (36+37 / 2012) 3/5</option><option value="80">Give Flooding and iPhone - This Week in Supply Chain Management (36+37 / 2012) 4/5</option><option value="100">Give Flooding and iPhone - This Week in Supply Chain Management (36+37 / 2012) 5/5</option></select>
+    </div>
+    
+    <div class="description">Rating of news Items</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--2" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-wrle91uXj0R9d6XWVAboEf3umRpdIa5wg0GJqujhlgU" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="https://scrmblog.com/tags/news">news</a></div><div class="field-item odd"><a href="https://scrmblog.com/tags/twi">twi</a></div><div class="field-item even"><a href="https://scrmblog.com/tags/flood">flood</a></div><div class="field-item odd"><a href="https://scrmblog.com/tags/apple">apple</a></div><div class="field-item even"><a href="https://scrmblog.com/tags/insurance">insurance</a></div><div class="field-item odd"><a href="https://scrmblog.com/tags/sustainability">sustainability</a></div></div></div>

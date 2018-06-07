@@ -1,0 +1,3 @@
+.. raw:: html
+
+    It can be easy to ignore the efficiency of administrative activities in the supply chain but office activities can constitute approximately 50 percent of the order to shipment lead time. Here’s how to apply lean tools to your office.

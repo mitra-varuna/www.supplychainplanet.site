@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Inventory management gets complicated when a company keeps numerous SKUs with unique product characteristics. This is especially true for medical device companies. The products they carry are of high value, and service level is critical since patients’ lives are involved. Consequently, companies in this market often rely on conservative inventory models that maintain excessive levels [&#8230;]

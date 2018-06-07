@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Mismatches between inventory records and stock have long plagued the retail industry. A system being developed by the MIT Media Lab that uses an aerial drone to read radio frequency identification (RFID) tags on product packaging, could provide one solution to this perennial problem. Dubbed RFly, the system could also help to integrate warehouses and [&#8230;]

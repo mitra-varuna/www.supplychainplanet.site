@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/ChoosingTMS_main_0518.jpg" /></p>With so many choices available, shippers must truly understand what they want a Transportation Management System to accomplish in order to make the right selection.

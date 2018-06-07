@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Advance ship notices (ASNs) can boost the retail supply chain’s ability to deliver what the consumer wants with speed and accuracy.

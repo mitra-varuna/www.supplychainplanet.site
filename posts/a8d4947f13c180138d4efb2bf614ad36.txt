@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supporting a multi-channel delivery model requires an agile supply chain and exceptional planning and execution processes and technology to make it work.

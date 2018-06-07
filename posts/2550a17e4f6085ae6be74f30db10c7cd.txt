@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Demand-driven logistics can help manage supply chain disruption caused by trade uncertainty, tariffs, protectionism, and retaliation.

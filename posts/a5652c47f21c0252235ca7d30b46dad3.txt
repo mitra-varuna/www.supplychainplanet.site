@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Data scientists at fleet management solutions provider Omnitracs recently conducted some research into what the trucking industry looked like in 2016 vs. 2017.

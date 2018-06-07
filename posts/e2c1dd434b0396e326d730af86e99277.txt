@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/TMS_WMS_YMS_main_0118.jpg" /></p>Supply chain technology ecosystems are evolving as once distinct processes for executing TMS, WMS and YMS functions converge. Is the best path forward stitching together a trifecta of best-of-breed technologies, or going all-in on a single instance, single platform for all three?

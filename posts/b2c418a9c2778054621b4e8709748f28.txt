@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Scheme to boost Nissan supply chain faces legal challenge   <a href="https://www.cips.org/en/supply-management/news/2018/february/scheme-to-boost-nissan-supply-chain-faces-legal-challenge/">https://www.cips.org/en/supply-management/news/2018/february/scheme-to-boost-nissan-supply-chain-faces-legal-challenge/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/JW563kImST">pic.twitter.com/JW563kImST</a></a></p> <img src="https://pbs.twimg.com/media/DVDGghrX4AIkEVk.jpg" width="250" />

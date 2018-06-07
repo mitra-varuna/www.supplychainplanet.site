@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Need to know: from risk management to blockchain and GDPR, SM's legal expert has compiled a checklist of issues that will affect procurement in 2018.   <a href="http://bit.ly/2FQyBde">http://bit.ly/2FQyBde&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/DtvVSNAnzj">pic.twitter.com/DtvVSNAnzj</a></a></p> <img src="https://pbs.twimg.com/media/DVV4uznW0AAEHFI.jpg" width="250" />

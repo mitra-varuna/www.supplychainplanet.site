@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">A &pound;500m project to boost the supply chain for Nissan&rsquo;s Sunderland plant is facing a judicial review   <a href="https://www.cips.org/en/supply-management/news/2018/february/scheme-to-boost-nissan-supply-chain-faces-legal-challenge/">https://www.cips.org/en/supply-management/news/2018/february/scheme-to-boost-nissan-supply-chain-faces-legal-challenge/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/CNjwHBG0Qj">pic.twitter.com/CNjwHBG0Qj</a></a></p> <img src="https://pbs.twimg.com/media/DVDJdDmW0AEEZ6K.jpg" width="250" />

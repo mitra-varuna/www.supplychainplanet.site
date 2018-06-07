@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Readers explore the fine line between supply chain visibility and transparency.

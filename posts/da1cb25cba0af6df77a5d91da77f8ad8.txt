@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Urban mobility architecture must undergo fundamental change in response to rapidly changing city landscapes. In our book Faster, Smarter, Greener – The Future of the Car and Urban Mobility (MIT Press, September 2017) * we proposed a framework for future passenger mobility which would be Connected, Heterogenous, Intelligent and Personalized (CHIP). Changes in mobility are [&#8230;]

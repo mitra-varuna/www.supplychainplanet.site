@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Retailers and manufacturers are beginning to seek a solution to eliminate supply chain silos and transcend the restrictions of traditional TMS static rules and rates that lead to customer disruptions and cost inefficiencies.

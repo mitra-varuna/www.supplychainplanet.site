@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Pentagon procurement agency 'lost track of $800m'   <a href="https://www.cips.org/en/supply-management/news/2018/february/pentagon-procurement-agency-lost-track-of-800m-says-audit-/">https://www.cips.org/en/supply-management/news/2018/february/pentagon-procurement-agency-lost-track-of-800m-says-audit-/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/UQJwVHKp4n">pic.twitter.com/UQJwVHKp4n</a></a></p> <img src="https://pbs.twimg.com/media/DVbEQlaWsAYgySl.jpg" width="250" />

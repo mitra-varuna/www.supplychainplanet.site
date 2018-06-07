@@ -1,0 +1,3 @@
+.. raw:: html
+
+    ISM said that PMI, the report’s key metric, increased 1.4% in May to 58.7 (a reading of 50 or higher indicates growth). This marks the 21st consecutive month of PMI growth, with the overall economy now having grown for 109 straight months. The May PMI reading is 1.1% even with the 12-month average of 58.7.

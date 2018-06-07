@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Providers that specialize and target a specific industry, geographical market, or will limit their service offering are referred to as niche 3PL’s. Here are some of the advantages to using a niche 3PL over a traditional provider.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In 2015 The Economist magazine famously dubbed blockchain technology “the trust machine” owing to its ability to create trust in business networks. This capability resonates strongly in the supply chain world, where a lack of trust is a major obstacle to high-level collaboration. The promise of blockchain may be fulfilled in time, but at present [&#8230;]

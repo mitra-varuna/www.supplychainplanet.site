@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/Robotics_main_0418.jpg" /></p>Various uses of robots in the supply chain and the benefits those systems provide.

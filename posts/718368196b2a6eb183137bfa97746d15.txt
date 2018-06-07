@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Earlier this month, a bevy of new enhancements to its procurement capabilities were recently introduced by Jabil, which are designed to minimize risk, optimize production and address spend management.

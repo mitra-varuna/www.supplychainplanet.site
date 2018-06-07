@@ -1,0 +1,73 @@
+.. raw:: html
+
+    <div class="field field-name-field-thumbnail field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="" height="80" src="https://scrmblog.com/sites/default/files/styles/thumbnail/public/pubthumb/TN_International%20Journal%20of%20Physical%20Distribution%20and%20Logistics%20Management%202012%20Wieland%20Dealing%20with%20supply%20chain%20risks%20Linking%20risk%20management%20practices%20and%20strategies%20to%20performance.png?itok=K6dDMpFj" width="80" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">
+    
+    
+    
+    	<blockquote>
+    		<p></p>
+    	</blockquote>
+    
+    
+    
+    	<h5></h5>
+    
+    	<blockquote>
+    		<p></p>
+    	</blockquote>
+    
+    
+    
+    
+    
+    
+    
+    	<h5></h5>
+    
+    
+    
+    
+    
+    
+    
+    	<h5></h5>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    	<blockquote>
+    		<p></p>
+    	</blockquote>
+    
+    
+    
+    
+    
+    	<h5></h5>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div></div></div><div class="field field-name-field-user-rating field-type-fivestar field-label-above"><div class="field-label">Rate This:&nbsp;</div><div class="field-items"><div class="field-item even"><form accept-charset="UTF-8" action="https://scrmblog.com/feed/full.xml" class="fivestar-widget" id="fivestar-custom-widget--3" method="post"><div><div class="clearfix fivestar-average-stars fivestar-form-item fivestar-outline"><div class="form-item form-type-fivestar form-item-vote">
+     <div class="form-item form-type-select form-item-vote">
+     <select class="form-select" id="edit-vote--6" name="vote"><option value="-">Select rating</option><option value="20">Give Linking risk management practice and strategies to performance 1/5</option><option value="40">Give Linking risk management practice and strategies to performance 2/5</option><option value="60">Give Linking risk management practice and strategies to performance 3/5</option><option selected="selected" value="80">Give Linking risk management practice and strategies to performance 4/5</option><option value="100">Give Linking risk management practice and strategies to performance 5/5</option></select>
+    </div>
+    
+    <div class="description">Fivestar rating field for readers to rate the content.</div>
+    </div>
+    </div><input class="fivestar-submit form-submit" id="edit-fivestar-submit--3" name="op" type="submit" value="Rate" /><input name="form_build_id" type="hidden" value="form-GdI65tYQPeq71juchsiL2yW0itlLj0di3yin_65sYiw" />
+    <input name="form_id" type="hidden" value="fivestar_custom_widget" />
+    </div></form></div></div></div><div class="field field-name-field-research-blogging field-type-text-long field-label-inline clearfix"><div class="field-label">Reference:&nbsp;</div><div class="field-items"><div class="field-item even"><p><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=International+Journal+of+Physical+Distribution+%26+Logistics+Management&amp;rft_id=info%3A%2F&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Dealing+with+supply+chain+risks%3A+Linking+risk+management+practices+and+strategies+to+performance&amp;rft.issn=&amp;rft.date=2012&amp;rft.volume=42&amp;rft.issue=10&amp;rft.spage=&amp;rft.epage=&amp;rft.artnum=&amp;rft.au=Wieland%2C+A.&amp;rft.au=Wallenburg%2C+C.M.&amp;rfe_dat=bpr3.included=1;bpr3.tags=Other%2CBusiness+Management%2C+Supply+Chain+Management">Wieland, A., &amp; Wallenburg, C.M. (2012). Dealing with supply chain risks: Linking risk management practices and strategies to performance <span style="font-style: italic;">International Journal of Physical Distribution &amp; Logistics Management, 42</span> (10)</span></p>
+    </div></div></div><div class="field field-name-field-tags-review field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="https://scrmblog.com/tags/robust">robust</a></div><div class="field-item odd"><a href="https://scrmblog.com/tags/agile">agile</a></div><div class="field-item even"><a href="https://scrmblog.com/tags/methodology">methodology</a></div><div class="field-item odd"><a href="https://scrmblog.com/tags/design">design</a></div></div></div>

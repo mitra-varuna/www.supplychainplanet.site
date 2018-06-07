@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A hyper-connected network of logistics clusters could play a key role in achieving the European Union’s goal of creating a sustainable, more efficient freight transportation system. An EU-backed research initiative called Clusters 2.0 is laying the groundwork for such a network by developing ways to link freight hubs via the physical internet. Clusters 2.0 comprises [&#8230;]

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    MIT and JDA Software will team up to advance research on intelligent supply chains, including machine learning, optimization, and consumer behavior modeling. The collaboration leverages both parties' business domain expertise and customer base.

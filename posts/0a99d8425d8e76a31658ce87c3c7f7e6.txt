@@ -1,0 +1,3 @@
+.. raw:: html
+
+    It's no secret that data is the foundation for a world class logistics strategy. It's also no secret how to find the right data, yet many companies struggle to find the data they’ve been looking for.

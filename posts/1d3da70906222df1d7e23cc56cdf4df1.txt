@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The Halal food supply chain is highly complex and requires trading partners to adhere to rigorous product segregation practices. All too often, however, these practices are not rigorous enough, causing failures that have eroded consumer trust. Enter blockchain: a technology designed to engender trust with an immutable, tamper-proof database of product flows. The technology does [&#8230;]

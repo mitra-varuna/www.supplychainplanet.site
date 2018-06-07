@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A hyper-connected network of logistics clusters could play a key role in achieving the European Union’s goal of creating a sustainable, more efficient freight transportation system.

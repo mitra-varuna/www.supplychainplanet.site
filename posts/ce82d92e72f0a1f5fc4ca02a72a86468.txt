@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Here are the six most important elements to consider when creating an item-specific supply chain strategy.

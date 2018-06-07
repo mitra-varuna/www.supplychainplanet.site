@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Heathrow embeds sustainability in all contracts 
+      <a href="https://www.cips.org/en/supply-management/news/2018/february/heathrow-embeds-sustainability-in-all-contracts/">https://www.cips.org/en/supply-management/news/2018/february/heathrow-embeds-sustainability-in-all-contracts/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

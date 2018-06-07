@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Exploring the advantages of using a state-of-the-art API solution

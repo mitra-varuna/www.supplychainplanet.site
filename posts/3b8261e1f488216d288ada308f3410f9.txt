@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The report’s key metric, known as the PMI, was 59.1 (a reading of 50 or higher indicates growth) in January, which was down 0.2% from December’s reading. This marks the 17th straight month that the PMI has grown, with the overall economy growing for the 104th consecutive month.

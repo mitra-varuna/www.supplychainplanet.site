@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Eighty-four percent of industrial companies face a disconnect between data from connected devices and strategic decision making and operations, limiting the Internet of Thing's (IoT) digital transformation potential, according to a research study conducted by IFS, a global enterprise applications company.

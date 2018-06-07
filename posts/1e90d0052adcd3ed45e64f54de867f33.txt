@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Human rights awareness critical to M&amp;A success   <a href="https://www.cips.org/en/supply-management/news/2018/february/human-rights-awareness-critical-to-ma-success/">https://www.cips.org/en/supply-management/news/2018/february/human-rights-awareness-critical-to-ma-success/&nbsp;&hellip;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>
