@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The latest issue of  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/supplymgmt">@<b>supplymgmt</b></a> is out today. Featuring an indepth look at  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/blockchain?src=hash">#<b>blockchain</b></a> move from hype to reality <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/W7NSLZT0yK">pic.twitter.com/W7NSLZT0yK</a></a></p> <img src="https://pbs.twimg.com/media/DfKDqGHX0AApdO5.jpg" width="250" />

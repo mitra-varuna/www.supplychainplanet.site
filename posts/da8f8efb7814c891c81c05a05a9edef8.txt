@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The latest issue of Supply Management is out now. On the cover: a look at how blockchain is moving from hype to reality. 
+    Read the feature:   <a href="https://www.cips.org/en/supply-management/analysis/2018/june-/blockchain-hype-reality/">https://www.cips.org/en/supply-management/analysis/2018/june-/blockchain-hype-reality/&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/EA57OAoiug">pic.twitter.com/EA57OAoiug</a></a></p>

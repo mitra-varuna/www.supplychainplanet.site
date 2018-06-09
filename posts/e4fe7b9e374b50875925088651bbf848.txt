@@ -1,0 +1,3 @@
+.. raw:: html
+
+    If you’re one of the countless people wringing their hands over the prospect of artificial intelligence (AI) taking over the world, you might want to take a closer look at the kind of world AI is supposedly inheriting. It’s a world where human flexibility and adaptability are needed more than ever. AI can outperform humans [&#8230;]
