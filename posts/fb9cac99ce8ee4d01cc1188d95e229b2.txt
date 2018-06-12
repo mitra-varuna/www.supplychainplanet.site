@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chain resilience has received a considerable amount of attention over the last decade or so, and although companies have achieved much in making their supply chains more resilient, many are still unprepared for disruptions.

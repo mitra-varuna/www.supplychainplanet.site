@@ -1,0 +1,3 @@
+.. raw:: html
+
+    There’s been much emphasis on trying to understand the generational differences as they exist in Supply Management.  APICS, APQC, CAPS and ISM have all produced reports or surveys.

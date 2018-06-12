@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">BT opts for single sourcing for music branding   <a href="https://www.cips.org/en/supply-management/news/2018/june/bt-opts-for-single-sourcing-for-music-branding/">https://www.cips.org/en/supply-management/news/2018/june/bt-opts-for-single-sourcing-for-music-branding/&nbsp;&hellip;</a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procureconmarketing?src=hash">#<b>procureconmarketing</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">How to buy a satellite. Inmarsat's procurement head on space lawyers, zombie satellites and removing complexities in a world of technical stakeholders.   <a href="http://bit.ly/2LwWlpy">http://bit.ly/2LwWlpy&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/Qcb3hvlHVY">pic.twitter.com/Qcb3hvlHVY</a></a></p> <img src="https://pbs.twimg.com/media/DfejM9ZWAAA_CAA.jpg" width="250" />
