@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Oracle introduced new releases Oracle Transportation Management Cloud and Oracle Global Trade Management  Cloud last week to address the needs of supply chain managers in the current global marketplace.

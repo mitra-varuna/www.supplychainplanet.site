@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/GlobalTradeLens_main_0818.jpg" /></p>In an effort to apply blockchain to the world’s global supply chain, Maersk Line and IBM have collaborated to develop TradeLens, a blockchain-enabled shipping solution to promote more efficient and secure global trade, bring together supply chain partners to support information sharing and transparency, and encourage industry-wide innovation.

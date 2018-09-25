@@ -1,0 +1,3 @@
+.. raw:: html
+
+    For the next wave of Supply Management transformations, we will see behaviors challenged more than ever before. Nonetheless, behaviors may still be the difference between a successful transformation and a failed one.

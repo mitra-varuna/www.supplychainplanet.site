@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Historically, metalworking has involved a process called subtractive manufacturing, where a metal block is put inside a computer-controlled machine. The machine cuts the block into desired shapes that later become automotive, aerospace, or electronic parts. In most cases, it takes multiple cutting steps and processes to create a component, given the complexity of the desired [&#8230;]

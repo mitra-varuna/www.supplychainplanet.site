@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Now we&rsquo;re hearing from Ivan Evstatiev, a senior planning manager at Coca Cola on supply chain finance transformation at the company.  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/gartnerscc?src=hash">#<b>gartnerscc</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/L31L4blPNt">pic.twitter.com/L31L4blPNt</a></a></p> <img src="https://pbs.twimg.com/media/Dn8YmDLVYAgzJ2A.jpg" width="250" />

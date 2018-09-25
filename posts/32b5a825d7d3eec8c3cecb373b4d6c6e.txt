@@ -1,0 +1,5 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">South Africa's investigation into government corruption has heard that procurement processes were deliberately flouted in at least half of tenders in recent years.
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/StateCaptureInquiry?src=hash">#<b>StateCaptureInquiry</b></a>  <a href="https://bit.ly/2LhlqEw">https://bit.ly/2LhlqEw&nbsp;</a></p>

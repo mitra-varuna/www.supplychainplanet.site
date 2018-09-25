@@ -1,0 +1,3 @@
+.. raw:: html
+
+    There is so much effort and capital being directed at wanting to make trucks driverless, but if you don't need the driver, why do you need the truck?

@@ -1,0 +1,5 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Promoting the origin of goods to customers has never been more important. Read our analysis on why that is.
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a href="https://www.cips.org/en/supply-management/analysis/2018/july/promoting-provenance/">https://www.cips.org/en/supply-management/analysis/2018/july/promoting-provenance/&nbsp;&hellip;</a></p>

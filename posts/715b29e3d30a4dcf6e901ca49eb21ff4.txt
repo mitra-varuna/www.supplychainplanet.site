@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Many companies are pursuing projects to harness the benefits of artificial intelligence (AI). While the technology is starting to make its mark in the supply chain domain, practitioners should not underestimate the amount of preparatory work that needs to be done to provide a firm foundation for AI applications that can yield real value. AI [&#8230;]

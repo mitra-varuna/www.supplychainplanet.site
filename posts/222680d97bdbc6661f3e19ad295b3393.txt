@@ -1,0 +1,3 @@
+.. raw:: html
+
+    On-demand warehousing matches companies with excess warehouse space with companies with short-term excess inventory. It’s a win-win.

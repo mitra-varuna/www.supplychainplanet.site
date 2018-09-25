@@ -1,0 +1,99 @@
+.. raw:: html
+
+    <p><strong>PREVIEW</strong> <em>In their three-part </em>Foresight <em>series entitled “Misconceptions, Missteps, </em><em>and Bad Practices in S&amp;OP,” (</em>Foresight <em>issues 46, 47, 48) Chris Gray and John </em><em>Dougherty expose a baker’s dozen of blunders blocking the road to an effective </em><em>S&amp;OP process.</em><em> </em></p>
+    <ol>
+    <li><em> S&amp;OP Is the New Name for ERP.</em></li>
+    <li><em> To Make S&amp;OP Work, We’ll Need New Software.</em></li>
+    <li><em> For Our Company, S&amp;OP Is Operations (O) and Inventory without Involving </em><em>Sales (S)!</em></li>
+    </ol>
+    <ol start="4">
+    <li><em> Make to Stock, Make to Order: Makes No Difference.</em></li>
+    <li><em> More S&amp;OP Families Are Better than Fewer Families.</em></li>
+    <li><em> Cogito Ergo Sum: I Think I Am Doing S&amp;OP, Therefore I Am.</em></li>
+    <li><em> We Can Have an Effective Strategy Even Without Effective Supply-Demand </em><em>Balance.</em></li>
+    </ol>
+    <ol start="8">
+    <li><em> What Do You Mean, Time Fences?</em></li>
+    <li><em> To Make S&amp;OP Work, We’ll Need to Freeze the Forecast (or the Supply Plan or </em><em>the Master Production Schedule).</em></li>
+    </ol>
+    <ol start="10">
+    <li><em> Laziness Is a Virtue (?!): What Do You Mean “Document Assumptions”?</em></li>
+    <li><em> When It Comes to Metrics for S&amp;OP, “One Size Fits All.”</em></li>
+    <li><em> Laziness Is a Virtue: We’ll Set the S&amp;OP = Sum of the Master Production </em><em>Schedule (MPS) Detail.</em></li>
+    </ol>
+    <ol start="13">
+    <li><em> With an Advanced Planning System (APS), Humans Can Be Completely </em><em>Eliminated from the Planning, Production, and Support Processes.</em></li>
+    </ol>
+    <p><em> </em>In the summer 2018 edition of <a href="https://foresight.forecasters.org/">Foresight Magazine</a> I provided the following commentary on their articles.</p>
+    <h1><strong>S&amp;OP Vision, Culture, and Language</strong></h1>
+    <p>As an S&amp;OP practitioner and consultant, I’ve come across most of these misconceptions, and I agree that they restrict the effectiveness and sustainability of S&amp;OP. In reviewing the list, I see several major themes:</p>
+    <ul>
+    <li>The missteps happen mostly during an S&amp;OP implementation. There are important roadblocks, however, that must be overcome <em>before </em>a company starts an S&amp;OP implementation.</li>
+    <li>They are largely system, process, and tools focused, whilst leadership, people, and culture also have an enormously important role to play in effective S&amp;OP.</li>
+    <li>Their orientation is on supply chain, but there are needs for S&amp;OP as a business-governing model in other areas.</li>
+    </ul>
+    <p>So let me expand upon these themes.</p>
+    <h2>WE HAVE A BUSINESS VISION, BUT NOT AN S&amp;OP VISION</h2>
+    <p>Any self-respecting company will have a vision, a long-term view on where the business sees itself in the future. A company vision ought to inspire and align employees around a common goal and give</p>
+    <p>employees something they can believe in. The development and communication of a clear vision are acknowledged to be the first steps before undertaking change management.</p>
+    <p>Implementing S&amp;OP in a complex business environment—across countries, business units, and manufacturing and distribution footprints—is difficult. Developing effective S&amp;OP in these environments is a long-term game, taking up to 5-10 years. With this time frame in mind, S&amp;OP needs a long-term view. Such an S&amp;OP vision ought to provide energizing descriptions on how the process will help the company move forward and how the future will look with effective S&amp;OP.</p>
+    <p>This vision should also provide a road map with clear goals and measurements across organizations, geographies, processes, systems, and people-support capabilities.</p>
+    <p>Goals need measurements and targets, and these need to be checked at least yearly to assess progress toward reaching desired maturity levels. However, in a recent survey (<strong>Figure 1</strong>) in which I asked practitioners—about three-quarters of whom were managers or directors— about their S&amp;OP vision, only about one-third reported having clearly defined S&amp;OP maturity levels, and only 28% both set targets and checked those yearly (Van Hove, 2014).</p>
+    <p><strong><a href="https://supplychaintrends.files.wordpress.com/2018/07/sop-graph.png"><img alt="" class=" wp-image-2753 alignleft" height="247" src="https://supplychaintrends.files.wordpress.com/2018/07/sop-graph.png?w=419&#038;h=247" width="419" /></a></strong></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>Figure 1. S&amp;OP Maturity-Level Objectives</p>
+    <p>Without a common goal to align functions, and without clear targets for S&amp;OP effectiveness, it isn’t likely that <em>effectiveness </em>will ever be reached.</p>
+    <h3>OUR EMPLOYEES WILL START COLLABORATING ONCE S&amp;OP IS IN PLACE</h3>
+    <p>Effective S&amp;OP requires commitment, trust, empowerment, role modeling, constructive engagement, and a collaborative spirit (Tuomikangas &amp; Kaipia, 2014). When S&amp;OP is newly implemented, it is often assumed that collaboration between functions will automatically follow. Although a horizontal process like S&amp;OP provides a platform for collaboration, it is certainly not a guarantor for it.</p>
+    <blockquote><p>Although a horizontal process like S&amp;OP provides a platform for collaboration, it is certainly not a guarantor for it.</p></blockquote>
+    <p>In his experiments on cooperative behaviour, Yochai Benkler (2011) found that 30% of people behave as though they are selfish. Adam Grant (2013) divides people into givers, takers, and matchers. Givers find ways to be helpful to others, takers focus on getting as much as possible from others, whilst matchers can go either way. A willingness to help others achieve their goals lies at the heart of effective collaboration.</p>
+    <p>However, givers only represent about 25% of the population, takers 19%, and matchers make up the rest. Knowing that many people are by default selfish rather than collaborative, it is important to understand that hard work and possibly extra initiatives will be required to change behaviours in support of S&amp;OP.</p>
+    <p>Practitioners seem to agree: As shown in <strong>Table 2</strong>, over two-thirds said that behaviours are not adequately addressed in such implementations (Van Hove, 2015). To support collaboration, you should assume you’ll have to train employees, including senior leaders, in communication, self-awareness, and behavioural capabilities.</p>
+    <p><a href="https://supplychaintrends.files.wordpress.com/2016/02/sop-behaviours-sop-pulse-check.png"><img alt="" class=" wp-image-2010 alignleft" height="320" src="https://supplychaintrends.files.wordpress.com/2016/02/sop-behaviours-sop-pulse-check.png?w=427&#038;h=320" width="427" /></a></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>Table 2. Survey on Adequacy of Addressing Behaviours in S&amp;OP</p>
+    <p>To make these capabilities sustainable, they need to be defined as part of the S&amp;OP vision and must be integrated into recruitment policies, development plans, and rewards and recognition. Senior leaders should serve as role models.</p>
+    <h3>S&amp;OP IS OUR END-TO-END BUSINESS MODEL, BUT WE TALK SUPPLY-CHAIN LANGUAGE</h3>
+    <p>There are plenty of reasons that S&amp;OP can go awry or lag behind in expected progress, but at the core is a lack of senior leadership support. The process ought to support the whole business, not just supply chain, and in this regard it requires executive support from all business functions.</p>
+    <p>S&amp;OP projects often start from the supply-chain function, and so it is not surprising that much of the S&amp;OP vocabulary has a supply-chain orientation. Concepts like time fences, order types, master production schedules, and supplydemand balancing are all vital for supply chain—but we have to ask ourselves how relevant these are for functions outside supply chain. To say that “S&amp;OP is primarily a volume-oriented process” will not engage a CFO or CEO who wants to know the status of strategic projects and performance versus budget. So we need to push out from the boundaries of supplychain language.</p>
+    <p>As I pointed out in an earlier <em>Foresight </em>article (Van Hove, 2017), if outcomes such as performance versus budget and strategy status are clearly communicated to employees, business goals are better understood, and employees derive a clearer idea of how their role contributes to the strategy. The result is improved employee engagement. These S&amp;OP outcomes are important: a 2017 Gallup poll revealed that only 33% of employees in the U.S. are engaged and only 22% of U.S. employees strongly agree that the leadership of their organization has a clear direction.</p>
+    <p>Furthermore, S&amp;OP can create meeting environments where employees feel safe to speak up. This increase in psychological safety improves team effectiveness and employee well-being and performance.  Conversations about performance versus budget, strategy, employee performance and well-being will raise the profile of S&amp;OP across the company and engage support from all functions, not just supply chain.</p>
+    <h3>OUR EXECUTIVES ARE CAPABLE AND WILLING TO DRIVE AN EFFECTIVE S&amp;OP PROCESS</h3>
+    <p>A key objective for senior leaders who embark on the S&amp;OP journey is to create and nurture an environment and culture where this process can thrive. As I’ve already mentioned, it is unlikely that a company culture in support of a thriving S&amp;OP pre-exists at the start of an implementation.</p>
+    <p>We seem to assume that executives have the self-awareness, emotional capability, and willingness to nurture the values and behaviours that are requisite to effective S&amp;OP. Without these leadership traits, S&amp;OP might have the right data inputs and process structures but still lack the open debate,  constructive conflict resolution, trustbuilding, and emotional engagement of employees so essential to collaboration.</p>
+    <p>An authentic leader must have an inner belief and emotional involvement in the core precepts of alignment, integration, open communication, and trust-building, and must stay committed over the long run to overcome resistance to the cultural changes necessary to sustain an effective S&amp;OP process.</p>
+    <h3>WE DON’T NEED S&amp;OP PIONEERS</h3>
+    <p>In Part 3 of their series, Chris and John argue that “there is no need to reinvent the wheel or be a pioneer.” I agree that this might be so for tried-and-true supply-chain planning. The first S&amp;OP pioneers gave us a beautiful, supply-chain-oriented, collaborative platform, and we have to be grateful to them.</p>
+    <p>We also have to acknowledge that S&amp;OP has the potential to provide value for industry and functions beyond supply chain, such as HR, strategy, financial planning, and performance management. However, in order to extend the S&amp;OP conversation to other industries or other functions, I believe we do need new pioneers: trailblazers who think outside the supply-chain box, and who are willing to step into unknown territory and fail. We need pioneers to cement S&amp;OP as the default, end-to-end, business-governing model.</p>
+    <h3>CONCLUSIONS</h3>
+    <p>Before you start an S&amp;OP implementation, make sure you have a long-term vision, clear goals, and the required capabilities to make S&amp;OP effective and sustainable.</p>
+    <ul>
+    <li>Understand your current company culture, define required behaviours, and prepare your employees for behavioural change.</li>
+    <li>Provide meaningful language for all functions, not just supply chain.</li>
+    <li>Ask the senior leadership to take an honest look in the mirror about how capable and willing they are to nurture required S&amp;OP behaviours.</li>
+    <li>Start with the basics but dare to be a pioneer who implements aspects of S&amp;OP we’ve not before imagined.</li>
+    </ul>
+    <p><strong> </strong><strong>REFERENCES</strong></p>
+    <p>Benkler, Y. (2011). The Unselfish Gene, <em>Harvard Business Review</em>, Jul.-Aug. 2011.</p>
+    <p>Grant, A. (2013). <em>Give and Take</em>, Weidenfeld &amp; Nicolson, April 2013.</p>
+    <p>Gray, C. &amp; Dougherty, J. (2017). Misconceptions, Missteps, and Bad Practices in S&amp;OP, <em>Foresight</em>, Issue 46 (Summer 2017), 4-10.</p>
+    <p>Tuomikangas, N. &amp; Kaipia, K. (2014). A Coordination Framework for Sales and Operations Planning (S&amp;OP): Synthesis from Literature, <em>International Journal of Production Economics</em>.</p>
+    <p>Van Hove, N. (2017). How to Shape a Company Culture with S&amp;OP, <em>Foresight</em>, Issue 45 (Spring 2017), 43-48.</p>
+    <p>Van Hove, N. (2015). The S&amp;OP Pulse Check 2015.</p>
+    <p>Van Hove, N. (2014). 7 S&amp;OP Insights from the 2014 S&amp;OP Pulse Check</p>
+    <p>Featured image from: https://www.dreamstime.com</p>
+    <p>&nbsp;</p>

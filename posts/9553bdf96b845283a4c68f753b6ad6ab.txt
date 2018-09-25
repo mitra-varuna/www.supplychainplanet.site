@@ -1,0 +1,3 @@
+.. raw:: html
+
+    With an integrated TMS platform, customers can feel confident that they will get a variety of shipping options and correct pricing based on where they are shipping to.

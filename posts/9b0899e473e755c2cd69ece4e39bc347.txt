@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Here are five tips for refocusing your approach to solution design with an end-to-end mindset.

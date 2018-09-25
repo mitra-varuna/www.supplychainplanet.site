@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/GlobalDrone_main_0818.jpg" /></p>Drone technology company Flytrex, in partnership with Aha.is—Iceland's largest online marketplace—launched 13 new routes for an autonomous on-demand urban drone delivery service to serve nearly half of Reykjavik.

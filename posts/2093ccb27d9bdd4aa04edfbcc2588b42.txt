@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Microsoft has entered a partnership with ocean carrier OOCL to develop artificial intelligence (AI) in shipping, with the goal of helping Microsoft better understand and predict shipping patterns and variables.

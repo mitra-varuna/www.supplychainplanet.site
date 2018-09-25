@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Blockchain technology creates a global and trustworthy history of a product—from transaction to production to consumption. It has the potential to revolutionize workflows across international borders, empowering an automated, connected supply chain with simplicity and traceability.

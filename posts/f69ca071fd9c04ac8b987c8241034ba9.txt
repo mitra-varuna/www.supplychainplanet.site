@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Is more always better? When it comes to a shipper's supply chain and big data, more data doesn't necessarily equate to better productivity. How you leverage and utilize the influx of data is what's key. Use these tips to utilize big data to drive performance in their supply chains.

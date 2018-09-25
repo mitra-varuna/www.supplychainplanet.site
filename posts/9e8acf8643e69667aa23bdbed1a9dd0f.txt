@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The trends affecting supply chains require an agile approach.

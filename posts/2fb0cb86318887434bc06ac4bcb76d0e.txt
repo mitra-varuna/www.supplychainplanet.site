@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Warehouses should use these techniques to maintain service level agreements—the guaranteed turnaround time for an order to go out—during peak demand periods.

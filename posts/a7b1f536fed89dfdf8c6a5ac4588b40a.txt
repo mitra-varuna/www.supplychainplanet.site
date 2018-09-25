@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The Industrial Internet of Things (IIoT) is set to make a sizeable contribution to the global economy by 2023. This is according to a new study released by Inmarsat, the world mobile satellite communications company based in London.

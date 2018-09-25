@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Internal audits are the cornerstone of your compliance program. Monitoring your performance, and that of your customs broker, is the only way to determine if the policies and procedures you’ve put in place are effective.

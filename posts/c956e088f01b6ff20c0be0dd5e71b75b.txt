@@ -1,0 +1,7 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en"><img alt="&#x1F1EA;&#x1F1FA;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f1ea-1f1fa.png" title="Flag of the European Union" /><img alt="&#x1F1EC;&#x1F1E7;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f1ec-1f1e7.png" title="Flag of the United Kingdom" /> Brexit on your mind? SM has some advice:
+    
+    <img alt="&#x1F6D1;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f6d1.png" title="Octagonal sign" /> Read our story on the govt's 'no-deal guidance' to see how it could affect your business -   <a href="https://bit.ly/2Ln8mxh">https://bit.ly/2Ln8mxh&nbsp;</a>
+    
+    <img alt="&#x1F6D1;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f6d1.png" title="Octagonal sign" /> Share your thoughts by filling in the fourth  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> Brexit survey here -   <a href="https://bit.ly/2o8hTPu">https://bit.ly/2o8hTPu&nbsp;</a></p>

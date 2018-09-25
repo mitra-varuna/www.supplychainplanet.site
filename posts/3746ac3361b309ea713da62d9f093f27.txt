@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Guy Dunkeley of mobile phone distributor Brightstar explaining how robotics and machine learning can save time, effort and money in recycling mobile phones.  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/GartnerSCC?src=hash">#<b>GartnerSCC</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/KxvtkvumRh">pic.twitter.com/KxvtkvumRh</a></a></p> <img src="https://pbs.twimg.com/media/Dn7vBoWX0AAj9dS.jpg" width="250" />

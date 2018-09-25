@@ -1,0 +1,5 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Maersk is planning to launch a container ship on an Arctic route over the top of Russia, on a one-off trip designed to explore the new route. Read here -   <a href="https://bit.ly/2OYvEfg">https://bit.ly/2OYvEfg&nbsp;</a>
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/freight?src=hash">#<b>freight</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/SupplyChain?src=hash">#<b>SupplyChain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/logistics?src=hash">#<b>logistics</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

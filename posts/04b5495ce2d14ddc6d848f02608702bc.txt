@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Next up: How car seat maker Faurecia embraces predictive technologies to create a more agile supply chain  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/GartnerSCC?src=hash">#<b>GartnerSCC</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ezVdS4UiKK">pic.twitter.com/ezVdS4UiKK</a></a></p> <img src="https://pbs.twimg.com/media/Dn7rGE8XsAAAlVO.jpg" width="250" />

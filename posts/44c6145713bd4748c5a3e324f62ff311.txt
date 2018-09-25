@@ -1,0 +1,7 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">In the newsletter, we have comment on future UK-Germany trade relations after Brexit.
+    
+    Plus, how companies can fight supply chain slavery, and Uber Freight's new shipping app.
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/Procurement?src=hash">#<b>Procurement</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/modernslavery?src=hash">#<b>modernslavery</b></a>  <a href="https://bit.ly/2Mv6RTl">https://bit.ly/2Mv6RTl&nbsp;</a></p>

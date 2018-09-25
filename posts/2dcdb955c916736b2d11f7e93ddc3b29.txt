@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/SolvedCrane_main_0918.jpg" /></p>Crane Solutions optimized a client’s supply chain by implementing a network, which revolved around one primary location to service a group of hub locations around the United States.

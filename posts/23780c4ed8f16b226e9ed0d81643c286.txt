@@ -1,0 +1,11 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">A recap of this week's top stories:
+    
+    &#x2219;  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/TfL">@<b>TFL</b></a> eases tender specs to boost  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/innovation?src=hash">#<b>innovation</b></a> -   <a href="https://bit.ly/2o5qmTN">https://bit.ly/2o5qmTN&nbsp;</a>
+    
+    &#x2219; Whitehall issues no-deal  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/Brexit?src=hash">#<b>Brexit</b></a> guidance -   <a href="https://bit.ly/2wf4oCr">https://bit.ly/2wf4oCr&nbsp;</a>
+    
+    &#x2219; Charity says work with suppliers to fight labour abuse -   <a href="https://bit.ly/2Mv6RTl">https://bit.ly/2Mv6RTl&nbsp;</a>
+    
+     <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/gXpmAiTQqd">pic.twitter.com/gXpmAiTQqd</a></a></p> <img src="https://pbs.twimg.com/media/DlYARxgXcAAU7XO.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="http://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/TrendsIoT_main_0618.jpg" /></p>

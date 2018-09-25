@@ -1,0 +1,3 @@
+.. raw:: html
+
+    There are a lot of moving parts in the production of a product. The key is to value stream your supply chain to make sure everyone understands the risks and rewards in the process.

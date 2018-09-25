@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Having a vast amount of destinations makes planning routes a daunting task, especially if your business is one that is still relying on pen and paper to do so.

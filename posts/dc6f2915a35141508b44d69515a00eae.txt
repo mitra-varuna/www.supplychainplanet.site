@@ -1,0 +1,11 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Morning! <img alt="&#x1F44B;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f44b.png" title="Waving hand sign" /><img alt="&#x2615;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/2615.png" title="Hot beverage" /> In the newsletter:
+    
+    <img alt="&#x1F6D1;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f6d1.png" title="Octagonal sign" /> 'Disrupt or be disrupted' warns Unilever supply chain boss
+    
+    <img alt="&#x1F6D1;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f6d1.png" title="Octagonal sign" /> TGI Friday&rsquo;s switches to UK suppliers due to Brexit
+    
+    <img alt="&#x1F6D1;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f6d1.png" title="Octagonal sign" /> Government commits &pound;50m to fighting modern slavery
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/logistics?src=hash">#<b>logistics</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="http://bit.ly/2O7cKWL">http://bit.ly/2O7cKWL&nbsp;</a></p>

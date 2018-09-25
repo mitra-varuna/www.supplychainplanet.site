@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A new independent study carried out by research and analyst firm PayStream Advisors found that the most common practices for managing cross-border payments are neither the most efficient nor the most affordable. Instead, they cost organizations heavily in payment fees, time, and manual labor, and can have negative impacts on supply chains and supplier relationships.

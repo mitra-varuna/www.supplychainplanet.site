@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Organizations must have the right processes and strategies in place in order to access that data, analyze it, and then make it actionable.

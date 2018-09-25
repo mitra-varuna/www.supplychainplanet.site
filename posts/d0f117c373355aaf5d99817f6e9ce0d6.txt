@@ -1,0 +1,58 @@
+.. raw:: html
+
+    <div class="dDoNo" style="text-align: center;"><span>mo·jo: </span><i>noun. A</i> magic charm, talisman, or spell.</div>
+    <div class="vmod">
+    <div class="vmod">
+    <div class="vmod">
+    <div class="lr_dct_sf_sen Uekwlc XpoqFe">
+    <div class="PNlCoe XpoqFe">
+    <div class="vk_gy" style="text-align: center;">&#8220;Someone must have their mojo working over at the record company.&#8221;</div>
+    </div>
+    </div>
+    <div></div>
+    <div>In the 1990s supply chain had MOJO.</div>
+    <div>Then it was sexy.</div>
+    <div>Today, it is not.</div>
+    <div></div>
+    <div><a href="http://supplychaininsights.com/portfolio/supply-chains-to-admire-2018/">90% of public manufacturing companies are treading wate</a>r. There is a struggle. Improvement on the key metrics of growth, inventory turns, operating margin and Return on Invested Capital (ROIC) is elusive. Here I want to share a perspective of &#8220;Why.&#8221;</div>
+    <div></div>
+    </div>
+    </div>
+    <div><strong>Background</strong></div>
+    <div><img alt="" class="alignleft wp-image-9325 size-full" height="152" src="http://www.supplychainshaman.com/wp-content/uploads/2018/08/shutterstock_654587473-e1533942169114.jpg" style="text-align: center;" width="200" /></div>
+    <div>I have been working in the field of supply chain management since 1979. First as a practitioner (1979-1991). Then as a software executive (1991-2001 and then 2003-2005) and finally as an analyst (2001-2003 and 2005-present). I have worn many hats and attended more conference than I can count. Yes, I am an old gal.</div>
+    <div></div>
+    <div>In the industry, the cycle is broken. I show this in Figure 1.</div>
+    </div>
+    <div></div>
+    <div><strong>Figure 1. The Death Spiral of Supply Chain Management</strong></div>
+    <div><img alt="" class="alignnone wp-image-9324 size-full" height="561" src="http://www.supplychainshaman.com/wp-content/uploads/2018/08/breaking-the-cycle-e1533941165214.png" width="641" /></div>
+    <ul>
+    <li><strong>Pink-Ghetto Marketing.</strong> You may laugh at the term, but today in supply chain, pink ghetto marketing abounds. What is pink ghetto marketing? Let&#8217;s start with a contrast. In a market-driven organization, the focus is on serving the market and driving value for customers. In pink ghetto marketing, the focus is on tactics. This includes expo hall booth graphics, product giveaways, ad artwork, collateral, and website look and feel. I name it &#8220;pink ghetto&#8221; because it is usually managed by a group of women that feel underserved by the organization. They are typically given marching orders from a testosterone-driven sales organization.</li>
+    <li><strong>Sales-Driven Initiatives Without Accountability.</strong> In supply chain management, the sales teams make good money. The focus is on closing the deal. Driving value for the client is optional, and not a requirement. When the sales team closes the deal, there is a handoff to the consulting organization. Many of these are rough. Why? The sales team may have oversold the software, and scope clarity is lacking. Supply chain management is &#8220;heady stuff,&#8221; and with the sales team focused on &#8220;selling the deal,&#8221;  scope clarity is usually an issue. Remember the old joke, &#8220;What is the difference between a used car salesman, and a software sales team?&#8221; The answer, &#8220;A used car salesperson knows when they are lying.&#8221;</li>
+    <li><strong>Bad Conferences on Steroids.</strong> With the pink ghetto marketing organization focused on leads and placement of speakers, there is a strong investment in &#8220;conference sponsorships.&#8221; In England, we have a plethora of event organizers that roll out many questionable events largely funded by technology companies. Business users attend free, but the primary goal is to provide a forum for technologists to advertise their products (I feel this way about EFT, IE Group, SCOPE, World Trade Group). The reason? There is no vetting of presenters.</li>
+    <li><strong>Misaligned Analyst Models.</strong> In the late 1990s, the technologists hijacked the analyst agendas. The strong spending by SAP and Oracle in the analyst models were a barrier to independent thought, and while the analysts speak of a research model, there is usually too little research and too much influence by technologists with larger wallets. Contractually, analyst work at existing companies must be reviewed by large software companies (primarily SAP and Oracle). This destroys the analyst&#8217;s voice.</li>
+    <li><strong>A Focus on Business.</strong> Acronyms abound while business value translation is absent. VUCA may represent volatility, uncertainty, complexity and ambiguity to a few enlightened business leaders, but to many, it sounds like the scene in the bathroom on a bad morning after a party at a college frat house. DDVN is the acronym for Demand-Driven Value Networks, but has been hijacked by the DDMRP initiatives. In short, the industry is drowning in acronyms with too little accountability for value.</li>
+    </ul>
+    <div class="vmod">
+    <div class="vmod">
+    <div class="vmod">
+    <div>My conclusion? Together, we killed the market for supply chain management. The focus on short-term incentives for sales-driven organizations is a barrier to driving value. The &#8220;market leaders&#8221; were not leaders. Software companies failed to drive value-based business propositions. Consultants got rich recommending solutions without accountability.</div>
+    </div>
+    </div>
+    </div>
+    <div></div>
+    <div>Business requirements changed in the shift from regional to global supply chains. The supply chain became more complex and more nonlinear. The processes and technology needed to adapt, but the software market cycle in Figure 1, was a barrier to change.</div>
+    <div></div>
+    <div>Just as we need a free press, supply chain management needs independent research. Calling a spade a spade, and writing the unvarnished truth in this market is tough.</div>
+    <div class="vmod">
+    <div class="vmod">
+    <div class="vmod">
+    <div></div>
+    </div>
+    </div>
+    <div>My goal is to break this cycle. The research I write is independent. The conference I host is based on hand-picked presentations. My goal is to help supply chain leaders drive value. I hope that you can join us at the <a href="http://www.supplychaininsightsglobalsummit.com">Supply Chain Insights Global Summit</a> in Philadelphia on September 4-7, 2018.</div>
+    </div>
+    <div></div>
+    <div>I would love to hear your thoughts. Have a great weekend.</div>
+    <p><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fnew-technologies%2Fhow-supply-chain-lost-its-mojo%2F&amp;linkname=How%20Supply%20Chain%20Lost%20Its%20Mojo" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fnew-technologies%2Fhow-supply-chain-lost-its-mojo%2F&amp;linkname=How%20Supply%20Chain%20Lost%20Its%20Mojo" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fnew-technologies%2Fhow-supply-chain-lost-its-mojo%2F&amp;linkname=How%20Supply%20Chain%20Lost%20Its%20Mojo" rel="nofollow noopener" target="_blank" title="LinkedIn"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.supplychainshaman.com%2Fnew-technologies%2Fhow-supply-chain-lost-its-mojo%2F&amp;linkname=How%20Supply%20Chain%20Lost%20Its%20Mojo" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_dd a2a_counter addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.supplychainshaman.com%2Fnew-technologies%2Fhow-supply-chain-lost-its-mojo%2F&amp;title=How%20Supply%20Chain%20Lost%20Its%20Mojo"></a></p><img alt="" height="1" src="http://feeds.feedburner.com/~r/SupplyChainShamancom/~4/bnkEmfPsf8c" width="1" />

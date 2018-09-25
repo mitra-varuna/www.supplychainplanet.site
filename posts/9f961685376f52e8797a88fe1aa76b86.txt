@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The 2018 Digital Supply Chain Executive Survey conducted by Incisiv finds one force remains constant across manufacturers and retailers alike: More than half identify the need for real-time product visibility as the leading driver in digital supply chain investment.

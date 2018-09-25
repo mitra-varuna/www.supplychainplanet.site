@@ -1,0 +1,3 @@
+.. raw:: html
+
+    No supply chain is immune from risk, and the farther a company's supply chain traverses the globe, the more opportunity for things to go awry.

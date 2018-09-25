@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The fulfillment part of multi-channel e-commerce is tricky; store delivery is one possible last-mile option.

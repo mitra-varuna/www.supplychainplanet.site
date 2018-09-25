@@ -1,0 +1,7 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Matthew Pinsent on the importance of flagging up issues in projects ASAP: &ldquo;If you incubate problems for three weeks [before they emerge] and THEN have to go back and fix them, you don't get that three weeks back." 
+    
+    The solution: speak up and be &ldquo;brutally honest&rdquo;. 
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/GartnerSCC?src=hash">#<b>GartnerSCC</b></a></p>

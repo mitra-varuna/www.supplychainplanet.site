@@ -1,0 +1,5 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Buyers must &ldquo;rethink their supply chains&rdquo; to fit into modern circular economies - from  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/Gartner_inc">@<b>Gartner_inc</b></a> Executive Supply Chain Conference. 
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/gartnerscc?src=hash">#<b>gartnerscc</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="http://bit.ly/2NG9gee">http://bit.ly/2NG9gee&nbsp;</a></p>

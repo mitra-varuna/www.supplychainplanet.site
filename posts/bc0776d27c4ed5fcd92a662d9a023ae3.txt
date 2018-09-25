@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Six trends for planning and optimizing operations.

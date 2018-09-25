@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Read yesterday's report from the Gartner Supply Chain Conference here:   <a href="https://www.cips.org/en-GB/supply-management/news/2018/september/disrupt-or-be-disrupted-warns-unilever-supply-chain-boss/">https://www.cips.org/en-GB/supply-management/news/2018/september/disrupt-or-be-disrupted-warns-unilever-supply-chain-boss/&nbsp;&hellip;</a> 
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/gartnerscc?src=hash">#<b>gartnerscc</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a></p>
