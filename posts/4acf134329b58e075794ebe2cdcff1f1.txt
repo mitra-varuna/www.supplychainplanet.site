@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In 2003 Walmart told suppliers they were required to affix radio frequency identification (RFID) tags to pallets and cases within three years. This month Walmart announced that it has asked suppliers of leafy greens to have systems in place within a year that can trace their product all the way back to the farm using [&#8230;]

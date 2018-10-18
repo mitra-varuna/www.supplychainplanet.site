@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Intelligent technology, including AI and machine learning enables goal to be attained over time through self-learning, predicting, prescribing and optimizing supply-chain performance automatically across business functions.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Research indicates that blockchain technology could help alleviate poverty and world hunger
