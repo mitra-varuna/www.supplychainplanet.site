@@ -1,0 +1,9 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">This week, we bring you the Career Roadmap series.
+    
+    SM will tell you the stories of how various CPOs reached the top of their profession.
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> 
+    
+    Read here:  <a href="http://ow.ly/6qE250jpDim">http://ow.ly/6qE250jpDim&nbsp;</a></p>

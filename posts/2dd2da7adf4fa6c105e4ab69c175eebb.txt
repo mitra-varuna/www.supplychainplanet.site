@@ -1,0 +1,7 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Today, as part of our Career Roadmap series, National Grid's CPO Vivienne Bracken tells SM how she reached the top of her profession.
+    
+      <a href="http://ow.ly/DYcE50jpDky">http://ow.ly/DYcE50jpDky&nbsp;</a>
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

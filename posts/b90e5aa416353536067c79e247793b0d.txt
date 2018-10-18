@@ -1,0 +1,5 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Procurement must get a handle on data before doing &lsquo;sexy analytics&rsquo;
+     
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="http://ow.ly/kKWl50jqZhr">http://ow.ly/kKWl50jqZhr&nbsp;</a></p>

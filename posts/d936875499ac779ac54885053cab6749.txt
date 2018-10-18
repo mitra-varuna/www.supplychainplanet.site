@@ -1,0 +1,9 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">In the newsletter:
+    
+    <img alt="&#x1F37A;" class="Emoji Emoji--forText" draggable="false" src="https://abs.twimg.com/emoji/v2/72x72/1f37a.png" title="Beer mug" /> Beer prices could double if barley production is hit by the effects of climate change, says research -   <a href="http://ow.ly/GftZ50jqQXb">http://ow.ly/GftZ50jqQXb&nbsp;</a>
+    
+    PLUS: Put procurement at heart of innovation, says Lego buyer
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a></p>

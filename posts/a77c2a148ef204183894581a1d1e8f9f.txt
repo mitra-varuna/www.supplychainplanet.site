@@ -1,0 +1,7 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The latest in our Career Roadmap series: Adrian Cook, director of fresh foods at Sainsbury's, tells SM how he got where he is.
+    
+    "You might be talking about sausages, but you can bring it back to a spare defence part."
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="http://ow.ly/J4oK50jpDns">http://ow.ly/J4oK50jpDns&nbsp;</a></p>

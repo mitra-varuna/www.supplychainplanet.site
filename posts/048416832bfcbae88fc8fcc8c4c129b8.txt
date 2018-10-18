@@ -1,0 +1,7 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">CAREER ROADMAP: Hear from CPO Andrew Cannon-Brookes of Standard Chartered about how he reached the top of his game. 
+    
+    Part 3 in our series of exclusive interviews with some of the best in the industry.
+    
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychain?src=hash">#<b>supplychain</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="http://ow.ly/mdAj50jpDqF">http://ow.ly/mdAj50jpDqF&nbsp;</a></p>
