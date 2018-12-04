@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Instead of making, using, and disposing of products and materials, leading companies keep components in use in the value chain and logistics process for as long as possible.

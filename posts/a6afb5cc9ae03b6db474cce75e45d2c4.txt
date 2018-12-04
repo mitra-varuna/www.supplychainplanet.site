@@ -1,0 +1,3 @@
+.. raw:: html
+
+    We are evolving to the point where we can share information between members of the supply chain, automate processes such as ordering, quotation and route optimization, and collaboratively work together to manage the exceptions.

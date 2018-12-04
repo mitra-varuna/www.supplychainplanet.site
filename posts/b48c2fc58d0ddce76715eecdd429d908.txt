@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The report’s key metric, the PMI, rose 1.6% to 59.3 3 (a reading of 50 or higher indicates growth) while the index has grown for 27 consecutive months, with the overall economy now having grown for 115 consecutive months.

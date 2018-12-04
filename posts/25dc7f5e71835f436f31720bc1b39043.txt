@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="it">E.coli risk in romaine lettuce across North America  <a href="http://bit.ly/2Sd8MdJ">http://bit.ly/2Sd8MdJ&nbsp;</a></p>

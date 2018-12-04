@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Concern over DoT secrecy around Brexit Dover plans  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a href="https://www.cips.org/en/supply-management/news/2018/november/real-prospect-for-dover-disruption-in-no-deal-brexit/">https://www.cips.org/en/supply-management/news/2018/november/real-prospect-for-dover-disruption-in-no-deal-brexit/&nbsp;&hellip;</a></p>

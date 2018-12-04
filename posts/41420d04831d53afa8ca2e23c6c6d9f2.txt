@@ -1,0 +1,3 @@
+.. raw:: html
+
+    This article defines strategic sourcing and how to implement it.

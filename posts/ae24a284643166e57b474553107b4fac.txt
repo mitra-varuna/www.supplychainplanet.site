@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Supply chains should allocate product across today's complex omni-channel networks to fulfill customer demand.

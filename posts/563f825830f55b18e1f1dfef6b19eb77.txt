@@ -1,0 +1,3 @@
+.. raw:: html
+
+    According to the IHS Markit U.S. PMI (Purchasing Managers’ Index) special tariff survey released today, the data indicate that U.S .manufacturers expect tariffs to have a widespread upward impact on prices over the next two years.

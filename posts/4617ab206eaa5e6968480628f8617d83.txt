@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Executing against the wrong e-commerce strategy – or not having a strategy at all – is a recipe for higher costs and lower customer satisfaction levels and can have a major negative impact on your business.

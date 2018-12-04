@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Moving a whole supply chain from push to pull isn’t easy, but the benefits are worth the effort.

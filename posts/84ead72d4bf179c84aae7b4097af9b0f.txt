@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Among the next-gen technologies set to affect the supply chain, blockchain and artificial intelligence are rapidly emerging with potential for significant impact.

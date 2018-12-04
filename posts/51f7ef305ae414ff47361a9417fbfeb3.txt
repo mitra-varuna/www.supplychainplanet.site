@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Countless proof-of-concept and pilot projects have provided compelling information on the potential worth of blockchain solutions in supply chain management, but the technology has to start delivering concrete ROIs soon if the industry is to take it seriously. This was a recurrent theme at the Blockchain Applications In Supply Chain Management Roundtable, October 9 to [&#8230;]

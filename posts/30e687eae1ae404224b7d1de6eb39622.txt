@@ -1,0 +1,3 @@
+.. raw:: html
+
+    There are value points in managing information gathered from a strong TMS system that can also provide a solid pre-audit program to double check accuracy of bills before payment.

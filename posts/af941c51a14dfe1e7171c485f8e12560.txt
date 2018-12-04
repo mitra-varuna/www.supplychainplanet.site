@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Merlin Entertainments commits to phasing out plastic straws, and going 100% renewable on energy. CPO John Butcher tells us about procurement's role in the change  <a href="https://www.cips.org/en/supply-management/news/2018/november/plastic-straws-to-be-phased-out-in-theme-parks-/">https://www.cips.org/en/supply-management/news/2018/november/plastic-straws-to-be-phased-out-in-theme-parks-/&nbsp;&hellip;</a></p>

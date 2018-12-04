@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">The latest issue of Supply Management is out now. Featuring a look at how procurement can get more involved in M&amp;A, plus much more. Download your issue:   <a href="https://www.cips.org/en-gb/supply-management/magazine-sign-in/?pId=hVN+xexN3VI=">https://www.cips.org/en-gb/supply-management/magazine-sign-in/?pId=hVN+xexN3VI=&nbsp;&hellip;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/MkjZxIsO4Z">pic.twitter.com/MkjZxIsO4Z</a></a></p>

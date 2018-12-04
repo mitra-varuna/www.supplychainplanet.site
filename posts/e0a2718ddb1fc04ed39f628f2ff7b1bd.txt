@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Here are the benefits and drawbacks of the Internet of Things (IoT) and advice for a successful IoT implementation.

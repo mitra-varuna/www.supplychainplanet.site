@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Consumer packaged goods (CPG) companies use robust algorithms to interpret patterns from historical sales and predict future demand. Typically, these algorithms only have one or two sources of information (data sets) to derive the forecast for the next period. As the field of business forecasting develops, technological improvements allow companies to experiment with more advanced [&#8230;]
