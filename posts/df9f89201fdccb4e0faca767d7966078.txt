@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Currently, too many Procurement groups go to market with only their inside information in-hand and without much understanding of the outside picture.
