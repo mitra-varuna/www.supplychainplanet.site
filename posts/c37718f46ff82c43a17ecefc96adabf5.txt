@@ -1,0 +1,75 @@
+.. raw:: html
+
+    <p><em>A Brief Review of Bars and Beer in and around Cambridge, MA</em></p>
+    <p><strong>Motivation</strong></p>
+    <p>As president of the SCMr class of 2019, I care about the mental health of my classmates. We’ve found that one of the best ways to unwind after a busy week of classes, recruiting events, and group projects is to head to a local bar and talk about our frustrations over a beer. Since being elected class president, I’ve been asked many questions by my classmates and I don’t always have the answers. But the one question that caught me most off guard is the one I am actually quite qualified to answer: “Mr. President (yes, some classmates will call me that), which beer should I get?” Since I reached legal drinking age during a period where <a href="https://www.craftbeer.com/breweries/what-is-a-craft-brewery">craft beer</a> in the U.S. is becoming increasingly popular, I am very familiar with the wide varieties of styles and brands on the U.S. market, but it hadn’t occurred to me that my colleagues from other countries might be overwhelmed by the number of options.</p>
+    <p><strong>Researcher’s Qualifications</strong></p>
+    <p>To elaborate on my qualifications: I do not hold a MicroMasters in Beverage Appreciation, but I have sampled over 1400 unique beers as of this posting. While this may seem a large number, it barely scratches the surface of available beers in the U.S. I keep track of them all via Untappd, an app for beer discovery. But back to the question at hand…</p>
+    <p><strong>Discussion</strong></p>
+    <p>I answer the question the same way any good supply chain professional would: “Well, it depends.” Knowing nothing about my classmates’ flavor preferences, and to avoid spending many minutes explaining what each option is, I will usually recommend a middle of the road, straightforward lager or pale ale. But this post gives me an opportunity to present what I do not share in an easy-to-digest table! The table below (Exhibit A) lists several common styles of beer in the U.S. with a brief description and my personal recommendation(s) for a locally brewed beer that should be readily available in Cambridge.</p>
+    <p><strong>Case study- where to apply the research</strong></p>
+    <p><em><img alt="Picture1" class="alignnone size-full wp-image-1330" src="https://mitscmprogram.files.wordpress.com/2018/11/picture1.png?w=660" />The menu at Miracle of Science</em></p>
+    <p>Some popular locales for MIT students include one of the three on campus bars: <a href="http://muddy.mit.edu/">The Muddy Charles</a> (most popular), <a href="https://studentlife.mit.edu/dining/retail-dining/thirsty-ear-pub">The Thirsty Ear Pub</a> (only open two nights a week, but go for karaoke on Thursdays), or <a href="http://dining.mit.edu/venues-menus/r-and-d">the R&amp;D Pub</a> (kind of a secret on campus, maybe I shouldn’t be telling you about it). If you’re looking to try lots of different beers in a night, head to <a href="https://themeadhall.com/">Meadhall</a>. This is not an academic building, but rather a bar in Kendall Square with an extensive list of draft beers, ciders, and meads. Companies like to hold information sessions there, so make sure you attend those.</p>
+    <p>When the group doesn’t mind leaving campus, I like to head to <a href="https://www.theautomaticbar.com/">The Automatic</a> on Hampshire Street in Cambridge. They have great food and a drink menu that will please most (and isn’t too hard on the wallet). For a laid back evening closer to most of the graduate residences on campus, <a href="http://www.miracleofscience.us/">Miracle of Science</a> on Massachusetts Avenue caters to the MIT crowd, with a periodic table style menu and laboratory furniture. If you want a cool view inside Fenway Park, check out the <a href="https://bleacherbarboston.com/">Bleacher Bar</a>, literally inside the grandstand at Fenway. No need to get a ticket to a game to enter. Or, for the full supply chain experience, plan a day off from studying and head to one of the many breweries (to take a tour. Cap it all off with a visit to the tasting room for an ‘end-to-end’ experience.</p>
+    <p><em><img alt="Picture2" class="alignnone size-full wp-image-1331" src="https://mitscmprogram.files.wordpress.com/2018/11/picture2.png?w=660" /></em></p>
+    <p><em>The view from the Bleacher Bar- they were building the stage for Pearl Jam’s concerts that weekend</em></p>
+    <p><strong>Exhibit A &#8211; Literature review</strong></p>
+    <table width="525">
+    <tbody>
+    <tr>
+    <td width="137"><strong>Style(s)</strong></td>
+    <td width="117"><strong>Words commonly used to describe the taste</strong></td>
+    <td width="126"><strong>The local ‘go-to’</strong></p>
+    <p><strong>(Brewery / Name of Beer)</strong></td>
+    <td width="146"><strong>Other comment(s)</strong></td>
+    </tr>
+    <tr>
+    <td width="137">India Pale Ale (similar styles include session IPA’s or American pale ales)</td>
+    <td width="117">Hoppy (bitter), citrusy, flavorful</td>
+    <td width="126">Notch Brewing / Left of the Dial IPA</td>
+    <td width="146">If you’re completely new to craft beer, IPA’s should be your starting to point. Every craft brewery makes one and New England is known for their New England IPA’s that taste rather juicy. The bitterness is definitely not for everyone, though.</td>
+    </tr>
+    <tr>
+    <td width="137">Lager (the craft ones)</td>
+    <td width="117">“It tastes like good beer”</td>
+    <td width="126">Jack’s Abby / House Lager</p>
+    <p>Sam Adams / Boston Lager</td>
+    <td width="146">This is the middle of the road. Not heavy, not light, not bitter. Craft breweries do not commonly make this style, but it’s refreshing and can still pack some of the flavor notes of an IPA if done well. Look for dark lagers during winter.</td>
+    </tr>
+    <tr>
+    <td width="137">Lager and light beer (the cheap ones)</td>
+    <td width="117">“I like how cheap this is”</td>
+    <td width="126">Narragansett Brewing Company / Narragansett Lager (be a local and ask for “a ‘Gansett”)</td>
+    <td width="146">This category also includes Bud Light and other options that will probably taste the most like home and definitely won’t break the bank. Nobody will complain if you order a pitcher to share.</td>
+    </tr>
+    <tr>
+    <td width="137">Wheat ale, Witbier, White Ale</td>
+    <td width="117">Light, crisp, wheaty, fruity, refreshing</td>
+    <td width="126">Harpoon / UFO White</td>
+    <td width="146">I’m personally not the biggest fan of this style, which has its roots in Belgian and German wheat beers, but they hit the spot on a warm summer day.</td>
+    </tr>
+    <tr>
+    <td width="137">Porter, Stout, Brown Ale</td>
+    <td width="117">Chocolate, coffee, heavy</td>
+    <td width="126">Mayflower Brewing Company / Porter</td>
+    <td width="146">Everyone knows Guinness (a stout), but American breweries make some tasty darker beers too! Try them during winter as they are filling and full of flavors associated with beverages you’d usually drink to warm up like coffee or hot chocolate.</td>
+    </tr>
+    <tr>
+    <td width="137">Sour, Wild Ale, Saison, Gose, Farmhouse ale</td>
+    <td width="117">Funky, weird, sour, salty, “what is this?”</td>
+    <td width="126">Ask the bartender- these are not always readily available</td>
+    <td width="146">Go for these when you’re feeling adventurous. Probably best as your last beer of the evening as they will overpower your taste buds.</td>
+    </tr>
+    </tbody>
+    </table>
+    <p>Follow me on Untappd: @kgreeneb33r</p>
+    <p><strong>Conclusion</strong></p>
+    <p>It can be easy to forget to stop and have some fun once the semester is in full swing, but it’s important to step away from the academics every once in a while. Hopefully, the recommendations I provided will help you enjoy your time at MIT even more, or at least help you make some decisions so a night out is as fun and stress-free as possible. Cheers!</p>
+    <p>&nbsp;</p>
+    <p><em><img alt="Picture3" class="alignnone size-full wp-image-1332" src="https://mitscmprogram.files.wordpress.com/2018/11/picture3.png?w=660" /></em></p>
+    <p><em>Celebrating another week in the books at the Thirsty Ear Pub on campus</em></p>
+    <p>Author:</p>
+    <p><img alt="Kenny" class="  wp-image-1334 alignleft" height="197" src="https://mitscmprogram.files.wordpress.com/2018/11/kenny.jpeg?w=295&#038;h=197" width="295" /></p>
+    <p>&nbsp;</p>
+    <p><strong>Kenneth Greene</strong></p>
+    <p><em>In addition to serving as class president for the SCMr program, Kenny enjoys playing and listening to music and visiting breweries wherever he goes.</em></p>
