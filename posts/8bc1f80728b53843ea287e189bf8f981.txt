@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Here’s a simple guide to use when considering the technology for supply chain operations
