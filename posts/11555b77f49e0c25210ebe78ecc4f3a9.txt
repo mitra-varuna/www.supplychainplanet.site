@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Why the RNLI brought lifeboat manufacturing in-house. Read more here:   <a href="http://ow.ly/5DgI50ouX6t">http://ow.ly/5DgI50ouX6t&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/9iyQwObrWT">pic.twitter.com/9iyQwObrWT</a></a></p> <img src="https://pbs.twimg.com/media/D3EobBVWoAAcMAW.jpg" width="250" />

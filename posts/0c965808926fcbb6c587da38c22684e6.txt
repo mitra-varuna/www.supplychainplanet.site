@@ -1,0 +1,4 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Brexit continues to slow UK construction, finds  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/IHSMarkitPMI">@<b>IHSMarkitPMI</b></a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a>
+     <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a>  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/MarchPMI?src=hash">#<b>MarchPMI</b></a> Read more here:   <a href="http://ow.ly/a5Jd50oYi4j">http://ow.ly/a5Jd50oYi4j&nbsp;</a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/o9uMikseJ2">pic.twitter.com/o9uMikseJ2</a></a></p> <img src="https://pbs.twimg.com/media/D3OTlniWsAAxTpN.jpg" width="250" />
