@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A few days ago, a colleague sent me “The Death of Supply Chain Management,” an article in the Harvard Business Review.

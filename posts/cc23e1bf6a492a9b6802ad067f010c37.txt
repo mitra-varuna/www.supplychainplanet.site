@@ -1,0 +1,3 @@
+.. raw:: html
+
+    The problem investigated by the researchers is that the manufacturer’s retailer customers were experiencing frequent OOS events at their DCs.

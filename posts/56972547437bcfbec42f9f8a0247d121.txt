@@ -1,0 +1,3 @@
+.. raw:: html
+
+    APQC and Supply Chain Management Review collected information in March 2019 from 200 supply chain professionals about the use and planned adoption of blockchain in supply chains around the world.

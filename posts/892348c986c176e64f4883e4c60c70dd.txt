@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Businesses implement the Sales and Operations Planning (S&#38;OP) process to focus, align and synchronize all the different functions of their organizations. Given the significance of this effort, it’s surprising that most businesses don’t carefully consider the risks in their S&#38;OP forecast. As a result, many businesses are run on suboptimal plans that drive up supply [&#8230;]

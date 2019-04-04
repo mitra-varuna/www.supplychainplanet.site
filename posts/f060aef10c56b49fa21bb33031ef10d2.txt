@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Navis, a part of Cargotec Corporation and the provider of operational technologies and services that unlock greater performance and efficiency for the world’s leading organizations across the shipping supply chain.

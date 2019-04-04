@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Amber Road’s new eBook, Six Steps to a Great Technology Stack, explains how your organization can leverage digital connectivity for multiple benefits.

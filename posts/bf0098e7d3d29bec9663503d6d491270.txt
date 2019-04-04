@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Constant optimizations drive transportation and logistics (T&amp;L) processes. To compete in this ever-evolving sector, you need to be able to take full advantage of the data at your disposal.

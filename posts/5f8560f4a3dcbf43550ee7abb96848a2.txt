@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Finding truckload capacity is on everyone’s minds as the capacity crunch and driver shortage worsens.

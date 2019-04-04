@@ -1,0 +1,3 @@
+.. raw:: html
+
+    For corporations managing complex supply chains, 2018 provided many familiar challenges such as factory fires, extreme weather events, earthquakes and mergers and acquisitions.

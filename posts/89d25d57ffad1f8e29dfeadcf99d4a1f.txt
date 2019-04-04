@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="https://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/TrendsTechnology_main_0119.jpg" /></p>Digital transformation is truly underway in manufacturing. While digital technologies such as cloud, mobile, big data and analytics, and Internet of Things have been industry drivers for years, manufacturers now have high expectations for the business value of technologies that are in earlier stages of adoption.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Complying with global regulations regarding pharmaceuticals without collaboration and system interoperability represents a significant challenge for trading partners.

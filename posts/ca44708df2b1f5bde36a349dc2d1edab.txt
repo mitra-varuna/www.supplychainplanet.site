@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Oracle announced a series of new innovations to Oracle Supply Chain Management Cloud it says will help global organizations create more responsive and efficient supply chains.

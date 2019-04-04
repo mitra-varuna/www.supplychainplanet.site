@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Lack of supply chain integration can be seen in misguided capacity plans, poorly calibrated production schedules, a cost imbalance for a given supplier, who may even end up out of business, buildup of excess inventory, inefficient use of logistics resources, poor customer service, lost revenues and ultimately diminished returns.

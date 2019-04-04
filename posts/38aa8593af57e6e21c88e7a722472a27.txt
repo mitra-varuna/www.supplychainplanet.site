@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Slowly, but surely, 3-D printing is moving from a niche to critical mass.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    A lean, agile supply chain helps companies anticipate and minimize the impact of disruptions.

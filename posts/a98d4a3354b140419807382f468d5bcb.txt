@@ -1,0 +1,3 @@
+.. raw:: html
+
+    March manufacturing output finished on an upswing in the first quarter, according to the monthly manufacturing Report on Business, which was issued today by the Institute for Supply Management (ISM). The report’s key metric, the PMI, headed up 1.1% to 55.3 (a reading of 50 or higher indicates growth), following a 2.4% decrease from January to February and a 2.3% increase from December to January.

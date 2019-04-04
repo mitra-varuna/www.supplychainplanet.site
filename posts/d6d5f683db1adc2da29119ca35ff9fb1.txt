@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Did you get your package from Amazon today? Good. But did you realize that Amazon is changing how it gets packages to you? If not, it’s worth a few minutes to get caught up here.

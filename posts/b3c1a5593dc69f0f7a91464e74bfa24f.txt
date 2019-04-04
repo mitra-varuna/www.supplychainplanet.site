@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Picking robots in your Distribution Center? Yeah, sure. Let someone else prove it out first.

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Running behind or being over-budget are the two most common issues facing product development teams. When one or both happen, too often manufacturing managers and supply chain supervisors try to fix this the same way they fix other problems.

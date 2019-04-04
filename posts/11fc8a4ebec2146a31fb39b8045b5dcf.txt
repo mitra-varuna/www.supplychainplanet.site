@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p><img src="https://www.inboundlogistics.com/cms//resources.inboundlogistics.com/userfiles/Casebook_main_0119.jpg" /></p>Aurora Plastics automates resin off-loading process and avoids costly inventory and quality management errors with RFID reader hardware from Janam Technologies and customized software applications from Quest Integrated Solutions.

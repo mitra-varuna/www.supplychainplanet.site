@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Gone are the days when a robot belonged only in a cage.

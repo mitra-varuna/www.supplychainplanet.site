@@ -1,0 +1,3 @@
+.. raw:: html
+
+    In a survey conducted by APQC and SCMR with 128 respondents, 40 percent of organizations currently use SRM. Learn more about supplier management trends in this infographic.

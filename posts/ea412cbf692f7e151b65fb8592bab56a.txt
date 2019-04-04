@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Costco is building a farm-to-table production system to ensure a steady supply of rotisserie chickens.
