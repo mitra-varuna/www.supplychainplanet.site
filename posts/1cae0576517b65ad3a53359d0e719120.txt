@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Djibouti ordered to pay $385m over port dispute. Read more here:   <a href="http://ow.ly/VJIv50pDV1O">http://ow.ly/VJIv50pDV1O&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/CIPSMENA">@<b>CIPSMENA</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/3H9tYg8Y2q">pic.twitter.com/3H9tYg8Y2q</a></a></p> <img src="https://pbs.twimg.com/media/D3x7SWTW0AARj7z.jpg" width="250" />

@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Despite Artificial Intelligence (AI) entering beyond-hype territory, its true value proposition is far from evident for most logistics leaders today.

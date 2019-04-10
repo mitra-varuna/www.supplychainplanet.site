@@ -1,0 +1,3 @@
+.. raw:: html
+
+    Urbanization and customer demands are making last-mile delivery optimization increasingly complex and important for retail companies. However, these companies often do not have the tools and/or capabilities to include customer-specific or environmental constrains such as time windows (implicit or explicit) and congestion patterns in their delivery plans.

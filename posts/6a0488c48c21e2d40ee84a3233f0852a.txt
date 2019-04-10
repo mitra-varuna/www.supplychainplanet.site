@@ -1,0 +1,27 @@
+.. raw:: html
+
+    <figure class="wp-block-image"><img alt="" class="wp-image-1457" src="https://mitscmprogram.files.wordpress.com/2019/04/picture.jpg?w=660" /><figcaption><em>View of the Caribbean Sea from Fort San Lorenzo, Panama</em> </figcaption></figure>
+    
+    
+    
+    <p>Written by <a href="https://www.linkedin.com/in/gundogdu/">Burak Gundogdu</a> MIT SCM Master Candidate 2019</p>
+    
+    
+    
+    <p><strong>The</strong> pirates of the Caribbean, led by Captain Morgan, had multiple supply chain and logistics problems in the 17<sup>th</sup> century. When they wanted to capture Panama, they had to figure out the best route to get from Jamaica to the doors of Fort San Lorenzo, unnoticed. After capturing Fort San Lorenzo, the pirates had to use multiple modes of transportation to get to Panama City, where precious metals brought from Latin America were stored before transportation to Europe. Their lack of inventory management also created problems due to lack of enough food during their challenging journey.</p>
+    
+    
+    
+    <p><strong>Panama </strong>is one of the three study trek options that MIT Supply Chain Management students can attend the week before spring break. During our week-long visit to Panama, one of the many places we visited was Fort San Lorenzo. Of course, our trip was much more comprehensive than historical places. It covered multiple visits to the Canal and the surrounding area, and it was a lot of fun. </p>
+    
+    
+    
+    <p><strong>During</strong> our trip, we drove over the Canal locks, took a close look at the dams, had a ferry ride and even joined a boat tour where we rode the waves of <a href="https://en.wikipedia.org/wiki/Panamax﻿">Neopanamax</a><sup>1</sup> ships. Additionally, we visited multiple companies and their distribution centers to observe different levels of automation, we drove between heavy ship-to-shore cranes at a port, walked around in one of the largest free trade zones in the world, took an elegant old-style train across the country, and even learned first-hand about a supply chain where <a href="http://2.	https://www.youtube.com/watch?v=jCw1nbUHdI8">pineapples are air shipped</a> from a small family-owned plantation to customers in Europe.</p>
+    
+    
+    
+    <p><strong>Standing</strong> at the ruins of Fort San Lorenzo and facing the Caribbean Sea, the story about the pirates’ attack on Panama works as a reminder for us that Panama is a critical region and a logistics hub for global supply chains not only today but has always been for centuries. It also reminds us that the supply chain problems that we are facing today are not new. There is no doubt that the manifestations of the problems have evolved, but the core has stayed the same. Today’s supply chain professionals also work on problems like the best route, transportation mode, and inventory management as many others, including the pirates of the Caribbean, did in the past.</p>
+    
+    
+    
+    <p><strong>Today</strong>, we are equipped with new and efficient tools and techniques to address the supply chain problems. Recent rise of digitalization, artificial intelligence, automation and alike empowers us to solve the problems in ways that were not possible in the past. This change has led supply chain management to become a critical function and a competitive advantage for companies across almost all industries. Therefore, this is the right time for leaders to re-learn supply chain management. Being a pioneer in the emerging fields shaping industries, like the ones mentioned above, MIT is the leader in supply chain management education. Our trip to Panama has not only helped me improve my understanding of various supply chain steps; it has also strengthened my belief that now is the time and MIT is the place.</p>

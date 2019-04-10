@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Audit launched into  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/procurement?src=hash">#<b>procurement</b></a> around immigration centres. Read more here:   <a href="http://ow.ly/EvZi50pD46v">http://ow.ly/EvZi50pD46v&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/CIPSAustralasia">@<b>CIPSAustralasia</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/4mwbOdA3Kc">pic.twitter.com/4mwbOdA3Kc</a></a></p> <img src="https://pbs.twimg.com/media/D3uC37mW4AAK68G.jpg" width="250" />

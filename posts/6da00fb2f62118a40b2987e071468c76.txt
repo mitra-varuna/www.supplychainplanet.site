@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Boeing cuts 737 Max production to focus on software. Read more here:   <a href="http://ow.ly/CHzD50pD1wI">http://ow.ly/CHzD50pD1wI&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/aZlq0a9ViM">pic.twitter.com/aZlq0a9ViM</a></a></p> <img src="https://pbs.twimg.com/media/D3swcnXWsAEuhNz.jpg" width="250" />

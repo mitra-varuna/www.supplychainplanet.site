@@ -1,0 +1,3 @@
+.. raw:: html
+
+    <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en">Charity calls for commission to review drug  <a class="twitter-hashtag pretty-link js-nav" dir="ltr" href="https://twitter.com/hashtag/supplychains?src=hash">#<b>supplychains</b></a>. Read more here:   <a href="http://ow.ly/qpxS50pEbOU">http://ow.ly/qpxS50pEbOU&nbsp;</a>  <a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/cipsnews">@<b>cipsnews</b></a> <a class="twitter-timeline-link u-hidden" dir="ltr" href="https://pic.twitter.com/ahn9xPONQG">pic.twitter.com/ahn9xPONQG</a></a></p> <img src="https://pbs.twimg.com/media/D3yWzGKWsAESbQS.jpg" width="250" />
